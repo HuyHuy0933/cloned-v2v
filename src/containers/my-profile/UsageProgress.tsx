@@ -24,7 +24,7 @@ const UsageProgress: React.FC<UsageProgressProps> = React.memo(
       bgIndicator = "#ffa500";
     }
 
-    const displayedVal = round ? Number(value.toFixed(1)) : value
+    const displayedVal = round ? Number((value || 0).toFixed(1)) : value
 
     return (
       <div className={cn("w-full", className)}>

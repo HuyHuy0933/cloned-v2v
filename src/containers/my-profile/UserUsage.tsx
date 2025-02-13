@@ -8,9 +8,9 @@ const UserUsage = () => {
   const { t } = useTranslation();
   const { usage, refetchUsage } = useCurrentUser();
 
-  useEffect(() => {
-    refetchUsage();
-  }, []);
+  // useEffect(() => {
+  //   refetchUsage();
+  // }, []);
 
   const audio_storage_usage_time_minutes =
     usage.recording_time_minutes + usage.audio_upload_time_minutes;
