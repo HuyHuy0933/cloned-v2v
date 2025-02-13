@@ -6,7 +6,7 @@ import { tMessages } from "@/locales/messages";
 
 const UserUsage = () => {
   const { t } = useTranslation();
-  const { usage, refetchUsage } = useCurrentUser();
+  const { usage } = useCurrentUser();
 
   // useEffect(() => {
   //   refetchUsage();
@@ -101,3 +101,4 @@ const UserUsage = () => {
 };
 
 export default UserUsage;
+
