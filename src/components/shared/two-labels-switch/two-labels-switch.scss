@@ -1,0 +1,89 @@
+.two-labels-switch {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  .label {
+    font-size: 14px;
+    font-style: italic;
+    color: #737373; /* Placeholder text color from the scheme */
+    transition: color 0.3s;
+
+    &.left {
+      color: white;
+    }
+  }
+
+  .slider {
+    position: relative;
+    display: flex;
+    flex-shrink: 0;
+    background: #6a6a6a; /* Button on hover color */
+    width: 60px;
+    height: 24px;
+    border-radius: 4px;
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.5),
+      inset 0 4px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .toggle {
+    position: absolute;
+    top: -4px;
+    left: 4px;
+    background: #77dd77; /* Pastel green */
+    width: 40%;
+    height: 100%;
+    border-radius: 4px;
+    transition: left 0.3s;
+    box-shadow:
+      0 1px 0 rgba(0, 0, 0, 0.4),
+      inset 0 1px 0 rgba(0, 0, 0, 0.05),
+      inset 0 -4px 0 #343434,
+      inset 0 -5px 0 rgba(255, 255, 255, 0.4);
+      /* Adjusted to match button color */ 
+  }
+
+  input:checked {
+    ~ .slider .toggle {
+      left: 32px
+    }
+
+    ~ .left {
+      color: #737373
+    }
+
+    ~ .right {
+      color: white
+    }
+  }
+
+  .grip {
+    position: absolute;
+    top: 50%;
+    left: 8px;
+    right: 8px;
+    margin-top: -3px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.9); /* Kept white for visibility */
+  }
+  .grip::before {
+    content: "";
+    position: absolute;
+    top: -4px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+  }
+  .grip::after {
+    content: "";
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+  }
+}

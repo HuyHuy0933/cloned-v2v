@@ -1,0 +1,1305 @@
+{
+  "bottomTabs": {
+    "recorder": "レコーダー",
+    "conversation": "会話翻訳",
+    "recordedAudios": "録音履歴",
+    "meeting": "会議"
+  },
+  "common": {
+    "startRecording": "録音開始",
+    "startRecordingNote": "録音された音声は「録音履歴」から確認できます",
+    "stopRecording": "押して録音を停止",
+    "finedTuneTitle": "話した内容を選んでください",
+    "pressCompleteNote": "完了ボタンを押すと、録音された音声は「録音履歴」から確認できます",
+    "saveToDeviceConfirm": "この録音をデバイスに保存しますか？",
+    "doneRecording": " 録音が完了しました",
+    "face2FaceMode": "⇅ 対面",
+    "parallelMode": "並列 ⇈",
+    "converNote1": "会話の",
+    "converNote2": "翻訳を",
+    "converNote3": "開始するには",
+    "converNote4": "マイクの",
+    "converNote5": "アイコンを",
+    "converNote6": "タップして",
+    "converNote7": "ください",
+    "converNote8": "会話は",
+    "converNote9": "録音されます",
+    "endConversation": "会話を終了",
+    "no": "いいえ",
+    "yes": "はい",
+    "complete": "完了",
+    "generalFinedTune": "一般",
+    "financeFinedTune": "金融 (日本語のみ)",
+    "finedTuneHint": "普通の会話の場合は「一般」を選んでください",
+    "longFinanceFinedTune": "金融 (NISA、iDeCoなど) (日本語のみ)",
+    "noSave": "保存しない",
+    "save": "保存する",
+    "removeNoiseTitle": "ノイズ除去しますか？",
+    "removeNoiseTitleHint": "⚠️複数の話者がいる場合、ノイズ除去の使用はおすすめしません",
+    "performMasking": "マスキング処理する",
+    "performMaskingHint": "⚡ 設定からマスキングする単語を追加できます。<br />機密情報を保護するためのプライバシー保護機能。",
+    "selectFile": "ファイルを選択",
+    "search": "検索...",
+    "uploadModalTitle": "音声ファイルをアップロードしてください",
+    "clickButtonAndSelectFile": "下のボタンをクリックして、アップロードするファイルを選択します。",
+    "upload": "アップロード",
+    "finedTuneLabel": "業界用語",
+    "numOfSpeakers": "話者数",
+    "noRecordHistory": "録音履歴がまだありません。",
+    "wantToRecordOrUpload": "会議を記録するか、音声サンプルを試しにアップロードしてみませんか？",
+    "deleteRecordConfirm": "録音を削除しますか？",
+    "createMeetingTitle": "オンライン会議を開催する",
+    "meetingName": "会議名",
+    "meetingNamePlaceHolder": "会議の議題を教えてください",
+    "role": "ロール",
+    "meetingContext": "背景情報の追加",
+    "meetingCtxPlaceholder": "会議の背景情報、事前に共有したい内容、想定される質問と回答などを入力してください。",
+    "setPassword": "パスコードを設定する",
+    "privateMeeting": "会議を非公開にする",
+    "toHold": "開催する",
+    "addBotTeamsMeetingTitle": "V2VボットをTeams会議に追加する",
+    "addBotTeamsMeetingTitle1": "V2Vボットを",
+    "addBotTeamsMeetingTitle2": "Teams会議に追加する",
+    "addBotTeamsMeetingTitle3": "※2時間制",
+    "teamsURL": "Teams会議URL",
+    "language": "言語",
+    "presenter": "プレゼンター",
+    "recommended": "推奨",
+    "secretary": "書記",
+    "observer": "オブサーバー",
+    "chairPerson": "議長",
+    "secretaryPCUseOnly": "書記（議事録担当）：PC利用のみ",
+    "observerNoSpeak": "オブサーバー（発言権無し）",
+    "chairPersonMaxOne": "議長（一人まで）",
+    "meetingParticipants": "参加人数：{{number}}名",
+    "kickoutIn10Sec": "10秒後に退出されます",
+    "tapToStay": "画面をタップして会議室に戻る",
+    "meetingQAPlaceholder": "何について質問しますか？",
+    "thread": "スレッド",
+    "question": "質問",
+    "send": "送信",
+    "editMsg": "メッセージを編集",
+    "replyInThread": "スレッドで返信",
+    "highlightMsg": "メッセージをハイライト",
+    "enterMsgPlaceholder": "メッセージを入力してください",
+    "replies": "件の返信",
+    "lastReply": "最終返信",
+    "yearsAgo": "{{count}}年前",
+    "monthsAgo": "{{count}}ヶ月前",
+    "daysAgo": "{{count}}日前",
+    "hoursAgo": "{{count}}時間前",
+    "minutesAgo": "{{count}}分前",
+    "secondsAgo": "{{count}}秒前",
+    "justNow": "ちょうど今",
+    "myPage": "マイページ",
+    "accountManage": "アカウント管理",
+    "microphoneTest": "マイクテスト",
+    "message": "メッセージ",
+    "setting": "設定",
+    "help": "ヘルプ",
+    "logout": "ログアウト",
+    "name": "名前",
+    "photograph": "写真",
+    "emptyInbox": "受信トレイは空です。",
+    "noticeIfHasInbox": "新しいメッセージが届いたらお知らせします。",
+    "logoutConfirm": "ログアウトしてもよろしいでしょうか？",
+    "sttSettings": "STT（音声認識）設定",
+    "sttV1": "V1",
+    "sttV2": "V2（句読点✅）",
+    "sttV3": "V3（製造）",
+    "ttsSettings": "TTS（音声生成）設定",
+    "ttsNoClonedV1": "V1",
+    "ttsNoClonedV2": "V2",
+    "ttsNoClonedJPOnly": "V3（日本語限定）",
+    "ttsCloned": "ボイスクローン利用",
+    "meetingTTSSettings": "会議TTS設定",
+    "meetingTTSPlayWhileSpeaking": "話している間に翻訳音声を再生",
+    "meetingTTSPlayAfterSpeaking": "話し終わった後に翻訳音声を再生",
+    "meetingSTTSettings": "会議STT設定",
+    "voiceCloned": "ボイスクローン",
+    "breathingTime": "息継ぎ時間",
+    "voiceCloneRegistration": "ボイスクローニング登録",
+    "cloneVoice": "声をクローンする",
+    "voiceClonedList": "ボイスクローニング一覧",
+    "translationSettings": "翻訳と自動校正設定",
+    "translationOnly": "翻訳のみ",
+    "openAITranslation": "翻訳＋自動校正 (OpenAI)",
+    "geminiTranslation": "翻訳＋自動校正 (Gemini)",
+    "autoPhraseList": "自動校正フレーズリスト",
+    "autoPhraseListPlaceHolder": "名前, 同音異義語, 業界用語など...",
+    "conversationSettings": "会話翻訳設定",
+    "conversationTTSSettings": "会話翻訳TTS設定",
+    "conversationSTTSettings": "会話翻訳STT設定",
+    "autoPlay": "翻訳された音声を自動再生する",
+    "notAutoPlay": "翻訳された音声を自動再生しない",
+    "notBackTranslate": "逆翻訳し直さない",
+    "backTranslate": "翻訳した文章を元の言語に翻訳し直す",
+    "leftVoice": "左声",
+    "rightVoice": "右声",
+    "leftBreathTime": "左：息継ぎ時間",
+    "rightBreathTime": "右：息継ぎ時間",
+    "fastTalk": "早口",
+    "usually": "普通",
+    "maskingWords": "データマスキング対象ワード",
+    "maskingWordsPlaceholder": "マスキングする単語を入力してください",
+    "developerSettings": "開発者設定",
+    "speed": "速さ",
+    "slow": "遅い",
+    "fast": "速い",
+    "emotion": "感情",
+    "neutral": "中性",
+    "anger": "怒り",
+    "disgust": "嫌悪",
+    "fear": "恐れ",
+    "happy": "ハッピー",
+    "sad": "悲しい",
+    "surprise": "驚き",
+    "gender": "性別",
+    "male": "男性",
+    "female": "女性",
+    "tone": "声調",
+    "pitch": "音高",
+    "pitchScaleNote": "1以外の値を使用すると、音質が低下する可能性があります。",
+    "intonation": "抑揚",
+    "low": "低い",
+    "high": "高い",
+    "less": "少なめ",
+    "aLot": "多め",
+    "userPrompt": "自動校正userプロンプト",
+    "systemPrompt": "自動校正systemプロンプト",
+    "termsOfUse": "利用契約",
+    "resetSettingConfirm": "アプリの設定を初期設定に戻しますか？",
+    "processingAudio": "オーディオを処理中です",
+    "copied": "クリップボードにコピーしました",
+    "summaryAI": "AI要約",
+    "transcription": "書き起こし",
+    "notAnswered": "未回答",
+    "answered": "回答済み",
+    "maxClonedSamples": "音声サンプルが最大に達しました",
+    "clonedVoiceTipTitle": "音声クローンを上手に作るコツ",
+    "clonedVoiceTip1": "約2分で読めるテキストが画面に表示されます。",
+    "clonedVoiceTip2": "静かな環境で、はっきりと大きな声で読み上げてください。",
+    "clonedVoiceTip3": "読み間違いや発音のミスをしても、気にせず読み続けていただいて問題ありません。",
+    "clonedVoiceTip4": "注意事項",
+    "clonedVoiceTip5": "録音を開始することで、「V2Vアプリ」による音声解析および声質の生成に同意いただいたものとみなされます。",
+    "clonedVoiceTip6": "この声質は、アップロードされた音声データやオンラインミーティングなどで自動生成され、ボイスクローニング（声の再現）の目的で使用されます。",
+    "clonedVoiceTip7": "生成された声質は、削除を希望されるまで安全に保管されます。",
+    "audioSamplesRegisteredIn": "に登録された音声サンプル",
+    "startRecording2": "録音を開始",
+    "endRecording": "録音を終了",
+    "recordThankYou": "録音お疲れ様でした！",
+    "processVoiceTake1Min": "ボイスクローニングの処理には約1分ほどかかります。",
+    "enterVoiceName": "音声の名前を入力してください",
+    "enterVoiceNamePlaceholder": "ふじたまさのり",
+    "startCloning": "クローニング処理を開始",
+    "recording": "録音",
+    "pause": "一時停止",
+    "clonedVoiceList": "ボイスクローニング一覧",
+    "myRegisteredVoice": "私の登録済みボイス",
+    "systemVoice": "システムボイス",
+    "deleteVoiceConfirm": "あなたのボイスを削除しますか？",
+    "you": "あなた",
+    "participants": "参加者",
+    "languageSetting": "言語設定",
+    "customVoiceUsageAmount": "ボイスクローン数",
+    "audioSamplesUsageAmount": "ボイスクローン：音声サンプル数",
+    "storageUsageTime": "ストレージ利用",
+    "noiseSuppressionUsageTime": "ノイズ除去時間",
+    "AIUsageAmount": "AI利用量（Token）",
+    "meetingUsageTime": "会議参加時間",
+    "sttUsageTime": "STT利用時間",
+    "ttsUsageChars": "TTS文字数",
+    "cloneVoiceUsageChars": "TTS文字数（ボイスクローン）",
+    "translatedUsageChars": "翻訳文字数",
+    "minutes": "分",
+    "hours": "時間",
+    "seconds": "秒",
+    "mins": "分",
+    "hrs": "時間",
+    "secs": "秒",
+    "breathTimeDesc1": "この設定では、話している途中で音声がどのタイミングで分割されるかを決めます。",
+    "breathTimeDesc2": "設定時間が短いほど、早く音声が分割され、翻訳と音声再生が行われます。",
+    "breathTimeDesc3": "話すスピードが速い場合や息継ぎが少ない場合は、短めの設定を選ぶと良いでしょう。",
+    "confirm": "確認する",
+    "chooseLanguageConfirm": "アプリを使用する前に言語設定を選択してください",
+    "changeLaterInProfile": "※設定は後から「マイページ」で変更できます。",
+    "meetingPasscodeLimit": "5桁の数字で入力してください",
+    "meetingPasscodeInvalid": "パスコードが間違っています",
+    "meetingPasscodePrompt": "パスコードを入力",
+    "joinMeeting": "参加する",
+    "teamsURLPlaceholder": "URLを入力してください",
+    "add": "追加する",
+    "return": "戻る",
+    "endMeetingConfirm": "会議を終了しますか？",
+    "chairPersonEndMeetingConfirm": "会議を終了しますか？会議が終了すると、会議室にいる全員が退室させられます。",
+    "cancel": "キャンセル",
+    "end": "終了",
+    "agenda": "アジェンダ",
+    "decisions": "決定事項",
+    "todo": "To-Do",
+    "summary": "要約",
+    "askChatBotMeeting": "どの会議について話したいですか?",
+    "askChatBotTopicToTalk": "この会議について何を知りたいですか?",
+    "aiChatTyping": "AIチャットが入力中です...",
+    "pleaseAsk": "ご質問をどうぞ！",
+    "aiChat": "AIチャット",
+    "selectMeeting": "会議を選択してください",
+    "askAnother": "他の質問をする",
+    "changeMeeting": "会議体を変える",
+    "autoDeletedChat": "チャット履歴は1日後に自動的に削除されます。",
+    "none": "なし",
+    "saveMeetingConfirm": "会議の詳細を保存しますか?保存された会議はトランスクリプトから表示できます。",
+    "enterMessage": "メッセージを入力…",
+    "today": "本日",
+    "yesterday": "昨日",
+    "unexpectedError": "予期しないエラーが発生しました。",
+    "goHome": "ホームに戻る",
+    "goBack": "戻る",
+    "botLangNotYou": "ボットの言語",
+    "selectTeamsNameModalTitle": "Teams会議の自分のユーザー名を選んでください。",
+    "confirmation": "確認",
+    "waitingBot": "ボットを待っています",
+    "trial": "トライアル",
+    "downloading": "ダウンロード中",
+    "multiUnmutedUsers": "複数ユーザーがTeamsでミュート解除されています!",
+    "copyMeetingLink": "会議リンクをコピー",
+    "botHasLeft": "V2VボットがTeams会議から退出されました!",
+    "answer": "回答する",
+    "findingLocation": "位置を検索中です...",
+    "location": "場所: ",
+    "copiedMeetingLink": "会議の共有リンクをコピーしました！",
+    "onlineV2V": "V2Vサービス：正常",
+    "checkNetwork": "接続を確認してください",
+    "internetConnected": "インターネットに接続されました",
+    "internetDisconnected": "おっと！インターネットが切断されました",
+    "enterRoom": "入室する",
+    "speakSlowly": "ゆっくり話して、区切りをつけましょう！",
+    "unmuteAll": "全員のミュート解除",
+    "muteAll": "全員をミュート",
+    "originAudio": "元の音声",
+    "interpretation": "通訳",
+    "holdStopRecording": "長押しして録音停止",
+    "networkGood": "良好",
+    "networkFair": "通常",
+    "networkModerate": "やや不安定",
+    "networkPoor": "不安定",
+    "networkOffline": "オフライン",
+    "audioDeviceSetting": "音声デバイス設定",
+    "addV2VBotTeamsMeeting": "🤖V2VボットをTeams会議に追加",
+    "holdV2VConference": "💬V2V会議を開催",
+    "userMetadataModalTitle": "録音を始める前のチェック",
+    "userMetadataModalSubTitle": "※以下のアカウント情報が正しいかご確認ください",
+    "area": "エリア",
+    "branch": "支店",
+    "returnToSettings": "設定に戻る",
+    "confirmationCompleted": "確認完了",
+    "emailAddress": "メールアドレス",
+    "hasEnteredRoom": "さんが入室しました。",
+    "hasLeftRoom": "さんが退室しました。",
+    "usageTitle": "利用状況",
+    "fontSize": "文字サイズ",
+    "smaller": "小さい",
+    "bigger": "大きい",
+    "leaving": "退出している",
+    "guestUsed": "ゲスト利用",
+    "highSpeed": "🚀 高速（環境によって効果がない場合があります）",
+    "uploading": "アップロード中",
+    "storeName": "店舗名",
+    "fullName": "氏名",
+    "mp3FileSizeLimit": "MP3ファイルをアップロード（最大10MB)",
+    "fileTooLarge": "ファイルが大きすぎます",
+    "meetingStopAlert": "会議は1分後に終了し、自動的に保存されます！",
+    "sttSettingTab": "音声認識",
+    "aiSettingTab": "AI",
+    "ttsSettingTab": "音声生成",
+    "recorderEntityExtraction": "レコーダー：エンティティ抽出",
+    "recorderTrancriptSharing": "レコーダー：ライブ転写共有",
+    "entityExtractionDesc": "録音中の情報（人物、場所、組織など）を自動的にタグ付けします。",
+    "trancriptSharingDesc": "録音中に、ライブ転写と抽出された情報へのリンクを共有できます。",
+    "supportedLanguagesText": "対応言語",
+    "spacySupportedLanguages": "カタロニア語, 中国語, クロアチア語, デンマーク語, オランダ語, 英語, フィンランド語, フランス語, ドイツ語, ギリシャ語, イタリア語, 日本語, 韓国語, リトアニア語, マケドニア語, 多言語, ノルウェー語, ブークモール語, ポーランド語, ポルトガル語, ルーマニア語, ロシア語, スロベニア語, スペイン語, スウェーデン語, ウクライナ語",
+    "entityExtraction": "エンティティ抽出",
+    "recordingPaused": "録音が一時停止されました",
+    "recordingResumed": "録音が再開されました",
+    "recordingStopped": "録音が終了しました",
+    "entityTabTitle": "この録音ではエンティティ抽出が処理されていません。",
+    "entityTabBottomTitle": "以下のボタンをクリックして、テキスト内のエンティティを分析および特定してください。",
+    "entityTabSubTitle": "検出されたカテゴリは次のとおりです：",
+    "startProcessing": "処理を開始",
+    "paused": "一時停止",
+    "ended": "終了",
+    "selectAll": "全選択",
+    "deselectAll": "解除",
+    "sentiment": "感情分析",
+    "analyzeSentiment": "感情分析する",
+    "analyzeSentimentLonger": "書き起こし内のフレーズ数が100を超える場合、処理が長くなります。<br />会話の感情トーンとセンチメントを評価します。",
+    "rowsPerPage": "ページあたりの行数",
+    "pageIndexOfTotal": "{{total}} ページ中 {{page}} ページ",
+    "showingPageRowsOfTotal": "{{total}} 件中 {{from}} 件から {{to}} 件を表示",
+    "recordSpeakerSegment": "レコーダー：話者分離",
+    "addCustomEntity": "カスタムエンティティの追加",
+    "enterEntityPlaceholder": "カテゴリを入力…",
+    "enterWordsPlayholder": "単語を入力してください",
+    "addEntity": "エンティティを追加",
+    "syncNow": "同期する",
+    "syncing": "同期中...",
+    "synced": "同期完了",
+    "refreshingPage": "ページを更新中...",
+    "AISummary": "AI要約する",
+    "AISummarySkipped": "この録音ではAI要約が処理されませんでした。",
+    "summaryAITemplate": "要約テンプレート",
+    "textCopied": "書き起こしをコピーしました！",
+    "share": "共有する",
+    "download": "ダウンロード",
+    "copy": "コピー",
+    "entity": "エンティティ",
+    "reset": "初期化",
+    "hide": "非表示",
+    "show": "表示",
+    "sort": "ソート順",
+    "filter": "フィルター",
+    "date": "日付",
+    "title": "タイトル",
+    "duration": "期間",
+    "all": "全部",
+    "startingSession": "セッションが始まります",
+    "start": "スタート",
+    "skip": "スキップ",
+    "close": "閉じる",
+    "commingSoon": "近日公開",
+    "finish": "完了",
+    "next": "次へ",
+    "tutorial": "チュートリアル",
+    "financeModelWarning": "録音1分ごとに約30秒の処理時間がかかります。",
+    "notStarted": "未開始",
+    "pending": "保留中",
+    "on": "オン",
+    "off": "オフ",
+    "size": "サイズ",
+    "joinRecordingModalTitle": "録音会議室に入室",
+    "teamsUrlFormat": "URLはhttps://teams.microsoft.com/ または https://teams.live.com/ で始まる必要があります。",
+    "addPeople": "人を追加",
+    "myFavorite": "私のお気に入り",
+    "whospeaksModelWarning": "音声認識V3では、正確な発言者ごとの分割のために会話の話者数を指定する必要があります。初期化には最大30秒かかる場合があります。",
+    "edit": "編集",
+    "save2": "保存",
+    "untitledAudio": "無題の音声",
+    "enterAnswerPlaceholder": "回答を入力してください",
+    "length": "長さ",
+    "participants2": "参加者:{{value}}名",
+    "keyword": "キーワード",
+    "original": "原文",
+    "showOriginText": "原文を表示",
+    "uploadAttachmentPlaceholder": "この録音に関連するファイルをアップロード",
+    "attachments": "添付ファイル",
+    "deleteAttachmentConfirm": "添付ファイルを削除しますか？",
+    "fileSizeLimit": "(最大{{size}}MB)",
+    "failToUpload": "アップロードに失敗しました",
+    "emptyAttachment1": "このレコードにはまだ添付ファイルがアップロードされていません。",
+    "emptyAttachment2": "右側のプラスボタンを押してファイルをアップロードしてください。",
+    "answering": "回答中",
+    "kuritaFineTuned": "プラント系",
+    "processing": "処理中",
+    "advancedSettings": "詳細設定",
+    "saveAudioAdvancedSettingsNote": "⚠️ 注意: これらの高度な機能を有効にすると、処理時間が長くなります。",
+    "AISummaryHint": "LLMモデルを使用して書き起こしを自動的に要約します。"
+  },
+  "usageTooltip": {
+    "numVoiceClones": "ボイスクローン数",
+    "numVoiceClonesDesc": "ユーザーがアカウントごとに持てる登録ボイスクローンの数。",
+    "numVoiceSamples": "ボイスクローン：音声サンプル数",
+    "numVoiceSamplesDesc": "ユーザーがボイスクローンの質を向上させるためにアップロードできる音声サンプルの数。",
+    "storageUsage": "ストレージ利用",
+    "storageUsageDesc": "音声録音、音声アップロード、または会議の録音から保存された総時間を示しています。",
+    "noiseReductionTime": "ノイズ除去時間",
+    "noiseReductionTimeDesc": "音声を保存またはアップロードする際に、ノイズ除去オプションを選択したときにかかる時間。",
+    "AIUsageToken": "AI利用量 (Token)",
+    "AIUsageTokenDesc": "ユーザーがAIによる要約を行ったり、会議中にAIに質問をしたり、会議の録音について質問する際に使用されるトークンの数。",
+    "meetingJoinTime": "会議参加時間",
+    "meetingJoinTimeDesc": "ユーザーがどれだけの時間、会議に参加していたかを表します。",
+    "STTUsageTime": "STT利用時間",
+    "STTUsageTimeDesc": "すべての機能で使用された音声認識（Speech-to-Text）の総時間。音声を文字に変換するために使われた時間です。",
+    "TTSUsageTime": "TTS利用時間",
+    "TTSUsageTimeDesc": "すべての機能で使用されたテキスト読み上げ（Text-to-Speech）の総時間。テキストを音声で再生するために使われた時間です。",
+    "numTTSCharacters": "TTS文字数（ボイスクローン）",
+    "numTTSCharactersDesc": "ボイスクローン機能を使用して、すべての機能で使用されたテキスト読み上げの時間。",
+    "transCharacterCount": "翻訳文字数",
+    "transCharacterCountDesc": "翻訳に使用された総文字数。"
+  },
+  "finedTuneTooltip": {
+    "title": "「業界用語」設定とは？",
+    "description": "「業界用語」設定は、特定の業界で使用される専門用語や略語などを、事前にAIモデルで学習させたものです。この設定を利用することで、難解な単語や固有名詞、略語をより正確に認識し、より高精度な音声認識を提供します。",
+    "selectSettings": "選択可能な設定:",
+    "general": "一般 (General)",
+    "generalDesc": "どの業界にも特化しておらず、特定の単語を事前学習していません。すべての分野に対応可能な基本的な認識モデルです。",
+    "finance": "金融 (Finance)",
+    "financeDesc": "金融業界に特化した単語や略語を事前学習しています。例えば、以下のような金融用語がより正確に認識されます："
+  },
+  "meetingRoleTooltip": {
+    "presenterDesc1": "発言が許可された参加者です。",
+    "presenterDesc2": "会議中に発言する予定、または発言する可能性のある方を選択します。",
+    "presenterDesc3": "複数人が選ぶことが可能です。",
+    "secretaryDesc1": "発言が許可された参加者です。",
+    "secretaryDesc2": "書記には特別なUIが提供され、PCの横向き画面で表示が推奨されます。",
+    "observerDesc1": "発言権のない参加者です。",
+    "observerDesc2": "発言する予定はないものの、会議に参加して内容を聴取する役割です。",
+    "observerDesc3": "複数人が選ぶことが可能です。",
+    "chairPersonDesc1": "発言が許可された参加者で、会議を強制的に終了させる権限を持ちます。",
+    "chairPersonDesc2": "一人のみ選択が可能です。",
+    "bottomNote": "会議終了時に最後に退出する参加者、または議長は、議事録を保存する権限を持っています。"
+  },
+  "meetingCtxTooltip": {
+    "desc": "事前に会議の背景情報や重要なポイント、想定される質問とその回答をここに入力できます。この情報は、会議中のAIによる質問機能でも使用されます。AIは会議の内容と、この事前情報をもとに、参加者からの質問に自動回答します。事前に提供された情報を充実させることで、より正確で迅速な回答が得られる可能性が高まります。"
+  },
+  "termsOfUseTooltip": {
+    "buttonTitle": "利用契約",
+    "title": "V2V 利用規約（ドラフト版）",
+    "desc1": "本利用規約（以下、「本規約」といいます。）は、",
+    "desc2": "AtPeak株式会社",
+    "desc3": "（以下、「当社」といいます。）が提供する同時翻訳サービス「V2V」（以下、「本サービス」といいます。）の利用条件を定めるものです。本サービスは現在プロトタイプ版で提供されており、本規約もドラフト版となっております。本サービスをご利用いただく際には、本規約に同意いただく必要があります。",
+    "desc4": "作成日：2024年9月19日",
+    "term1": "第1条（適用）",
+    "term1Desc1": "本規約は、本サービスの提供条件および本サービスの利用に関する当社とユーザーとの間の権利義務関係を定めることを目的とし、ユーザーは本規約に従って本サービスを利用するものとします。",
+    "term1Desc2": "本規約の内容と本サービスに関する個別の利用規約等が異なる場合は、個別の利用規約等が優先して適用されます。",
+    "term2": "第2条（定義） 本規約における用語の定義は、以下の通りとします。",
+    "term2Desc": "本規約は、本サービスの提供条件および本サービスの利用に関する当社とユーザーとの間の権利義務関係を定めることを目的とし、ユーザーは本規約に従って本サービスを利用するものとします。",
+    "term3": "第3条（アカウントの作成）",
+    "term3Desc1": "ユーザーが本サービスを利用するには、メールアドレスおよびパスワードを設定し、アカウントを作成する必要があります。また、名前の登録も必要です。",
+    "term3Desc2": "アカウント作成時に提供された情報が虚偽である場合、当社はそのアカウントの使用を停止または削除することができるものとします。",
+    "term4": "第4条（料金および支払方法）",
+    "term4Desc1": "現在、本サービスの料金体系および支払い方法は決定されておりません。料金や支払いに関する詳細が決まり次第、本規約を更新し、ユーザーに通知いたします。",
+    "term5": "第5条（禁止事項）",
+    "term5Desc1": "ユーザーは、本サービスの利用にあたり、以下の行為を行ってはならないものとします。",
+    "term5Desc2": "政治活動に本サービスを使用すること。具体的には、政治家、政党、党派、または政治団体による自身またはその団体の活動を支援する目的での使用は禁止します。",
+    "term5Desc3": "特定の政治家、政党、党派、または政治団体を宣伝する行為、またはこれらを貶める行為。",
+    "term5Desc4": "当社または第三者の著作権、商標権、その他の知的財産権を侵害する行為。",
+    "term5Desc5": "政治家や有名人、あるいは一般人の声を、本人の許可なく模倣して使用する行為。",
+    "term5Desc6": "当社または第三者の著作権、商標権、その他の知的財産権を侵害する行為。",
+    "term5Desc7": "その他、法令に違反する行為、公序良俗に反する行為、または当社が不適切と判断する行為。",
+    "term6": "第6条（サービスの提供停止等）当社は、以下のいずれかに該当する場合、ユーザーに事前に通知することなく、本サービスの全部または一部の提供を停止または中断することができるものとします。",
+    "term6Desc1": "本サービスにかかるコンピュータシステムの保守点検または更新を行う場合。",
+    "term6Desc2": "天災地変、火災、停電、その他の不可抗力により、本サービスの提供が困難となった場合。",
+    "term6Desc3": "コンピュータまたは通信回線等が事故により停止した場合。",
+    "term6Desc4": "その他、当社が本サービスの提供が困難と判断した場合。",
+    "term7": "第7条（利用制限および登録抹消）",
+    "term7Desc1": "当社は、ユーザーが以下のいずれかに該当する場合、事前の通知なく、アカウントを一時的に利用停止または登録抹消することができるものとします。",
+    "term7Desc2": "本規約のいずれかの条項に違反した場合。",
+    "term7Desc3": "登録情報に虚偽の事実があることが判明した場合。",
+    "term7Desc4": "その他、当社が本サービスの利用を適当でないと判断した場合。",
+    "term8": "第8条（免責事項）",
+    "term8Desc1": "当社は、本サービスの提供に関して、当社の故意または重大な過失がない限り、損害賠償責任を負わないものとします。",
+    "term8Desc2": "本サービスの利用に際して生じたユーザー間または第三者とのトラブルについて、当社は一切の責任を負わないものとします。",
+    "term9": "第9条（本規約の変更）",
+    "term9Desc": "当社は、必要と判断した場合には、ユーザーに通知することなく、いつでも本規約を変更することができるものとします。変更後の本規約は、当社が別途定める場合を除き、本サービス上に表示した時点より効力を生じるものとします。",
+    "term10": "第10条（準拠法および裁判管轄）",
+    "term10Desc": "本規約の解釈にあたっては、日本法を準拠法とします。また、本サービスに関して紛争が生じた場合には、東京地方裁判所を第一審の専属的合意管轄裁判所とします。"
+  },
+  "cloneTelePrompter": {
+    "line1": {
+      "text": "皆さん、こんにちは！"
+    },
+    "line2": {
+      "text": "今日も皆さんと一緒にお話できることをとても楽しみにしていました。"
+    },
+    "line3": {
+      "text1": "今回は、近年のAIとテクノロジーの",
+      "text2": "飛躍的",
+      "text3": "ひやくてき",
+      "text4": "な進歩と、その",
+      "text5": "歴史",
+      "text6": "れきし",
+      "text7": "についてお話ししたいと思います。"
+    },
+    "line4": {
+      "text": "それでは、さっそく始めましょう！"
+    },
+    "line5": {
+      "text": "人工知能（AI）の歴史は1950年代にさかのぼります。"
+    },
+    "line6": {
+      "text1": "当時、",
+      "text2": "計算機科学",
+      "text3": "けいさんきかがく",
+      "text4": "の",
+      "text5": "先駆者",
+      "text6": "せんくしゃ",
+      "text7": "たちは、人間の知能を機械で再現するという",
+      "text8": "壮大",
+      "text9": "そうだい",
+      "text10": "な目標を掲げました。"
+    },
+    "line7": {
+      "text1": "1956年に開催された",
+      "text2": "ダートマス会議",
+      "text3": "は、AI研究の",
+      "text4": "黎明期",
+      "text5": "れいめいき",
+      "text6": "を象徴する出来事として知られています。"
+    },
+    "line8": {
+      "text1": "その後、AI研究は一時的に",
+      "text2": "停滞",
+      "text3": "ていたい",
+      "text4": "しましたが、1980年代には",
+      "text5": "エキスパートシステム",
+      "text6": "が登場し、再び注目を集めました。"
+    },
+    "line9": {
+      "text": "しかし、十分な計算能力やデータが不足していたため、期待された成果は得られませんでした。"
+    },
+    "line10": {
+      "text1": "2000年代に入り、計算能力の飛躍的な向上とビッグデータの",
+      "text2": "蓄積",
+      "text3": "ちくせき",
+      "text4": "により、AI研究は新たな",
+      "text5": "局面",
+      "text6": "きょくめん",
+      "text7": "を迎えました。"
+    },
+    "line11": {
+      "text1": "特に、",
+      "text2": "深層学習",
+      "text3": "しんそうがくしゅう",
+      "text4": "の技術が発展し、画像認識や音声認識などの分野で",
+      "text5": "画期的",
+      "text6": "かっきてき",
+      "text7": "な成果が生まれました。"
+    },
+    "line12": {
+      "text": "例えば、自動運転の技術は、AIの進歩によって大きく向上しました。"
+    },
+    "line13": {
+      "text": "車はセンサーやカメラから得た情報をもとに、自ら判断して走行することが可能になっています。"
+    },
+    "line14": {
+      "text1": "これにより、交通事故の減少や移動の",
+      "text2": "効率化",
+      "text3": "こうりつか",
+      "text4": "が期待されています。"
+    },
+    "line15": {
+      "text": "また、自然言語処理の分野でも大きな進展があります。"
+    },
+    "line16": {
+      "text": "AIは人間の言葉を理解し、翻訳や要約、さらには文章の生成まで行えるようになりました。"
+    },
+    "line17": {
+      "text": "この技術は、国際的なコミュニケーションや情報共有を促進する上で非常に重要です。"
+    },
+    "line18": {
+      "text1": "さらに、",
+      "text2": "医療",
+      "text3": "いりょう",
+      "text4": "の分野でもAIが活用されています。"
+    },
+    "line19": {
+      "text1": "病気の早期",
+      "text2": "診断",
+      "text3": "しんだん",
+      "text4": "や治療法の開発において、AIは膨大なデータを解析し、貴重な",
+      "text5": "洞察",
+      "text6": "どうさつ",
+      "text7": "を提供しています。"
+    },
+    "line20": {
+      "text": "これにより、多くの命が救われる可能性があります。"
+    },
+    "line21": {
+      "text": "しかし、AIの進歩には課題もあります。"
+    },
+    "line22": {
+      "text1": "倫理的な問題やプライバシーの保護、",
+      "text2": "偏見",
+      "text3": "へんけん",
+      "text4": "の排除など、解決すべき問題は山積みです。"
+    },
+    "line23": {
+      "text": "だからこそ、技術の開発と同時に、その活用方法についても慎重に考える必要があります。"
+    },
+    "line24": {
+      "text": "最後に、私たちはこの技術の恩恵を最大限に受けるために、常に学び続けることが大切です。"
+    },
+    "line25": {
+      "text": "新しい技術を理解し、自分の生活や仕事にどのように取り入れるかを考えてみましょう。"
+    },
+    "line26": {
+      "text": "そうすることで、より豊かな未来を築くことができるでしょう。"
+    },
+    "line27": {
+      "text": "最後までお聞きいただき、ありがとうございます。"
+    },
+    "line28": {
+      "text": "今日お話ししたことが、皆さんの知識を深める一助となれば幸いです。"
+    },
+    "line29": {
+      "text": "これからも、最新の情報や興味深いトピックをお届けしていきますので、ぜひまた次回も楽しみにしていてください。"
+    },
+    "line30": {
+      "text": "それでは、次回までどうぞお元気で！"
+    }
+  },
+  "faqs": {
+    "categories": {
+      "all": "全て",
+      "usage": "利用方法",
+      "account": "アカウント",
+      "system": "システム",
+      "support": "サポート",
+      "data": "データ",
+      "pricing": "料金",
+      "other": "その他"
+    },
+    "usage": {
+      "faq1": {
+        "title": "会話を削除するには？",
+        "desc": "iOS、Androidともに、「録音履歴」タブで会話を表示しているときに左にスワイプすると、その録音を削除できます。"
+      },
+      "faq2": {
+        "title": "V2Vは何に使えますか？",
+        "desc": "会話を文字起こしし、検索や共有を簡単にします。会議やインタビュー中のメモ取り、運転中のアイデア記録、音声ファイルの文字起こしなどに。録音中に写真も撮って記録に残せます。"
+      },
+      "faq3": {
+        "title": "V2VはZoomの録音に対応していますか？",
+        "desc": "現在、ZoomやTeamsの拡張機能/プラグインは提供しておりませんが、開発中です。"
+      },
+      "faq4": {
+        "title": "電話の録音はできますか？",
+        "desc": "現時点では、スマートフォンの通話録音は正式にはサポートされていません。電話をスピーカーモードにし、別の端末で録音するなどの回避策をお試しください。"
+      },
+      "faq5": {
+        "title": "文字起こしの精度を上げるにはどうすればいいですか？",
+        "desc": "録音デバイスを近くに置き、相手の声がはっきり聞こえるようにしてください。背景雑音や音楽は最小限に抑え、複数の人が同時に話さないようにしてください。"
+      },
+      "faq6": {
+        "title": "削除した会話は復元できますか？",
+        "desc": "一度削除したデータの復元はできませんのでご注意ください。"
+      },
+      "faq7": {
+        "title": "文字起こししたテキストを編集することはできますか？",
+        "desc": "編集はできません。"
+      },
+      "faq8": {
+        "title": "文字起こししたテキストを他のアプリにエクスポートできますか？",
+        "desc": "画面右上にある「コピー」ボタンを押すと、テキストがクリップボードにコピーされますので、任意の場所に貼り付けることができます。"
+      },
+      "faq9": {
+        "title": "文字起こししたテキストを共有する方法は？",
+        "desc": "画面右上にある「コピー」ボタンを押すと、テキストがクリップボードにコピーされますので、任意の場所に貼り付けることができます。"
+      },
+      "faq10": {
+        "title": "複数人で同時にV2Vを使用できますか？",
+        "desc": "はい、複数人での同時使用が可能です。"
+      },
+      "faq11": {
+        "title": "V2Vで作成した議事録を翻訳できますか？",
+        "desc": "はい、自動翻訳機能で議事録の翻訳が可能です。"
+      },
+      "faq12": {
+        "title": "録音中にノイズが発生した場合、除去する機能はありますか？",
+        "desc": "はい、ノイズ除去機能オプションが搭載されています。ただし、ノイズ除去は複数の話者がいる録音や、元の音声をそのまま残したい場合には推奨されません。処理が行われるため、場合によっては他の話者の声が消えてしまったり、音声が歪むことがあります。"
+      },
+      "faq13": {
+        "title": "会議の録画をV2Vで文字起こしできますか？",
+        "desc": "会議の録画は、動画ファイルをMP3形式に変換し、アップロード機能を使用することで文字起こしが可能です。"
+      },
+      "faq14": {
+        "title": "文字起こしの速度を調整できますか？",
+        "desc": "文字起こしの速度は調整できません。また、ネットワークの品質にも依存するため、V2Vをご利用の際は良好なネットワーク環境にいることを確認してください。"
+      },
+      "faq15": {
+        "title": "タイムスタンプは挿入されますか？",
+        "desc": "はい、発言ごとにタイムスタンプが挿入されます。"
+      }
+    },
+    "account": {
+      "faq1": {
+        "title": "V2Vアカウントを削除するにはどうすればいいですか？",
+        "desc": "kenji.sakuramoto@at-peak.com までご連絡ください。"
+      },
+      "faq2": {
+        "title": "アカウントを削除すると、データはどうなりますか？",
+        "desc": "アカウント削除後、データも完全に削除され、復元できません。"
+      },
+      "faq3": {
+        "title": "アカウント作成時に登録したメールアドレスの変更は出来ますか？",
+        "desc": "はい、メールアドレスの変更は可能です。kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq4": {
+        "title": "アカウント登録の方法を教えてください。",
+        "desc": "V2V登録ページでメールアドレスとパスワードを入力し、登録できます。"
+      },
+      "faq5": {
+        "title": "ログインの方法を教えてください。",
+        "desc": "登録したメールアドレスとパスワードを使用してログインします。"
+      }
+    },
+    "system": {
+      "faq1": {
+        "title": "対応デバイスは何ですか？",
+        "desc": "V2Vはウェブブラウザでご利用いただけます。iOS版およびAndroid版アプリは2024年末にリリース予定です。"
+      },
+      "faq2": {
+        "title": "V2Vの最新バージョンは？",
+        "desc": "最新のバージョン番号は、以下のリンクから確認できます: https://pastebin.com/z3nqZkKg 。 また、プロフィールアイコンを押すと、現在のウェブサイトのバージョン番号が下部に表示されますので、そちらでも確認可能です。"
+      },
+      "faq3": {
+        "title": "利用するにはネットワーク接続が必要ですか？",
+        "desc": "はい、リアルタイムでの文字起こしには安定したネットワーク接続が必要です。（Wi-Fi推奨）"
+      },
+      "faq4": {
+        "title": "対応言語は何ですか？",
+        "desc": "英語、中国語、ベトナム語、ドイツ語、フランス語、韓国語、ロシア語、イタリア語、スペイン語、ヒンディー語、タイ語、アラビア語。今後、さらに対応言語を増やしていく予定です。"
+      },
+      "faq5": {
+        "title": "V2Vはどのような仕組みで動いていますか？",
+        "desc": "V2Vはクラウドベースで動作し、リアルタイムの音声認識と翻訳機能を提供します。"
+      },
+      "faq6": {
+        "title": "方言には対応していますか？",
+        "desc": "現在は標準的な日本語と英語に対応していますが、特定の方言への対応には限りがあります。"
+      },
+      "faq7": {
+        "title": "翻訳の精度はどれくらいですか？",
+        "desc": "標準的な会話においては高い精度を保っていますが、専門用語や特殊な表現には精度が変動する場合があります。"
+      },
+      "faq8": {
+        "title": "オフラインで利用できますか？",
+        "desc": "オフラインではご利用いただけません。インターネット接続が必要です。"
+      },
+      "faq9": {
+        "title": "他のビデオ会議ツールとの連携は？ (例: Teams, Webex)",
+        "desc": "現在、Microsoft Teamsとの連携機能が提供されています。Google MeetやWebexとの連携は今後の予定です。"
+      },
+      "faq10": {
+        "title": "デスクトップアプリはありますか？",
+        "desc": "V2Vはブラウザベースで動作し、デスクトップアプリは提供されていません。"
+      },
+      "faq11": {
+        "title": "専門用語や業界用語に対応できますか？",
+        "desc": "特定の専門用語や業界用語を事前に訓練することで、認識精度を向上させることが可能です。こちらはエンタープライズプランで提供できますので、詳細については kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq12": {
+        "title": "話者が複数いる場合、話者を区別できますか？",
+        "desc": "録音機能と音声アップロード機能は、AIが複数の話者を区別し、発言者ごとに書き起こしを行う機能があります。なお、リアルタイムでの話者分離はできません。"
+      },
+      "faq13": {
+        "title": "音声ファイルのフォーマットは何に対応していますか？",
+        "desc": "MP3が対応されています。"
+      },
+      "faq14": {
+        "title": "対応OSは何ですか？",
+        "desc": "対応OSは、Chromeブラウザが利用可能な全てのOSに対応しています（推奨ブラウザはChromeです）。音質を確保するために、ヘッドセットの使用も推奨します。"
+      },
+      "faq15": {
+        "title": "ブラウザは何に対応していますか？",
+        "desc": "対応ブラウザはChromeが推奨ですが、他のブラウザでもご利用いただけます。ただし、他のブラウザでは品質を保証できない場合があります。"
+      },
+      "faq16": {
+        "title": "推奨されるインターネット回線速度は？",
+        "desc": "高速かつ安定した接続が推奨されます（10Mbps以上）。"
+      },
+      "faq17": {
+        "title": "V2Vの動作に必要なPCスペックは？",
+        "desc": "V2Vの動作には、Chromeブラウザがスムーズに動作するPCが必要です。また、マイクとスピーカー（ヘッドセット推奨）を備えた環境をご用意ください。"
+      }
+    },
+    "support": {
+      "faq1": {
+        "title": "フィードバックはどこに送ればいいですか？",
+        "desc": "kenji.sakuramoto@at-peak.com までメールでお送りください。"
+      },
+      "faq2": {
+        "title": "ログインできない場合はどうすればよいですか？",
+        "desc": "パスワードを忘れた場合はリセット機能をご利用いただくか、kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq3": {
+        "title": "パスワードを忘れた場合はどうすればよいですか？",
+        "desc": "パスワードリセットリンクを使用して新しいパスワードを設定してください。"
+      },
+      "faq4": {
+        "title": "V2Vに関するお問い合わせはどこにすればよいですか？",
+        "desc": "詳細は kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      }
+    },
+    "data": {
+      "faq1": {
+        "title": "データは安全に保管されますか？",
+        "desc": "お客様のデータのプライバシーとセキュリティを確保します。データは暗号化され、安全なデータセンターに保管されます。詳細は利用規約およびプライバシーポリシーをご覧ください。"
+      },
+      "faq2": {
+        "title": "自分のデータはどこに保存されますか？",
+        "desc": "データは安全なクラウドサーバー上に保存されます。"
+      },
+      "faq3": {
+        "title": "データのバックアップはどのように行われますか？",
+        "desc": "定期的なバックアップが行われ、災害時に備えています。"
+      },
+      "faq4": {
+        "title": "2段階認証はありますか？",
+        "desc": "現在、2段階認証のオプションはありませんが、セキュリティ対策は強化されています。"
+      },
+      "faq5": {
+        "title": "V2Vのセキュリティ対策について教えてください。",
+        "desc": "データは暗号化され、安全な環境で保護されています。"
+      },
+      "faq6": {
+        "title": "データの暗号化はどのように行われていますか？",
+        "desc": "データはAES-256で暗号化されます。"
+      }
+    },
+    "pricing": {
+      "faq1": {
+        "title": "費用はかかりますか？",
+        "desc": "詳細は kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq2": {
+        "title": "無料トライアルはありますか？",
+        "desc": "はい、無料トライアルをご利用いただけます。"
+      },
+      "faq3": {
+        "title": "料金プランは？",
+        "desc": "詳細な料金プランについては kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq4": {
+        "title": "録音データを保存できる期間は？",
+        "desc": "データの保存期間については、契約プランにより異なります。"
+      },
+      "faq5": {
+        "title": "録音データの容量制限は？",
+        "desc": "プランごとに異なる制限があります。詳細はお問い合わせください。"
+      }
+    },
+    "other": {
+      "faq1": {
+        "title": "V2Vの開発元は？",
+        "desc": "株式会社At-Peakが開発しています。"
+      },
+      "faq2": {
+        "title": "V2VのAPIはありますか？",
+        "desc": "API提供は可能です。詳細は kenji.sakuramoto@at-peak.com にお問い合わせください。"
+      },
+      "faq3": {
+        "title": "V2Vの利用規約はどこで確認できますか？",
+        "desc": "詳細は kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq4": {
+        "title": "プライバシーポリシーはどこで確認できますか？",
+        "desc": "詳細は kenji.sakuramoto@at-peak.com までお問い合わせください。"
+      },
+      "faq5": {
+        "title": "会話を録音するために、法的に他の人の許可を得る必要がある特定の管轄地域はありますか？",
+        "desc": "ご利用になる地域や具体的な状況によって異なります。ご利用になる地域の録音に関する法律を調査し、理解することをお勧めします。"
+      }
+    }
+  },
+  "language": {
+    "en_US": "英語",
+    "ja_JP": "日本語",
+    "vi_VN": "ベトナム語",
+    "zh_CN": "中国語",
+    "de_DE": "ドイツ語",
+    "fr_FR": "フランス語",
+    "ko_KR": "韓国語",
+    "it_IT": "イタリア語",
+    "es_ES": "スペイン語",
+    "ru_RU": "ロシア語",
+    "hi_IN": "ヒンディー語",
+    "th_TH": "タイ語",
+    "ar_SA": "アラブ語"
+  },
+  "meetingRemindModal": {
+    "title": "V2V会議を効果的に活用する方法",
+    "subTitle": "※特に多言語会議の場合",
+    "desc1": "聞き手を意識して、ゆっくり話しましょう。",
+    "desc2": "聞き取りやすい声と調子で話しましょう。",
+    "desc3": "話を区切ると、翻訳された音声が早く聞き手に届き、自然な会話に近づけることができます。",
+    "desc4": "話すスピードが速すぎると、V2Vから案内が表示されることがあります。",
+    "desc5": "一度入室すると、言語設定は変更できません。変更したい場合は戻るボタンを押して、設定を変えて再度入室してください。",
+    "desc6": "【PCのみ】スペースキーで、マイクのオン/オフや手を挙げることができます！",
+    "desc7": "【PCのみ】 設定ページからマイク入力とスピーカー出力を調整できます。",
+    "desc8": "【翻訳機能】元音声と翻訳音声を同時に聞くためには、2チャンネル出力対応のヘッドセットをご使用ください。各音量は右上のスピーカーアイコンから調整できます。"
+  },
+  "privateMeetingTooltip": {
+    "title": "非公開にする",
+    "desc1": "会議室を非公開に設定すると、他のユーザーに公開されなくなります。",
+    "desc2": "非公開の会議室に参加するには、会議リンクを共有する必要があります。",
+    "desc3": "会議リンクは、会議室に参加後、右上に表示されるリンクボタンから共有できます。",
+    "desc4": "他のユーザーにリンクを共有して、会議室にアクセスできるようにしましょう。"
+  },
+  "setting": {
+    "microphoneTooltip": "使用するマイクデバイスを選択してください。",
+    "speakerTooltip": "音声出力用のデバイスを選択してください。",
+    "sttTooltip": "STT（音声認識）とは、音声をテキストに変換する機能です。自動的に句読点を挿入し、より自然な書き起こしを実現する最新モデル「V2」の使用を推奨します（デフォルト設定）。",
+    "ttsTooltip": "TTS（音声合成）とは、テキストを自然な音声に変換する機能です。「V2」モデルを推奨します（デフォルト設定）。ボイスクローンを使用する場合は、「ボイスクローン利用」を利用してください。",
+    "reverseTooltip": "逆翻訳とは、翻訳された文章を元の言語に再び翻訳します。例えば、英語の文章を日本語に翻訳した後、AIがその日本語訳を英語に戻して翻訳します。この方法で、元の文章と逆翻訳された文章を比較し、翻訳の正確さを客観的に確認することができます。",
+    "reverseTooltipNote1": "この機能は",
+    "reverseTooltipNote2": "のみ利用できます",
+    "maskingTooltip": "マスキングしたい単語を追加します。アップロードや保存時にデータマスキングを有効にすると、AIが音声内の単語をビープ音に置き換え、書き起こしテキストではその単語を非表示にしてプライバシーを守ります。",
+    "sttTabDesc": "音声をテキストに変換するエンジンを選択し、カスタム単語やフレーズの区切り時間を設定できます。",
+    "aiTabDesc": "AIエンジンを選び、自動補正、データマスキング、情報抽出の設定ができます。",
+    "ttsTabDesc": "テキストを音声に変換するエンジンを選び、声のクローン登録や再生方法を設定できます。"
+  },
+  "shareHistoryMeeting": {
+    "shareThisProject": "この録音を共有",
+    "sendInvite": "招待を送信",
+    "whoHasAccess": "アクセス権を持つユーザー",
+    "inviteOthersByNameOrEmail": "メールアドレスで他のユーザーを招待します",
+    "owner": "オーナー",
+    "canEdit": "編集可",
+    "viewOnly": "閲覧のみ",
+    "you": "あなた",
+    "copyLink": "リンクをコピー",
+    "success": "成功",
+    "somethingWentWrong": "問題が発生しました"
+  },
+  "clonedVoiceTips": {
+    "tip1": "(アプリ内録音) 約2分で読めるテキストが表示されます。",
+    "tip2": "(アップロード）右上のボタンから音声サンプルをアップロード可能。",
+    "tip3": "良質なマイクやデバイスで録音する。",
+    "tip4": "雑音の少ない環境で録音する。",
+    "tip5": "2分ほどの音声クリップを複数録音またはアップロードする。",
+    "tip6": "自然な声とテンポで話す。",
+    "tip7": "感情の高低がある部分を数秒含めると効果的。"
+  },
+  "entityLabel": {
+    "person": {
+      "title": "人物",
+      "desc": "人物、架空のキャラクターを含む。",
+      "example": "山田太郎"
+    },
+    "norp": {
+      "title": "民族・宗教・政治団体",
+      "desc": "国籍、宗教、または政治的団体。",
+      "example": "仏教徒、日本人、社会主義者"
+    },
+    "org": {
+      "title": "組織",
+      "desc": "会社、機関、団体など。",
+      "example": "トヨタ、NHK、日本赤十字社"
+    },
+    "gpe": {
+      "title": "地政",
+      "desc": "国、都市、州など。",
+      "example": "日本、東京都、アメリカ"
+    },
+    "loc": {
+      "title": "場所",
+      "desc": "国以外の地名、山岳、水域など。",
+      "example": "富士山、琵琶湖、太平洋"
+    },
+    "product": {
+      "title": "製品",
+      "desc": "物品、車、食べ物など（サービスを除く）。",
+      "example": "カローラ、iPhone、抹茶"
+    },
+    "event": {
+      "title": "イベント",
+      "desc": "名付けられた台風、戦争、スポーツイベントなど。",
+      "example": "東京オリンピック、戦国時代"
+    },
+    "work_of_art": {
+      "title": "芸術作品",
+      "desc": "書籍、映画などのタイトル。",
+      "example": "吾輩は猫である、乙女向けセロリ"
+    },
+    "language": {
+      "title": "言語",
+      "desc": "任意の名前付き言語。",
+      "example": "日本語、英語"
+    },
+    "date": {
+      "title": "日付",
+      "desc": "絶対または相対的な日付や期間。",
+      "example": "2024年1月1日"
+    },
+    "time": {
+      "title": "時間",
+      "desc": "1日以下の時間。",
+      "example": "午前3時30分、真夜中"
+    },
+    "percent": {
+      "title": "パーセント",
+      "desc": "パーセンテージ。「%」を含む。",
+      "example": "75%、3.14%"
+    },
+    "money": {
+      "title": "金額",
+      "desc": "通貨単位を含む金額。",
+      "example": "100円、5000円"
+    },
+    "quantity": {
+      "title": "数量",
+      "desc": "重さや距離などの測定値。",
+      "example": "10キログラム、5キロメートル"
+    },
+    "ordinal": {
+      "title": "序数",
+      "desc": "「第一」、「第二」など。",
+      "example": "一番、二番"
+    },
+    "cardinal": {
+      "title": "基数",
+      "desc": "他の型に該当しない数値。",
+      "example": "1、100、250"
+    }
+  },
+  "sentiment": {
+    "positiveConversation": "ポジティブな会話",
+    "negativeConversation": "ネガティブな会話",
+    "sentimentScore": "感情スコア",
+    "stackedBarChart": "積み上げ棒グラフ",
+    "scatterChart": "散布図",
+    "stackedBarChartTooltip": {
+      "title": "このグラフは、会話の感情分析の概要を示しています：",
+      "aggregateSentiment": "総合感情",
+      "aggregateSentimentDesc": "全会話のスコア * 強度の加重合計として計算される、全体的な感情スコアを表します。",
+      "totalConversation": "合計会話数",
+      "totalConversationDesc": "分析されたフレーズや文の合計数。",
+      "posNegConversation": "ポジティブ & ネガティブな会話",
+      "posNegConversationDesc": "単一の水平バーとして表示され、比較しやすいようにポジティブな会話がネガティブな会話の上に積み重ねられています。",
+      "bottomDesc": "この可視化は、会話における感情の傾向を特定し、全体的なポジティブまたはネガティブな顧客フィードバックを強調するのに役立ちます。"
+    },
+    "scatterChartTooltip": {
+      "desc1": "このグラフは、IDに基づいて時間とともに話されたフレーズの感情を視覚化します。",
+      "desc2": "Y軸は感情スコアを示し、-1（非常にネガティブ）から1（非常にポジティブ）の範囲です。",
+      "desc3": "各円のサイズは感情の強度（マグニチュード）に対応します。",
+      "desc4": "ポジティブな感情スコアは緑色のトーンで、ネガティブなスコアは赤色のトーンで表示されます。",
+      "desc5": "円にカーソルを合わせると、話者、感情スコア、強度を含むフレーズの詳細が表示されます。"
+    },
+    "tableTooltip": {
+      "title": "上の表は、さまざまなフレーズの感情分析を以下の詳細とともに提供します：",
+      "idDesc": "各フレーズのユニークな識別子。",
+      "speakerDesc": "話者のユーザー名",
+      "scoreDesc": "-1（非常にネガティブ）から1（非常にポジティブ）までの感情スコア。水平バーがスコアを視覚的に表し、ポジティブな値は緑、ネガティブな値は赤で表示されます。バーにカーソルを合わせると正確なスコア値を見ることができます。",
+      "magnitudeDesc": "感情の強さを表し、迅速な視覚化のために比例したオレンジ色のバーで示されます。",
+      "sentenceDesc": "分析されたフレーズのテキスト。",
+      "bottomDesc": "上部のドロップダウンメニューを使用して、話者や感情（ポジティブまたはネガティブ）でフィルタリングできます。また、検索ボックスを使用して特定のフレーズをフィルタリングし、任意の列ヘッダーをクリックして表をソートできます。"
+    },
+    "dataTable": "データテーブル",
+    "speaker": "話者",
+    "score": "スコア",
+    "magnitude": "強度",
+    "sentence": "フレーズ",
+    "filterSentences": "フレーズをフィルタリング...",
+    "allSpeakers": "すべての話者",
+    "allScores": "すべてのスコア",
+    "positiveScores": "ポジティブなスコア",
+    "negativeScores": "ネガティブなスコア",
+    "notProcessTitle": "⚠️この録音では感情分析が処理されていません。",
+    "clickToProcess": "以下のボタンをクリックして、各フレーズの感情を分析および特定してください。"
+  },
+  "speakerSegmentTooltip": {
+    "title": "（ベータ機能）話者分離を有効にすると、録音内の話者を自動的に識別してラベル付けします。この機能により、話者ごとに音声が分離されます。",
+    "subTitle": "⚠️ 注意",
+    "desc1": "精度は音質、背景ノイズ、声の重なり、話し方の違いなどに依存します。",
+    "desc2": "最良の結果を得るには、マルチチャネルピンマイクを使用し、各話者に専用の入力チャネルを割り当てることをお勧めします。",
+    "desc3": "2人の話者に最適化されています。 3人以上になると精度が低下する可能性があります。"
+  },
+  "customWordsSttV2": {
+    "header": "カスタム単語の登録 (V2のみ)",
+    "toolTip1": "頻繁に使う言葉や固有の単語を最大50個まで登録できます。",
+    "toolTip2": "これらの単語を設定することで、名前、専門用語、業界用語などに対する音声認識の精度を向上させることができます。",
+    "placeHolder": "特定の名前や言葉を追加してください..."
+  },
+  "customEntityTooltip": {
+    "desc1": "💡録音内容から特定の用語やフレーズを識別するための独自のカテゴリを作成できます。",
+    "desc2": "例えば、「製品」というカテゴリを作成し、「ノートパソコン」、「タブレット」、「スマートフォン」などの単語を追加できます。",
+    "desc3": "有効にすると、エンティティ抽出機能がトランスクリプト内のこれらの用語を自動的に検出してラベル付けします。"
+  },
+  "summaryAITemplate": {
+    "interview": "面談",
+    "meeting": "会議",
+    "podcast": "ポッドキャスト",
+    "business": "商談",
+    "presentation": "プレゼンテーション",
+    "workshop": "ワークショップ",
+    "discussion": "討論会"
+  },
+  "summaryAITemplateDetail": {
+    "description": "こちらの要約テンプレートを使用すると、面談、会議、商談などさまざまなシチュエーションに応じた要約やアクション項目を自動で作成できます。アジェンダや質問、決定事項などが整理され、効率的に内容を把握し、次のステップを明確にすることができます。",
+    "interview": {
+      "title": "面談",
+      "item1": "質問と回答",
+      "item2": "応募者のスキルや経験",
+      "item3": "面接の総括",
+      "item4": "評価ポイント",
+      "item5": "次のステップ"
+    },
+    "meeting": {
+      "title": "会議",
+      "item1": "アジェンダ",
+      "item2": "決定事項",
+      "item3": "To-Do",
+      "item4": "要約",
+      "item5": "質問"
+    },
+    "podcast": {
+      "title": "ポッドキャスト",
+      "item1": "エピソードの概要",
+      "item2": "ゲスト紹介",
+      "item3": "主要な話題のまとめ",
+      "item4": "質問とディスカッション",
+      "item5": "次回の予告"
+    },
+    "business": {
+      "title": "商談",
+      "item1": "提案内容",
+      "item2": "交渉のポイント",
+      "item3": "予算と条件",
+      "item4": "クライアントの反応",
+      "item5": "次のアクション"
+    },
+    "presentation": {
+      "title": "プレゼンテーション",
+      "item1": "プレゼンの概要",
+      "item2": "主要なスライドの要約",
+      "item3": "質疑応答",
+      "item4": "重要なフィードバック",
+      "item5": "次のアクション"
+    },
+    "workshop": {
+      "title": "ワークショップ",
+      "item1": "ワークショップの目的",
+      "item2": "各セッションの内容",
+      "item3": "参加者のフィードバック",
+      "item4": "学びとやるべきこと",
+      "item5": "質問とディスカッション"
+    },
+    "discussion": {
+      "title": "討論会",
+      "item1": "主要な議論点",
+      "item2": "結論や意見の相違",
+      "item3": "新しいアイデアや提案",
+      "item4": "決定事項",
+      "item5": "今後のアクション"
+    }
+  },
+  "microphoneTest": {
+    "randomize": "🎲 テキストをランダムに選ぶ",
+    "startTest": "🎤 開始",
+    "note": "静かな場所でテストしてください。",
+    "microphoneDevice": "マイクデバイス",
+    "totalWords": "総単語数",
+    "accuracy": "精度",
+    "historyTableTitle": "マイクテスト履歴",
+    "originTexts": {
+      "text1": "空気は澄んで穏やかで、かすかな土の香りを運んでいる。一人の人物がゆっくり歩き、その足音は自然の静かな音に溶け込んでいる。頭上では光が空を横切り、温かく平和な色合いで風景を描き出す。",
+      "text2": "手はゆっくりと表面をなぞり、物をきちんと整理する。空間には微かな動きと遠くの活動音が満ちる。完了すると、その場所には穏やかで目的のある雰囲気が漂い、努力の反映となる。",
+      "text3": "光が静かな空間に差し込み、空中に漂う埃がゆっくりと浮かび上がる。誰かが思索にふけり、焦点の合わない視線で物思いに耽る。外では生活のかすかな音が続き、賑やかな世界の存在を思い出させる。",
+      "text4": "集まった人々が会話し、声が共有された思いを織り成す。時折笑い声が響き、言葉の流れを和ませる。解散すると空気は軽くなり、喜びの余韻を運んでいる。",
+      "text5": "開けた場所には動きが満ち、それぞれが見えない道を進む。音と香りが混ざり合い、絶えず変化するシンフォニーを奏でる。その活動の中で、小さな静けさの瞬間が一時の安らぎをもたらす。",
+      "text6": "誰かが一人座り、小さな物の端を指でなぞる。周囲の世界は背景の音に消え、静かな反省だけが残る。この静けさは地に足がつく感じと一時の儚さを併せ持つ、忙しい日常の中の貴重な休息だ。",
+      "text7": "水が静かに流れ、その音は瞬間の静寂の中で心を癒す。一人の人物が規則正しく動き、慣れ親しんだ作業を静かに進める。時間が過ぎるにつれ、その活動のリズムは瞑想的とも感じられる。",
+      "text8": "一日が始まり、窓から柔らかな光が差し込み、馴染みのある空間を照らす。誰かが動き出し、小さくも目的を持った動作で日課を始める。外では世界が目覚め、その音が朝の展開に加わる。",
+      "text9": "工具が優しく音を立て、手は注意深く作業を進める。それぞれの動きが大きな作業の一部となり、忍耐の静かな証となる。時は気づかれずに過ぎ、進行のリズムが空間を満たす。",
+      "text10": "広大な景色の端に立つ人物のシルエットが、移り変わる光に縁取られる。空気は冷たく、遠くの見えない生命の音を運ぶ。ここでは時間が止まったかのように感じられ、一呼吸ごとに今この瞬間を実感する。"
+    },
+    "wercerModal": {
+      "recogAccuracy": "音声認識精度",
+      "visualizeTitle": "音声認識精度の視覚化",
+      "numberCorrectWord": "正解文の単語数",
+      "numberReplacedWord": "置換誤り単語数",
+      "numberInsertedWord": "挿入誤り単語数",
+      "numberDeletedWord": "削除誤り単語数",
+      "werErrorRate": "エラー率 (WER)",
+      "legend1": "意味が分かるレベル",
+      "legend1Desc": "(音声認識システムの最低目標精度)",
+      "legend2": "高精度が求められる基準",
+      "legend2Desc": "(高精度が求められる基準)",
+      "legend3": "アナウンサーの原稿読み上げレベル",
+      "legendValue": "{{value}}%以上",
+      "item": "項目",
+      "value": "値",
+      "targetValue": "目標値"
+    }
+  },
+  "tutorial": {
+    "title1": "V2Vをもっと便利に使えるようになるチュートリアルをご用意しました！",
+    "title2": "他のチュートリアルも順次公開予定ですので、どうぞお楽しみに！",
+    "title3": "V2Vを使いこなして、日々の作業をもっと快適にしましょう。",
+    "data": {
+      "tutorial1": "🏠 ホームメニューと基本機能",
+      "tutorial2": "🎤 録音とAI要約機能",
+      "tutorial3": "🌐 リアルタイム会話翻訳",
+      "tutorial4": "📅 V2Vでの会議",
+      "tutorial5": "🤖 会議でのAI自動応答機能",
+      "tutorial6": "📜 Teams会議ボット",
+      "tutorial7": "📂 録音履歴の管理と共有",
+      "tutorial8": "😊 感情分析機能",
+      "tutorial9": "🔍 エンティティ抽出機能",
+      "tutorial10": "🛡️ データマスキング機能",
+      "tutorial11": "📝 ユースケース1: ライブ録音でPII検出",
+      "tutorial12": "📑 ユースケース2: シナリオ別AI要約テンプレート",
+      "tutorial13": "📊 ユースケース3: 感情分析で通話応答を評価",
+      "tutorial14": "🔎 ユースケース4: 会議の重要情報をAIで取得"
+    },
+    "welcome": {
+      "title": "V2Vへようこそ！",
+      "desc1": "アプリの簡単なチュートリアルを始めてみましょう。"
+    },
+    "profileMenu": {
+      "title": "プロフィールメニュー",
+      "desc1": "ここでアカウント設定、ヘルプ、ログアウトができます。",
+      "desc2": "チュートリアルや他の設定もここから確認できます。"
+    },
+    "translationTab": {
+      "title": "会話翻訳",
+      "desc1": "会話をリアルタイムで翻訳します。",
+      "desc2": "異なる言語の相手とスムーズにコミュニケーションを取る際に便利です。",
+      "desc3": "例：海外のクライアントや外国人チームメンバーとの会議に最適です。"
+    },
+    "recorderTab": {
+      "title": "レコーダー",
+      "desc1": "音声を録音し、リアルタイムの文字起こしを生成します。",
+      "desc2": "リンクを共有すると他のユーザーも文字起こしをリアルタイムで確認できます。",
+      "desc3": "例：会議中の内容を他の参加者と同時に共有できます。"
+    },
+    "audiosTab": {
+      "title": "録音履歴",
+      "desc1": "録音データと文字起こしをここで管理します。",
+      "desc2": "編集、共有、AIによる要約のほか、感情分析やエンティティ抽出も可能です。",
+      "desc3": "例：会議後の振り返りや重要な内容の自動分析に役立ちます。"
+    },
+    "meetingTab": {
+      "title": "会議",
+      "desc1": "会議を開始して音声を自動録音します。",
+      "desc2": "リアルタイムで文字起こしが生成され、複数のユーザーが同時に参加できます。",
+      "desc3": "例：チームミーティングやプロジェクトの進捗確認に適しています。"
+    },
+    "startRecording": {
+      "title": "録音を開始",
+      "desc1": "このボタンを押して録音を始めます。",
+      "desc2": "重要な会話や会議を記録し、後で確認することができます。",
+      "desc3": "例：講義やインタビューの内容を忘れないために役立ちます。"
+    },
+    "firework": {
+      "title": "おめでとうございます！",
+      "desc1": "チュートリアルが完了しました！",
+      "desc2": "他のチュートリアルはプロフィールメニューからご覧ください。"
+    }
+  },
+  "meetingCreation": {
+    "v2vMeeting": {
+      "title": "V2V会議を開催",
+      "headerText": "V2Vで会議を開催する",
+      "desc1": "会議リンクを共有すると、複数のユーザーが参加できます。",
+      "desc2": "音声はリアルタイムで文字起こしされます。",
+      "desc3": "翻訳音声で異なる言語にも対応できます。",
+      "desc4": "ユーザーは質問ができ、AIが自動で回答します。",
+      "desc5": "各々のV2Vアカウントを使用することをお勧めします。"
+    },
+    "teamsMeeting": {
+      "title": "Teams会議ボット",
+      "headerText": "Teams会議ボットを追加する",
+      "desc1": "ユーザーが手動でTeams会議のURLを追加する必要があります。",
+      "desc2": "V2Vボットは、参加リクエストが承認されると会議に参加します。",
+      "desc3": "会議の音声を自動で文字起こしを行います。"
+    }
+  },
+  "questionTab": {
+    "header": "⚠️ まだ質問が入力されていません",
+    "desc1": "以下の入力ボックスに質問を入力してください。",
+    "desc2": "AIは会議の内容から質問に回答できます。",
+    "desc3": "他のユーザーも質問に回答することが可能です。"
+  }
+}

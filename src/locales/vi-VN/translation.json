@@ -1,0 +1,1303 @@
+{
+  "bottomTabs": {
+    "recorder": "Ghi âm",
+    "conversation": "Dịch hội thoại",
+    "recordedAudios": "Lịch sử",
+    "meeting": "Cuộc họp"
+  },
+  "common": {
+    "startRecording": "Bắt đầu ghi âm",
+    "startRecordingNote": "Âm thanh đã ghi có thể được kiểm tra từ 'Lịch sử ghi âm'",
+    "stopRecording": "Nhấn để dừng ghi âm",
+    "finedTuneTitle": "Vui lòng chọn nội dung bạn đã nói",
+    "pressCompleteNote": "Sau khi nhấn nút hoàn thành, âm thanh đã ghi có thể được kiểm tra từ 'Lịch sử ghi âm'",
+    "saveToDeviceConfirm": "Bạn có muốn lưu bản ghi này vào thiết bị không?",
+    "doneRecording": "Ghi âm hoàn tất",
+    "face2FaceMode": "⇅ Đối mặt",
+    "parallelMode": "Song song ⇈",
+    "converNote1": "Để bắt đầu",
+    "converNote2": " dịch hội thoại",
+    "converNote3": "",
+    "converNote4": "vui lòng nhấn vào",
+    "converNote5": " biểu tượng micro",
+    "converNote6": "",
+    "converNote7": "",
+    "converNote8": "Cuộc trò chuyện",
+    "converNote9": " sẽ được ghi âm",
+    "endConversation": "Kết thúc",
+    "no": "Không",
+    "yes": "Có",
+    "complete": "Hoàn thành",
+    "generalFinedTune": "Chung",
+    "financeFinedTune": "Tài chính (chỉ Tiếng Nhật)",
+    "finedTuneHint": "Đối với cuộc trò chuyện thông thường, vui lòng chọn 'Chung'",
+    "longFinanceFinedTune": "Tài chính (ví dụ: NISA, iDeCo) (chỉ Tiếng Nhật)",
+    "noSave": "Không lưu",
+    "save": "Lưu",
+    "removeNoiseTitle": "Loại bỏ tiếng ồn?",
+    "removeNoiseTitleHint": "⚠️ Nếu có nhiều người nói, không nên sử dụng chức năng loại bỏ tiếng ồn",
+    "performMasking": "Thực hiện che giấu",
+    "performMaskingHint": "⚡ Bạn có thể thêm từ cần che giấu từ cài đặt.<br />Tính năng bảo vệ quyền riêng tư giúp che đi thông tin nhạy cảm.",
+    "selectFile": "Chọn tệp",
+    "search": "Tìm kiếm",
+    "uploadModalTitle": "Vui lòng tải lên một tệp âm thanh",
+    "clickButtonAndSelectFile": "Nhấn nút bên dưới và chọn tệp để tải lên.",
+    "upload": "Tải lên",
+    "finedTuneLabel": "Thuật ngữ ngành",
+    "numOfSpeakers": "Số lượng người nói",
+    "noRecordHistory": "Chưa có lịch sử ghi âm.",
+    "wantToRecordOrUpload": "Bạn có muốn ghi lại cuộc họp hoặc thử tải lên một mẫu âm thanh không?",
+    "deleteRecordConfirm": "Bạn có muốn xóa bản ghi không?",
+    "createMeetingTitle": "Tổ chức cuộc họp trực tuyến",
+    "meetingName": "Tên cuộc họp",
+    "meetingNamePlaceHolder": "Vui lòng cung cấp chương trình họp",
+    "role": "Vai trò",
+    "meetingContext": "Thêm thông tin nền",
+    "meetingCtxPlaceholder": "Nhập thông tin nền, nội dung muốn chia sẻ trước, câu hỏi và câu trả lời dự kiến, v.v.",
+    "setPassword": "Thiết lập mật khẩu",
+    "privateMeeting": "Cuộc họp riêng tư",
+    "toHold": "Tổ chức",
+    "addBotTeamsMeetingTitle": "Thêm bot V2V vào cuộc họp Teams",
+    "addBotTeamsMeetingTitle1": "Thêm bot V2V vào",
+    "addBotTeamsMeetingTitle2": "cuộc họp Teams",
+    "addBotTeamsMeetingTitle3": "※ Hệ thống 2 giờ",
+    "teamsURL": "URL cuộc họp Teams",
+    "language": "Ngôn ngữ",
+    "presenter": "Người thuyết trình",
+    "recommended": "Khuyến khích",
+    "secretary": "Thư ký",
+    "observer": "Quan sát viên",
+    "chairPerson": "Chủ tịch",
+    "secretaryPCUseOnly": "Thư ký (Người ghi biên bản): Chỉ sử dụng PC",
+    "observerNoSpeak": "Quan sát viên (Không có quyền phát biểu)",
+    "chairPersonMaxOne": "Chủ tịch (Tối đa một người)",
+    "meetingParticipants": "Số người tham gia: {{number}} người",
+    "meetingQAPlaceholder": "Bạn muốn hỏi về điều gì?",
+    "thread": "Chuỗi",
+    "question": "Câu hỏi",
+    "send": "Gửi",
+    "editMsg": "Chỉnh sửa tin nhắn",
+    "replyInThread": "Trả lời trong chuỗi",
+    "highlightMsg": "Làm nổi bật tin nhắn",
+    "enterMsgPlaceholder": "Vui lòng nhập tin nhắn",
+    "replies": "phản hồi",
+    "lastReply": "Phản hồi cuối:",
+    "yearsAgo": "{{count}} năm trước",
+    "monthsAgo": "{{count}} tháng trước",
+    "daysAgo": "{{count}} ngày trước",
+    "hoursAgo": "{{count}} giờ trước",
+    "minutesAgo": "{{count}} phút trước",
+    "secondsAgo": "{{count}} giây trước",
+    "justNow": "Vừa mới",
+    "myPage": "Trang của tôi",
+    "accountManage": "Quản lý tài khoản",
+    "microphoneTest": "Kiểm tra micro",
+    "message": "Tin nhắn",
+    "setting": "Cài đặt",
+    "help": "Trợ giúp",
+    "logout": "Đăng xuất",
+    "name": "Tên",
+    "photograph": "Ảnh",
+    "emptyInbox": "Hộp thư đến trống.",
+    "noticeIfHasInbox": "Bạn sẽ được thông báo khi có tin nhắn mới.",
+    "logoutConfirm": "Bạn có chắc chắn muốn đăng xuất không?",
+    "sttSettings": "Cài đặt STT",
+    "sttV1": "V1",
+    "sttV2": "V2 (Dấu câu✅)",
+    "sttV3": "V3 (Sản xuất)",
+    "ttsSettings": "Cài đặt TTS",
+    "ttsNoClonedV1": "V1",
+    "ttsNoClonedV2": "V2",
+    "ttsNoClonedJPOnly": "V3 (chỉ tiếng Nhật)",
+    "ttsCloned": "Sử dụng giọng nói nhân bản",
+    "meetingTTSSettings": "Cài đặt TTS hội nghị",
+    "meetingTTSPlayWhileSpeaking": "Phát khi đang nói",
+    "meetingTTSPlayAfterSpeaking": "Phát sau khi nói",
+    "meetingSTTSettings": "Cài đặt STT hội nghị",
+    "voiceCloned": "Giọng nhân bản",
+    "breathingTime": "Thời gian ngắt hơi",
+    "voiceCloneRegistration": "Đăng ký nhân bản giọng",
+    "cloneVoice": "Nhân bản giọng",
+    "voiceClonedList": "Danh sách giọng nhân bản",
+    "translationSettings": "Cài đặt dịch & sửa lỗi",
+    "translationOnly": "Chỉ dịch",
+    "openAITranslation": "Dịch & sửa lỗi (OpenAI)",
+    "geminiTranslation": "Dịch & sửa lỗi (Gemini)",
+    "autoPhraseList": "Danh sách cụm từ sửa lỗi",
+    "autoPhraseListPlaceHolder": "Danh sách cụm từ tự động",
+    "conversationSettings": "Cài đặt dịch hội thoại",
+    "conversationTTSSettings": "Cài đặt TTS cho dịch hội thoại",
+    "conversationSTTSettings": "Cài đặt STT cho dịch hội thoại",
+    "autoPlay": "Phát tự động âm thanh dịch",
+    "notAutoPlay": "Không tự động phát âm thanh dịch",
+    "notBackTranslate": "Không dịch ngược lại",
+    "backTranslate": "Dịch ngược lại",
+    "leftVoice": "Giọng trái",
+    "rightVoice": "Giọng phải",
+    "leftBreathTime": "Trái: Khoảng ngắt hơi",
+    "rightBreathTime": "Phải: Khoảng gian ngắt hơi",
+    "fastTalk": "Nói nhanh",
+    "usually": "Bình thường",
+    "maskingWords": "Từ cần ẩn",
+    "maskingWordsPlaceholder": "Nhập từ cần ẩn",
+    "developerSettings": "Cài đặt cho nhà phát triển",
+    "speed": "Tốc độ",
+    "slow": "Chậm",
+    "fast": "Nhanh",
+    "emotion": "Cảm xúc",
+    "neutral": "Trung tính",
+    "anger": "Giận dữ",
+    "disgust": "Ghê tởm",
+    "fear": "Sợ hãi",
+    "happy": "Vui vẻ",
+    "sad": "Buồn",
+    "surprise": "Ngạc nhiên",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "tone": "Thanh điệu",
+    "pitch": "Cao độ",
+    "pitchScaleNote": "Sử dụng giá trị khác 1 có thể làm giảm chất lượng âm thanh.",
+    "intonation": "Ngữ điệu",
+    "low": "Thấp",
+    "high": "Cao",
+    "less": "Ít",
+    "aLot": "Nhiều",
+    "userPrompt": "Nhắc nhở người dùng tự động sửa lỗi",
+    "systemPrompt": "Nhắc nhở hệ thống tự động sửa lỗi",
+    "termsOfUse": "Điều khoản sử dụng",
+    "resetSettingConfirm": "Bạn có muốn đặt lại cài đặt ứng dụng về mặc định không?",
+    "processingAudio": "Đang xử lý âm thanh",
+    "copied": "Đã sao chép vào clipboard",
+    "summaryAI": "Tóm tắt AI",
+    "transcription": "Bản ghi",
+    "notAnswered": "Chưa trả lời",
+    "answered": "Đã trả lời",
+    "maxClonedSamples": "Đã đạt đến số lượng mẫu giọng nói tối đa",
+    "clonedVoiceTipTitle": "Mẹo để tạo giọng nhân bản tốt",
+    "clonedVoiceTip1": "Một văn bản khoảng 2 phút để đọc sẽ hiển thị trên màn hình.",
+    "clonedVoiceTip2": "Hãy đọc to rõ ràng trong môi trường yên tĩnh.",
+    "clonedVoiceTip3": "Ngay cả khi bạn đọc sai hoặc phát âm sai, bạn vẫn có thể tiếp tục đọc mà không cần lo lắng.",
+    "clonedVoiceTip4": "Lưu ý quan trọng",
+    "clonedVoiceTip5": "Bắt đầu ghi âm đồng nghĩa với việc bạn đồng ý cho phân tích âm thanh và tạo giọng nói của 'Ứng dụng V2V.'",
+    "clonedVoiceTip6": "Giọng nói này được tự động tạo từ dữ liệu âm thanh tải lên hoặc các cuộc họp trực tuyến và được sử dụng cho mục đích nhân bản giọng nói (tái tạo giọng).",
+    "clonedVoiceTip7": "Giọng đã tạo sẽ được lưu trữ an toàn cho đến khi bạn yêu cầu xóa.",
+    "audioSamplesRegisteredIn": "Mẫu âm thanh đã đăng ký trong",
+    "startRecording2": "Bắt đầu ghi âm",
+    "endRecording": "Kết thúc ghi âm",
+    "recordThankYou": "Cảm ơn bạn đã ghi âm!",
+    "processVoiceTake1Min": "Quá trình nhân bản giọng nói sẽ mất khoảng 1 phút.",
+    "enterVoiceName": "Vui lòng nhập tên cho giọng nói",
+    "enterVoiceNamePlaceholder": "Masayuki Fujita",
+    "startCloning": "Bắt đầu quá trình nhân bản",
+    "recording": "Đang ghi âm",
+    "pause": "Tạm dừng",
+    "clonedVoiceList": "Danh sách giọng nói đã nhân bản",
+    "myRegisteredVoice": "Giọng nói đã đăng ký của tôi",
+    "systemVoice": "Giọng hệ thống",
+    "deleteVoiceConfirm": "Bạn có muốn xóa giọng của mình không?",
+    "you": "Bạn",
+    "participants": "Người tham gia",
+    "languageSetting": "Cài đặt ngôn ngữ",
+    "customVoiceUsageAmount": "Số lượng giọng nói nhân bản",
+    "audioSamplesUsageAmount": "Số lượng mẫu âm thanh nhân bản",
+    "storageUsageTime": "Thời gian lưu trữ",
+    "noiseSuppressionUsageTime": "Thời gian loại bỏ tiếng ồn",
+    "AIUsageAmount": "Sử dụng AI (Token)",
+    "meetingUsageTime": "Thời gian tham gia cuộc họp",
+    "sttUsageTime": "Thời gian sử dụng STT",
+    "ttsUsageChars": "Số ký tự TTS",
+    "cloneVoiceUsageChars": "Số ký tự TTS (Nhân bản giọng nói)",
+    "translatedUsageChars": "Số ký tự đã dịch",
+    "minutes": "phút",
+    "hours": "giờ",
+    "seconds": "giây",
+    "mins": "m",
+    "hrs": "h",
+    "secs": "s",
+    "breathTimeDesc1": "Cài đặt này quyết định khi nào âm thanh được tách trong khi nói.",
+    "breathTimeDesc2": "Thời gian cài đặt càng ngắn thì âm thanh càng được tách nhanh và dịch thuật cũng như phát lại âm thanh sẽ diễn ra nhanh hơn.",
+    "breathTimeDesc3": "Nếu tốc độ nói nhanh hoặc ít dừng lại để thở, nên chọn cài đặt ngắn hơn.",
+    "confirm": "Xác nhận",
+    "chooseLanguageConfirm": "Vui lòng chọn cài đặt ngôn ngữ trước khi sử dụng ứng dụng",
+    "changeLaterInProfile": "※ Cài đặt có thể thay đổi sau trong 'Trang của tôi'.",
+    "meetingPasscodeLimit": "Vui lòng nhập mật khẩu đủ 5 chữ số",
+    "meetingPasscodeInvalid": "Mật khẩu không đúng",
+    "meetingPasscodePrompt": "Nhập mật khẩu cuộc họp",
+    "joinMeeting": "Tham gia cuộc họp",
+    "teamsURLPlaceholder": "Vui lòng nhập URL",
+    "add": "Thêm",
+    "return": "Trở lại",
+    "endMeetingConfirm": "Bạn có muốn kết thúc cuộc họp không?",
+    "chairPersonEndMeetingConfirm": "Bạn có muốn kết thúc cuộc họp không? Khi cuộc họp kết thúc, tất cả mọi người trong phòng sẽ bị loại bỏ.",
+    "cancel": "Hủy",
+    "end": "Kết thúc",
+    "agenda": "Chương trình",
+    "decisions": "Quyết định",
+    "todo": "Cần làm",
+    "summary": "Tóm tắt",
+    "askChatBotMeeting": "Bạn muốn nói về cuộc họp nào?",
+    "askChatBotTopicToTalk": "Bạn muốn biết gì về cuộc họp này?",
+    "aiChatTyping": "AI đang nhập...",
+    "pleaseAsk": "Vui lòng đặt câu hỏi!",
+    "aiChat": "Trò chuyện AI",
+    "selectMeeting": "Vui lòng chọn một cuộc họp",
+    "askAnother": "Hỏi câu hỏi khác",
+    "changeMeeting": "Thay đổi cuộc họp",
+    "autoDeletedChat": "Lịch sử trò chuyện sẽ tự động xóa sau 1 ngày",
+    "none": "Không có",
+    "saveMeetingConfirm": "Bạn có muốn lưu nội dung cuộc họp không? Cuộc họp đã lưu có thể được kiểm tra từ 'Lịch sử'.",
+    "enterMessage": "Nhập tin nhắn...",
+    "today": "Hôm nay",
+    "yesterday": "Hôm qua",
+    "unexpectedError": "Đã xảy ra lỗi không mong muốn.",
+    "goHome": "Về trang chủ",
+    "goBack": "Quay lại",
+    "botLangNotYou": "Ngôn ngữ bot",
+    "selectTeamsNameModalTitle": "Vui lòng chọn tên người dùng của bạn cho cuộc họp Teams.",
+    "confirmation": "Xác nhận",
+    "waitingBot": "Đang chờ bot",
+    "trial": "Thứ nghiệm",
+    "downloading": "Đang tải",
+    "multiUnmutedUsers": "Nhiều người dùng đang được bật âm thanh trong Teams!",
+    "copyMeetingLink": "Sao chép liên kết cuộc họp",
+    "botHasLeft": "Bot V2V đã rời khỏi cuộc họp Teams!",
+    "answer": "Trả lời",
+    "findingLocation": "Đang tìm vị trí...",
+    "location": "Vị trí: ",
+    "copiedMeetingLink": "Đã sao chép liên kết cuộc họp!",
+    "onlineV2V": "Dịch vụ V2V: Trực tuyến",
+    "checkNetwork": "Vui lòng kiểm tra kết nối của bạn",
+    "internetConnected": "Đã kết nối với internet",
+    "internetDisconnected": "Ôi! Internet đã bị ngắt kết nối",
+    "enterRoom": "Vào phòng",
+    "speakSlowly": "Nói chậm lại, hãy ngắt nghỉ!",
+    "unmuteAll": "Bỏ tắt tiếng tất cả",
+    "muteAll": "Tắt tiếng tất cả",
+    "originAudio": "Âm thanh gốc",
+    "interpretation": "Thông dịch",
+    "holdStopRecording": "Giữ nút để dừng ghi âm",
+    "networkGood": "Tốt",
+    "networkFair": "Khá",
+    "networkModerate": "Trung bình",
+    "networkPoor": "Yếu",
+    "networkOffline": "Ngoại tuyến",
+    "audioDeviceSetting": "Cài đặt thiết bị âm thanh",
+    "addV2VBotTeamsMeeting": "🤖 Thêm bot V2V vào cuộc họp Teams",
+    "holdV2VConference": "💬 Tổ chức hội nghị V2V",
+    "userMetadataModalTitle": "Kiểm tra trước khi ghi âm",
+    "userMetadataModalSubTitle": "※Vui lòng xác nhận rằng thông tin tài khoản sau là chính xác",
+    "area": "Khu vực",
+    "branch": "Chi nhánh",
+    "returnToSettings": "Quay lại cài đặt",
+    "confirmationCompleted": "Xác nhận hoàn tất",
+    "emailAddress": "Địa chỉ email",
+    "hasEnteredRoom": " đã vào phòng.",
+    "hasLeftRoom": " đã rời khỏi phòng.",
+    "usageTitle": "Sử dụng",
+    "fontSize": "Cỡ chữ",
+    "smaller": "Nhỏ hơn",
+    "bigger": "Lớn hơn",
+    "leaving": "Đang rời đi",
+    "guestUsed": "Khách",
+    "highSpeed": "🚀 Tốc độ cao (Có thể không hiệu quả tùy theo môi trường)",
+    "uploading": "Đang tải lên",
+    "storeName": "Tên cửa hàng",
+    "fullName": "Họ và tên",
+    "mp3FileSizeLimit": "Tải lên tệp MP3 (tối đa 10MB)",
+    "fileTooLarge": "Tệp quá lớn",
+    "meetingStopAlert": "Cuộc họp sẽ kết thúc sau 1 phút và được lưu tự động!",
+    "sttSettingTab": "Nhận dạng giọng nói",
+    "aiSettingTab": "AI",
+    "ttsSettingTab": "Tạo giọng nói",
+    "recorderEntityExtraction": "Máy ghi âm: Trích xuất thực thể",
+    "recorderTrancriptSharing": "Máy ghi âm: Chia sẻ bản chuyển trực tiếp",
+    "entityExtractionDesc": "Tự động gắn thẻ thông tin như con người, địa điểm và tổ chức trong quá trình ghi âm.",
+    "trancriptSharingDesc": "Cho phép chia sẻ bản chuyển trực tiếp và liên kết thông tin được trích xuất trong quá trình ghi âm.",
+    "supportedLanguagesText": "Ngôn ngữ được hỗ trợ",
+    "spacySupportedLanguages": "Tiếng Catalan, Tiếng Trung, Tiếng Croatia, Tiếng Đan Mạch, Tiếng Hà Lan, Tiếng Anh, Tiếng Phần Lan, Tiếng Pháp, Tiếng Đức, Tiếng Hy Lạp, Tiếng Ý, Tiếng Nhật, Tiếng Hàn, Tiếng Litva, Tiếng Macedonia, Đa ngôn ngữ, Tiếng Na Uy, Bokmal, Tiếng Ba Lan, Tiếng Bồ Đào Nha, Tiếng Romania, Tiếng Nga, Tiếng Slovenia, Tiếng Tây Ban Nha, Tiếng Thụy Điển, Tiếng Ukraina",
+    "entityExtraction": "Trích xuất thực thể",
+    "recordingPaused": "Ghi âm đã bị tạm dừng",
+    "recordingResumed": "Ghi âm đã được tiếp tục",
+    "recordingStopped": "Ghi âm đã kết thúc",
+    "entityTabTitle": "Trích xuất thực thể chưa được xử lý cho bản ghi này.",
+    "entityTabBottomTitle": "Nhấp vào nút bên dưới để phân tích và nhận diện các thực thể trong văn bản.",
+    "entityTabSubTitle": "Các danh mục được phát hiện bao gồm:",
+    "startProcessing": "Bắt đầu xử lý",
+    "paused": "Tạm dừng",
+    "ended": "Kết thúc",
+    "selectAll": "Chọn tất cả",
+    "deselectAll": "Bỏ chọn tất cả",
+    "sentiment": "Cảm xúc",
+    "analyzeSentiment": "Phân tích cảm xúc",
+    "analyzeSentimentLonger": "Quá trình xử lý sẽ mất nhiều thời gian hơn nếu số lượng cụm từ trong bản phiên âm vượt quá 100. <br />Đánh giá giọng điệu cảm xúc và cảm nhận của cuộc trò chuyện.",
+    "rowsPerPage": "Số hàng mỗi trang",
+    "pageIndexOfTotal": "Trang {{page}} trên tổng số {{total}}",
+    "showingPageRowsOfTotal": "Hiển thị từ {{from}} đến {{to}} trong tổng số {{total}} mục.",
+    "recordSpeakerSegment": "Máy ghi âm: Phân đoạn người nói",
+    "addCustomEntity": "Thêm thực thể tùy chỉnh",
+    "enterEntityPlaceholder": "Nhập thực thể...",
+    "enterWordsPlayholder": "Nhập từ...",
+    "addEntity": "Thêm thực thể",
+    "syncNow": "Đồng bộ ngay",
+    "syncing": "Đang đồng bộ...",
+    "synced": "Đã đồng bộ",
+    "refreshingPage": "Đang làm mới trang...",
+    "AISummary": "Tóm tắt AI",
+    "AISummarySkipped": "Không có tóm tắt AI nào được xử lý cho bản ghi này.",
+    "summaryAITemplate": "Mẫu Tóm tắt",
+    "textCopied": "Đã sao chép văn bản!",
+    "share": "Chia sẻ",
+    "download": "Tải xuống",
+    "copy": "Sao chép",
+    "entity": "Thực thể",
+    "reset": "Đặt lại",
+    "hide": "Ẩn",
+    "show": "Hiển thị",
+    "sort": "Sắp xếp",
+    "filter": "Bộ lọc",
+    "date": "Ngày",
+    "title": "Tiêu đề",
+    "duration": "Thời lượng",
+    "all": "Tất cả",
+    "startingSession": "Phiên đang khởi tạo",
+    "start": "Bắt đầu",
+    "skip": "Bỏ qua",
+    "close": "Đóng",
+    "commingSoon": "Sắp ra mắt",
+    "finish": "Hoàn thành",
+    "next": "Tiếp theo",
+    "tutorial": "Hướng dẫn",
+    "financeModelWarning": "Mỗi phút ghi âm sẽ mất khoảng 30 giây để xử lý.",
+    "notStarted": "Chưa bắt đầu",
+    "pending": "Đang chờ xử lý",
+    "on": "Bật",
+    "off": "Tắt",
+    "size": "Kích thước",
+    "joinRecordingModalTitle": "Vào phòng ghi âm cuộc họp",
+    "teamsUrlFormat": "URL phải bắt đầu bằng https://teams.microsoft.com/ hoặc https://teams.live.com/.",
+    "addPeople": "Thêm người",
+    "myFavorite": "Yêu thích của tôi",
+    "whospeaksModelWarning": "Trong mô hình nhận diện giọng nói V3, bạn cần chỉ định số lượng người nói trong cuộc hội thoại để phân tách chính xác theo người nói. Việc khởi tạo có thể mất đến 30 giây.",
+    "edit": "Chỉnh sửa",
+    "save2": "Lưu",
+    "untitledAudio": "Âm thanh chưa đặt tên",
+    "enterAnswerPlaceholder": "Vui lòng nhập câu trả lời của bạn",
+    "length": "Độ dài",
+    "participants2": "Người tham gia: {{value}}",
+    "keyword": "Từ khóa",
+    "original": "Gốc",
+    "showOriginText": "Hiển thị Văn bản Gốc",
+    "uploadAttachmentPlaceholder": "Tải lên các tệp liên quan đến bản ghi này.",
+    "attachments": "Tệp đính kèm",
+    "deleteAttachmentConfirm": "Bạn có muốn xóa tệp đính kèm không?",
+    "fileSizeLimit": "(Tối đa {{size}} MB)",
+    "failToUpload": "Không thể tải lên",
+    "emptyAttachment1": "Chưa có tệp đính kèm nào được tải lên cho bản ghi này.",
+    "emptyAttachment2": "Bắt đầu tải tệp lên bằng cách nhấn nút dấu cộng ở phía bên phải.",
+    "answering": "Đang trả lời",
+    "kuritaFineTuned": "Manufacturing",
+    "processing": "Đang xử lý",
+    "advancedSettings": "Cài đặt nâng cao",
+    "saveAudioAdvancedSettingsNote": "⚠️ Lưu ý: Thời gian xử lý sẽ lâu hơn nếu bất kỳ tính năng nâng cao nào được bật.",
+    "AISummaryHint": "Nó sẽ tự động tóm tắt bản ghi bằng mô hình LLM."
+  },
+  "usageTooltip": {
+    "numVoiceClones": "Số lượng bản sao giọng nói",
+    "numVoiceClonesDesc": "Số lượng bản sao giọng nói đã đăng ký mà người dùng có thể có trên mỗi tài khoản.",
+    "numVoiceSamples": "Bản sao giọng nói: Số lượng mẫu âm thanh",
+    "numVoiceSamplesDesc": "Số lượng mẫu âm thanh mà người dùng có thể tải lên để cải thiện chất lượng bản sao giọng nói.",
+    "storageUsage": "Sử dụng lưu trữ",
+    "storageUsageDesc": "Tổng thời gian được lưu từ các bản ghi âm, tải lên âm thanh, hoặc ghi âm cuộc họp.",
+    "noiseReductionTime": "Thời gian giảm tiếng ồn",
+    "noiseReductionTimeDesc": "Thời gian cần thiết khi chọn tùy chọn giảm tiếng ồn khi lưu hoặc tải lên âm thanh.",
+    "AIUsageToken": "Sử dụng AI (Token)",
+    "AIUsageTokenDesc": "Số lượng token được sử dụng để tóm tắt bởi AI hoặc để hỏi AI trong hoặc sau cuộc họp.",
+    "meetingJoinTime": "Thời gian tham gia cuộc họp",
+    "meetingJoinTimeDesc": "Thời gian người dùng đã dành để tham gia cuộc họp.",
+    "STTUsageTime": "Thời gian sử dụng STT",
+    "STTUsageTimeDesc": "Tổng thời gian sử dụng chuyển giọng nói thành văn bản (Speech-to-Text) trong tất cả các chức năng.",
+    "TTSUsageTime": "Thời gian sử dụng TTS",
+    "TTSUsageTimeDesc": "Tổng thời gian sử dụng chuyển văn bản thành giọng nói (Text-to-Speech) trong tất cả các chức năng.",
+    "numTTSCharacters": "Số ký tự TTS (Bản sao giọng nói)",
+    "numTTSCharactersDesc": "Thời gian sử dụng chuyển văn bản thành giọng nói trong tất cả các chức năng sử dụng bản sao giọng nói.",
+    "transCharacterCount": "Số ký tự dịch",
+    "transCharacterCountDesc": "Tổng số ký tự sử dụng cho bản dịch."
+  },
+  "finedTuneTooltip": {
+    "title": "Cài đặt 'Thuật ngữ ngành' là gì?",
+    "description": "Cài đặt 'Thuật ngữ ngành' liên quan đến việc đào tạo trước mô hình AI với các thuật ngữ chuyên ngành và viết tắt được sử dụng trong các ngành cụ thể. Bằng cách sử dụng cài đặt này, các từ khó, danh từ riêng và chữ viết tắt có thể được nhận diện chính xác hơn, cung cấp độ chính xác cao hơn trong nhận dạng giọng nói.",
+    "selectSettings": "Cài đặt có thể chọn:",
+    "general": "Chung",
+    "generalDesc": "Không chuyên biệt cho bất kỳ ngành nào, và không có từ cụ thể nào được đào tạo trước. Đây là mô hình nhận dạng cơ bản có thể xử lý mọi lĩnh vực.",
+    "finance": "Tài chính",
+    "financeDesc": "Được đào tạo trước với các từ và chữ viết tắt chuyên ngành trong lĩnh vực tài chính. Ví dụ, các thuật ngữ tài chính sau đây sẽ được nhận diện chính xác hơn:"
+  },
+  "meetingRoleTooltip": {
+    "presenterDesc1": "Người tham gia được phép phát biểu.",
+    "presenterDesc2": "Chọn người dự kiến hoặc có khả năng sẽ phát biểu trong cuộc họp.",
+    "presenterDesc3": "Có thể chọn nhiều người.",
+    "secretaryDesc1": "Người tham gia được phép phát biểu.",
+    "secretaryDesc2": "Thư ký được cung cấp giao diện đặc biệt và được khuyến nghị hiển thị ở chế độ ngang.",
+    "observerDesc1": "Người tham gia không có quyền phát biểu.",
+    "observerDesc2": "Vai trò là tham gia cuộc họp và lắng nghe nội dung mà không phát biểu.",
+    "observerDesc3": "Có thể chọn nhiều người.",
+    "chairPersonDesc1": "Người tham gia được phép phát biểu và có quyền kết thúc cuộc họp.",
+    "chairPersonDesc2": "Chỉ có thể chọn một người.",
+    "bottomNote": "Người tham gia cuối cùng rời khỏi cuộc họp hoặc chủ tọa có quyền lưu lại biên bản."
+  },
+  "meetingCtxTooltip": {
+    "desc": "Bạn có thể nhập thông tin nền, các điểm quan trọng và các câu hỏi và câu trả lời dự kiến cho cuộc họp tại đây trước. Thông tin này cũng được sử dụng bởi tính năng hỏi đáp của AI trong cuộc họp. AI sẽ tự động trả lời các câu hỏi của người tham gia dựa trên nội dung cuộc họp và thông tin đã nhập trước đó. Việc cung cấp thông tin đầy đủ trước có thể giúp có được các câu trả lời chính xác và nhanh chóng hơn."
+  },
+  "termsOfUseTooltip": {
+    "title": "Điều khoản sử dụng V2V (Phiên bản nháp)",
+    "desc1": "Điều khoản sử dụng này (sau đây gọi là 'Điều khoản') quy định các điều kiện sử dụng dịch vụ dịch thuật đồng thời 'V2V'",
+    "desc2": "Công ty AtPeak",
+    "desc3": "(sau đây gọi là 'Công ty'). Dịch vụ hiện đang được cung cấp dưới dạng nguyên mẫu, và Điều khoản cũng là phiên bản nháp. Khi sử dụng Dịch vụ, bạn cần phải đồng ý với Điều khoản này.",
+    "desc4": "Ngày tạo: 19 tháng 9 năm 2024",
+    "term1": "Điều 1 (Phạm vi áp dụng)",
+    "term1Desc1": "Điều khoản này nhằm mục đích quy định các quyền và nghĩa vụ giữa Công ty và người dùng liên quan đến việc cung cấp và sử dụng Dịch vụ. Người dùng phải tuân theo Điều khoản để sử dụng Dịch vụ.",
+    "term1Desc2": "Nếu có sự khác biệt giữa nội dung của Điều khoản và các điều khoản sử dụng riêng biệt liên quan đến Dịch vụ, các điều khoản sử dụng riêng biệt sẽ được ưu tiên.",
+    "term2": "Điều 2 (Định nghĩa)",
+    "term2Desc": "Điều khoản này nhằm mục đích quy định các quyền và nghĩa vụ giữa Công ty và người dùng liên quan đến việc cung cấp và sử dụng Dịch vụ. Người dùng phải tuân theo Điều khoản để sử dụng Dịch vụ.",
+    "term3": "Điều 3 (Tạo tài khoản)",
+    "term3Desc1": "Để sử dụng Dịch vụ, người dùng cần tạo tài khoản bằng cách thiết lập địa chỉ email và mật khẩu. Cần đăng ký tên.",
+    "term3Desc2": "Nếu thông tin cung cấp khi tạo tài khoản là giả mạo, Công ty có quyền đình chỉ hoặc xóa tài khoản đó.",
+    "term4": "Điều 4 (Phí và phương thức thanh toán)",
+    "term4Desc1": "Hiện tại, cấu trúc phí và phương thức thanh toán của Dịch vụ chưa được quyết định. Khi có thông tin chi tiết về phí và thanh toán, Điều khoản sẽ được cập nhật và người dùng sẽ được thông báo.",
+    "term5": "Điều 5 (Hành vi bị cấm)",
+    "term5Desc1": "Người dùng không được thực hiện các hành vi sau khi sử dụng Dịch vụ:",
+    "term5Desc2": "Sử dụng Dịch vụ cho các hoạt động chính trị, cụ thể là cấm sử dụng nhằm hỗ trợ hoạt động của các chính trị gia, đảng phái, nhóm chính trị.",
+    "term5Desc3": "Quảng bá hoặc bôi nhọ các chính trị gia, đảng phái, hoặc nhóm chính trị.",
+    "term5Desc4": "Xâm phạm quyền sở hữu trí tuệ của Công ty hoặc bên thứ ba.",
+    "term5Desc5": "Bắt chước giọng nói của các chính trị gia, người nổi tiếng hoặc cá nhân mà không có sự cho phép của họ.",
+    "term5Desc6": "Xâm phạm quyền sở hữu trí tuệ của Công ty hoặc bên thứ ba.",
+    "term5Desc7": "Các hành vi vi phạm pháp luật, vi phạm trật tự công cộng và đạo đức hoặc các hành vi mà Công ty cho là không phù hợp.",
+    "term6": "Điều 6 (Tạm ngừng dịch vụ)",
+    "term6Desc1": "Công ty có thể tạm ngừng hoặc ngắt dịch vụ mà không cần thông báo trước trong các trường hợp sau:",
+    "term6Desc2": "Khi thực hiện bảo trì hoặc cập nhật hệ thống liên quan đến Dịch vụ.",
+    "term6Desc3": "Khi xảy ra thiên tai, hỏa hoạn, mất điện hoặc các sự kiện bất khả kháng khác làm gián đoạn dịch vụ.",
+    "term6Desc4": "Khi máy tính hoặc đường truyền liên lạc bị gián đoạn do sự cố.",
+    "term6Desc5": "Các trường hợp khác mà Công ty cho là không thể cung cấp dịch vụ.",
+    "term7": "Điều 7 (Hạn chế sử dụng và xóa tài khoản)",
+    "term7Desc1": "Công ty có thể tạm dừng hoặc xóa tài khoản mà không cần thông báo trước nếu người dùng vi phạm các quy định:",
+    "term7Desc2": "Vi phạm bất kỳ điều khoản nào trong Điều khoản.",
+    "term7Desc3": "Nếu phát hiện thông tin đăng ký sai lệch.",
+    "term7Desc4": "Các trường hợp khác mà Công ty cho là không phù hợp.",
+    "term8": "Điều 8 (Miễn trừ trách nhiệm)",
+    "term8Desc1": "Công ty không chịu trách nhiệm bồi thường thiệt hại trừ khi có hành vi cố ý hoặc lỗi nghiêm trọng từ Công ty.",
+    "term8Desc2": "Công ty không chịu trách nhiệm về các tranh chấp giữa người dùng hoặc với bên thứ ba phát sinh từ việc sử dụng Dịch vụ.",
+    "term9": "Điều 9 (Thay đổi Điều khoản)",
+    "term9Desc": "Công ty có thể thay đổi Điều khoản mà không cần thông báo trước nếu thấy cần thiết. Điều khoản đã thay đổi sẽ có hiệu lực từ thời điểm được hiển thị trên Dịch vụ, trừ khi Công ty có quy định khác.",
+    "term10": "Điều 10 (Luật điều chỉnh và quyền tài phán)",
+    "term10Desc": "Điều khoản này được điều chỉnh bởi luật pháp Nhật Bản. Trong trường hợp có tranh chấp liên quan đến Dịch vụ, Tòa án Quận Tokyo sẽ có thẩm quyền xét xử độc quyền."
+  },
+  "cloneTelePrompter": {
+    "line1": {
+      "text": "Xin chào mọi người!"
+    },
+    "line2": {
+      "text": "Tôi thực sự rất mong chờ được nói chuyện với tất cả các bạn hôm nay."
+    },
+    "line3": {
+      "text1": "Lần này, tôi muốn nói về những tiến bộ đáng chú ý trong AI và công nghệ gần đây, và lịch sử của chúng.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line4": {
+      "text": "Vậy thì, chúng ta hãy bắt đầu!"
+    },
+    "line5": {
+      "text": "Lịch sử của Trí tuệ Nhân tạo (AI) bắt đầu từ những năm 1950."
+    },
+    "line6": {
+      "text1": "Vào thời điểm đó, những người tiên phong trong khoa học máy tính đã hướng đến một mục tiêu lớn là tái tạo trí tuệ con người bằng máy móc. Những người tiên phong đã đặt ra một mục tiêu lớn.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": "",
+      "text8": "",
+      "text9": "",
+      "text10": ""
+    },
+    "line7": {
+      "text1": "Hội nghị Dartmouth tổ chức năm 1956 đã tượng trưng cho bình minh của nghiên cứu AI, và được biết đến như một sự kiện quan trọng.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": ""
+    },
+    "line8": {
+      "text1": "Sau đó, nghiên cứu AI đã trải qua một giai đoạn đình trệ nhưng vào những năm 1980, sự xuất hiện của hệ thống chuyên gia đã thu hút sự chú ý mới.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": ""
+    },
+    "line9": {
+      "text": "Tuy nhiên, do thiếu sức mạnh tính toán và dữ liệu đủ, các kết quả kỳ vọng đã không đạt được."
+    },
+    "line10": {
+      "text1": "Bước vào những năm 2000, sự tích lũy dữ liệu lớn và những cải tiến vượt bậc trong sức mạnh tính toán đã dẫn đến một giai đoạn mới trong nghiên cứu AI.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line11": {
+      "text1": "Đặc biệt, sự phát triển của công nghệ học sâu đã mang lại những thành tựu cách mạng trong các lĩnh vực như nhận diện hình ảnh và giọng nói.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line12": {
+      "text": "Ví dụ, công nghệ tự lái đã cải thiện rất nhiều nhờ vào tiến bộ của AI."
+    },
+    "line13": {
+      "text": "Xe hơi hiện nay có thể tự lái bằng cách xử lý thông tin thu thập từ cảm biến và camera."
+    },
+    "line14": {
+      "text1": "Điều này đã dẫn đến kỳ vọng giảm thiểu tai nạn giao thông và cải thiện hiệu quả trong vận chuyển.",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line15": {
+      "text": "Hơn nữa, đã có những tiến bộ đáng kể trong lĩnh vực xử lý ngôn ngữ tự nhiên."
+    },
+    "line16": {
+      "text": "AI giờ đây có thể hiểu ngôn ngữ con người, và có thể thực hiện các nhiệm vụ như dịch, tóm tắt, và thậm chí là tạo ra văn bản."
+    },
+    "line17": {
+      "text": "Công nghệ này rất quan trọng trong việc thúc đẩy giao tiếp quốc tế và chia sẻ thông tin."
+    },
+    "line18": {
+      "text1": "Ngoài ra, AI đang được sử dụng trong lĩnh vực y tế.",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line19": {
+      "text1": "Trong việc chẩn đoán sớm bệnh tật và phát triển các phương pháp điều trị, AI phân tích một lượng lớn dữ liệu và cung cấp những hiểu biết quý giá.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line20": {
+      "text": "Kết quả là, có khả năng cứu sống nhiều người."
+    },
+    "line21": {
+      "text": "Tuy nhiên, cũng có những thách thức liên quan đến sự phát triển của AI."
+    },
+    "line22": {
+      "text1": "Có nhiều vấn đề cần phải giải quyết, như các lo ngại về đạo đức, bảo vệ quyền riêng tư, và loại bỏ thành kiến.",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line23": {
+      "text": "Đó là lý do tại sao cần cân nhắc kỹ lưỡng cách sử dụng công nghệ cùng với sự phát triển của nó."
+    },
+    "line24": {
+      "text": "Cuối cùng, điều quan trọng là chúng ta tiếp tục học hỏi để tận dụng tối đa công nghệ này."
+    },
+    "line25": {
+      "text": "Hãy suy nghĩ về cách hiểu các công nghệ mới và tích hợp chúng vào cuộc sống và công việc của chúng ta."
+    },
+    "line26": {
+      "text": "Bằng cách làm như vậy, chúng ta có thể xây dựng một tương lai phong phú hơn."
+    },
+    "line27": {
+      "text": "Cảm ơn các bạn đã lắng nghe đến cuối cùng."
+    },
+    "line28": {
+      "text": "Tôi hy vọng những gì tôi nói hôm nay sẽ giúp các bạn hiểu biết sâu hơn."
+    },
+    "line29": {
+      "text": "Tôi sẽ tiếp tục mang đến những thông tin mới nhất và các chủ đề thú vị, vì vậy xin hãy chờ đón lần sau."
+    },
+    "line30": {
+      "text": "Hẹn gặp lại lần sau, chúc các bạn sức khỏe!"
+    }
+  },
+  "faqs": {
+    "categories": {
+      "all": "Tất cả",
+      "usage": "Cách sử dụng",
+      "account": "Tài khoản",
+      "system": "Hệ thống",
+      "support": "Hỗ trợ",
+      "data": "Dữ liệu",
+      "pricing": "Giá cả",
+      "other": "Khác"
+    },
+    "usage": {
+      "faq1": {
+        "title": "Làm thế nào để xóa cuộc hội thoại?",
+        "desc": "Trên cả iOS và Android, bạn có thể vuốt sang trái trên tab 'Lịch sử ghi âm' khi xem cuộc hội thoại để xóa ghi âm đó."
+      },
+      "faq2": {
+        "title": "V2V dùng để làm gì?",
+        "desc": "V2V giúp chuyển lời nói thành văn bản, dễ dàng tìm kiếm và chia sẻ. Nó hữu ích cho việc ghi chú trong các cuộc họp, phỏng vấn, ghi lại ý tưởng khi lái xe, hoặc chuyển đổi file âm thanh sang văn bản. Bạn cũng có thể chụp ảnh trong khi ghi âm để lưu giữ kỷ niệm."
+      },
+      "faq3": {
+        "title": "V2V có hỗ trợ ghi âm từ Zoom không?",
+        "desc": "Hiện tại, chúng tôi chưa cung cấp các tiện ích mở rộng/plugin cho Zoom hoặc Teams, nhưng đang phát triển tính năng này."
+      },
+      "faq4": {
+        "title": "Có thể ghi âm cuộc gọi không?",
+        "desc": "Hiện tại, chúng tôi không chính thức hỗ trợ ghi âm cuộc gọi điện thoại. Bạn có thể thử dùng chế độ loa ngoài và ghi âm từ một thiết bị khác như một cách thay thế."
+      },
+      "faq5": {
+        "title": "Làm thế nào để nâng cao độ chính xác của việc chuyển lời nói thành văn bản?",
+        "desc": "Đặt thiết bị ghi âm gần và đảm bảo giọng nói của người đối diện rõ ràng. Giảm tiếng ồn nền và tránh nói đồng thời nhiều người."
+      },
+      "faq6": {
+        "title": "Có thể khôi phục các cuộc hội thoại đã xóa không?",
+        "desc": "Hãy lưu ý rằng dữ liệu đã xóa sẽ không thể khôi phục."
+      },
+      "faq7": {
+        "title": "Có thể chỉnh sửa văn bản đã chuyển từ lời nói không?",
+        "desc": "Không, chỉnh sửa không được hỗ trợ."
+      },
+      "faq8": {
+        "title": "Làm thế nào để xuất văn bản đã chuyển sang các ứng dụng khác?",
+        "desc": "Nhấn nút 'Sao chép' ở góc trên bên phải màn hình, sau đó dán vào nơi mong muốn."
+      },
+      "faq9": {
+        "title": "Làm thế nào để chia sẻ văn bản đã chuyển?",
+        "desc": "Nhấn nút 'Sao chép' ở góc trên bên phải màn hình, sau đó dán vào nơi mong muốn."
+      },
+      "faq10": {
+        "title": "Có thể sử dụng V2V đồng thời với nhiều người không?",
+        "desc": "Có, bạn có thể sử dụng đồng thời với nhiều người."
+      },
+      "faq11": {
+        "title": "Có thể dịch biên bản họp được tạo từ V2V không?",
+        "desc": "Có, bạn có thể sử dụng chức năng dịch tự động để dịch biên bản họp."
+      },
+      "faq12": {
+        "title": "Có chức năng loại bỏ tiếng ồn khi ghi âm không?",
+        "desc": "Có, V2V tích hợp tùy chọn loại bỏ tiếng ồn. Tuy nhiên, không khuyến nghị sử dụng trong trường hợp nhiều người nói hoặc khi bạn muốn giữ nguyên bản âm thanh gốc."
+      },
+      "faq13": {
+        "title": "Có thể chuyển văn bản từ video họp không?",
+        "desc": "Có thể chuyển văn bản từ video họp bằng cách chuyển đổi video thành tệp MP3 và tải lên hệ thống."
+      },
+      "faq14": {
+        "title": "Có thể điều chỉnh tốc độ chuyển văn bản không?",
+        "desc": "Không thể điều chỉnh tốc độ chuyển văn bản. Nó phụ thuộc vào chất lượng mạng."
+      },
+      "faq15": {
+        "title": "Có chèn dấu thời gian không?",
+        "desc": "Có, dấu thời gian được chèn vào từng phát ngôn."
+      }
+    },
+    "account": {
+      "faq1": {
+        "title": "Làm thế nào để xóa tài khoản V2V?",
+        "desc": "Vui lòng liên hệ qua email tại kenji.sakuramoto@at-peak.com."
+      },
+      "faq2": {
+        "title": "Điều gì xảy ra với dữ liệu khi xóa tài khoản?",
+        "desc": "Sau khi tài khoản bị xóa, dữ liệu cũng sẽ bị xóa hoàn toàn và không thể khôi phục."
+      },
+      "faq3": {
+        "title": "Tôi có thể thay đổi địa chỉ email đã đăng ký khi tạo tài khoản không?",
+        "desc": "Có, bạn có thể thay đổi địa chỉ email. Vui lòng liên hệ qua email tại kenji.sakuramoto@at-peak.com."
+      },
+      "faq4": {
+        "title": "Làm thế nào để đăng ký tài khoản?",
+        "desc": "Bạn có thể đăng ký trên trang đăng ký của V2V bằng cách nhập địa chỉ email và mật khẩu."
+      },
+      "faq5": {
+        "title": "Làm thế nào để đăng nhập?",
+        "desc": "Sử dụng địa chỉ email và mật khẩu đã đăng ký để đăng nhập."
+      }
+    },
+    "system": {
+      "faq1": {
+        "title": "Thiết bị nào được hỗ trợ?",
+        "desc": "V2V có thể sử dụng trên trình duyệt web. Ứng dụng cho iOS và Android dự kiến phát hành vào cuối năm 2024."
+      },
+      "faq2": {
+        "title": "Phiên bản mới nhất của V2V là gì?",
+        "desc": "Bạn có thể kiểm tra số phiên bản mới nhất tại https://pastebin.com/z3nqZkKg. Số phiên bản hiện tại cũng hiển thị ở cuối màn hình khi bạn nhấn vào biểu tượng hồ sơ."
+      },
+      "faq3": {
+        "title": "Có cần kết nối mạng để sử dụng không?",
+        "desc": "Có, bạn cần kết nối mạng ổn định để thực hiện chuyển đổi văn bản theo thời gian thực (khuyến nghị sử dụng Wi-Fi)."
+      },
+      "faq4": {
+        "title": "Những ngôn ngữ nào được hỗ trợ?",
+        "desc": "Tiếng Anh, Trung Quốc, Việt Nam, Đức, Pháp, Hàn Quốc, Nga, Ý, Tây Ban Nha, Hindi, Thái Lan, Ả Rập. Dự kiến sẽ hỗ trợ thêm nhiều ngôn ngữ trong tương lai."
+      },
+      "faq5": {
+        "title": "V2V hoạt động như thế nào?",
+        "desc": "V2V hoạt động dựa trên nền tảng đám mây, cung cấp tính năng nhận diện giọng nói và dịch thuật theo thời gian thực."
+      },
+      "faq6": {
+        "title": "Có hỗ trợ tiếng địa phương không?",
+        "desc": "Hiện tại, chúng tôi hỗ trợ tiếng Nhật và tiếng Anh chuẩn, nhưng việc hỗ trợ các tiếng địa phương còn hạn chế."
+      },
+      "faq7": {
+        "title": "Độ chính xác của bản dịch là bao nhiêu?",
+        "desc": "Độ chính xác cao đối với các cuộc hội thoại thông thường, nhưng có thể thay đổi với thuật ngữ chuyên ngành hoặc cách diễn đạt đặc biệt."
+      },
+      "faq8": {
+        "title": "Có thể sử dụng offline không?",
+        "desc": "Không, bạn cần có kết nối Internet để sử dụng."
+      },
+      "faq9": {
+        "title": "Có tích hợp với các công cụ họp trực tuyến khác không? (ví dụ: Teams, Webex)",
+        "desc": "Hiện tại, V2V hỗ trợ tích hợp với Microsoft Teams. Dự kiến sẽ tích hợp với Google Meet và Webex trong tương lai."
+      },
+      "faq10": {
+        "title": "Có ứng dụng dành cho máy tính không?",
+        "desc": "V2V hoạt động trên trình duyệt và không có ứng dụng dành riêng cho máy tính."
+      },
+      "faq11": {
+        "title": "Có thể hỗ trợ các thuật ngữ chuyên ngành không?",
+        "desc": "Bạn có thể đào tạo trước các thuật ngữ chuyên ngành để cải thiện độ chính xác nhận diện. Tính năng này có trong gói doanh nghiệp. Vui lòng liên hệ qua email kenji.sakuramoto@at-peak.com để biết thêm chi tiết."
+      },
+      "faq12": {
+        "title": "Phân biệt nhiều người nói được không?",
+        "desc": "Tính năng ghi âm và tải lên giọng nói hỗ trợ AI phân biệt nhiều người nói và chuyển đổi lời nói của từng người. Tuy nhiên, không thể phân biệt người nói trong thời gian thực."
+      },
+      "faq13": {
+        "title": "Những định dạng file âm thanh nào được hỗ trợ?",
+        "desc": "Hỗ trợ định dạng MP3."
+      },
+      "faq14": {
+        "title": "Hệ điều hành nào được hỗ trợ?",
+        "desc": "V2V hỗ trợ tất cả các hệ điều hành có thể sử dụng trình duyệt Chrome (khuyến nghị sử dụng Chrome). Để đảm bảo chất lượng âm thanh, khuyến nghị sử dụng tai nghe."
+      },
+      "faq15": {
+        "title": "Những trình duyệt nào được hỗ trợ?",
+        "desc": "Chrome được khuyến nghị, tuy nhiên bạn cũng có thể sử dụng trên các trình duyệt khác. Lưu ý rằng chất lượng trên các trình duyệt khác không được đảm bảo."
+      },
+      "faq16": {
+        "title": "Tốc độ kết nối Internet được khuyến nghị là bao nhiêu?",
+        "desc": "Khuyến nghị kết nối nhanh và ổn định (10Mbps trở lên)."
+      },
+      "faq17": {
+        "title": "Yêu cầu cấu hình máy tính để sử dụng V2V là gì?",
+        "desc": "V2V cần máy tính có thể chạy trình duyệt Chrome mượt mà. Đồng thời, bạn cần có micro và loa (khuyến nghị sử dụng tai nghe)."
+      }
+    },
+    "support": {
+      "faq1": {
+        "title": "Tôi có thể gửi phản hồi đến đâu?",
+        "desc": "Vui lòng gửi email đến kenji.sakuramoto@at-peak.com."
+      },
+      "faq2": {
+        "title": "Tôi phải làm gì nếu không đăng nhập được?",
+        "desc": "Nếu quên mật khẩu, vui lòng sử dụng chức năng đặt lại hoặc liên hệ qua email kenji.sakuramoto@at-peak.com."
+      },
+      "faq3": {
+        "title": "Tôi nên làm gì nếu quên mật khẩu?",
+        "desc": "Sử dụng liên kết đặt lại mật khẩu để tạo mật khẩu mới."
+      },
+      "faq4": {
+        "title": "Tôi nên liên hệ ở đâu để được hỗ trợ về V2V?",
+        "desc": "Vui lòng gửi câu hỏi đến kenji.sakuramoto@at-peak.com để được hỗ trợ chi tiết."
+      }
+    },
+    "data": {
+      "faq1": {
+        "title": "Dữ liệu của tôi có được lưu trữ an toàn không?",
+        "desc": "Chúng tôi cam kết bảo vệ quyền riêng tư và bảo mật dữ liệu của bạn. Dữ liệu được mã hóa và lưu trữ tại các trung tâm dữ liệu an toàn. Vui lòng xem Điều khoản Dịch vụ và Chính sách Bảo mật để biết thêm chi tiết."
+      },
+      "faq2": {
+        "title": "Dữ liệu của tôi được lưu trữ ở đâu?",
+        "desc": "Dữ liệu được lưu trữ trên máy chủ đám mây an toàn."
+      },
+      "faq3": {
+        "title": "Việc sao lưu dữ liệu được thực hiện như thế nào?",
+        "desc": "Dữ liệu được sao lưu định kỳ để đảm bảo an toàn trước các sự cố."
+      },
+      "faq4": {
+        "title": "Có hỗ trợ xác thực hai yếu tố không?",
+        "desc": "Hiện tại, chúng tôi chưa hỗ trợ xác thực hai yếu tố, nhưng các biện pháp bảo mật đã được tăng cường."
+      },
+      "faq5": {
+        "title": "Các biện pháp bảo mật của V2V là gì?",
+        "desc": "Dữ liệu của bạn được mã hóa và bảo vệ trong một môi trường an toàn."
+      },
+      "faq6": {
+        "title": "Dữ liệu được mã hóa như thế nào?",
+        "desc": "Dữ liệu được mã hóa bằng AES-256."
+      }
+    },
+    "pricing": {
+      "faq1": {
+        "title": "Sử dụng V2V có mất phí không?",
+        "desc": "Vui lòng liên hệ qua email kenji.sakuramoto@at-peak.com để biết chi tiết."
+      },
+      "faq2": {
+        "title": "Có bản dùng thử miễn phí không?",
+        "desc": "Có, chúng tôi cung cấp bản dùng thử miễn phí."
+      },
+      "faq3": {
+        "title": "Các gói cước là gì?",
+        "desc": "Vui lòng liên hệ qua email kenji.sakuramoto@at-peak.com để biết thông tin chi tiết về gói cước."
+      },
+      "faq4": {
+        "title": "Thời gian lưu trữ dữ liệu ghi âm là bao lâu?",
+        "desc": "Thời gian lưu trữ dữ liệu phụ thuộc vào gói cước của bạn."
+      },
+      "faq5": {
+        "title": "Dung lượng lưu trữ cho dữ liệu ghi âm là bao nhiêu?",
+        "desc": "Dung lượng lưu trữ khác nhau theo từng gói. Vui lòng liên hệ để biết thêm chi tiết."
+      }
+    },
+    "other": {
+      "faq1": {
+        "title": "Ai là nhà phát triển của V2V?",
+        "desc": "V2V được phát triển bởi Công ty Cổ phần At-Peak."
+      },
+      "faq2": {
+        "title": "V2V có API không?",
+        "desc": "API có sẵn. Vui lòng liên hệ qua email kenji.sakuramoto@at-peak.com để biết thêm chi tiết."
+      },
+      "faq3": {
+        "title": "Tôi có thể xem Điều khoản Dịch vụ của V2V ở đâu?",
+        "desc": "Vui lòng liên hệ qua email kenji.sakuramoto@at-peak.com để được cung cấp chi tiết."
+      },
+      "faq4": {
+        "title": "Tôi có thể xem Chính sách Bảo mật ở đâu?",
+        "desc": "Vui lòng liên hệ qua email kenji.sakuramoto@at-peak.com để được cung cấp chi tiết."
+      },
+      "faq5": {
+        "title": "Tôi có cần xin phép pháp lý để ghi âm cuộc trò chuyện ở khu vực tôi không?",
+        "desc": "Quy định pháp lý về việc ghi âm có thể khác nhau tùy thuộc vào khu vực và tình huống cụ thể. Chúng tôi khuyến nghị bạn nghiên cứu và tuân thủ luật pháp tại nơi bạn sử dụng."
+      }
+    }
+  },
+  "language": {
+    "en_US": "Tiếng Anh",
+    "ja_JP": "Tiếng Nhật",
+    "vi_VN": "Tiếng Việt",
+    "zh_CN": "Tiếng Trung",
+    "de_DE": "Tiếng Đức",
+    "fr_FR": "Tiếng Pháp",
+    "ko_KR": "Tiếng Hàn",
+    "it_IT": "Tiếng Ý",
+    "es_ES": "Tiếng Tây Ban Nha",
+    "ru_RU": "Tiếng Nga",
+    "hi_IN": "Tiếng Hindi",
+    "th_TH": "Tiếng Thái",
+    "ar_SA": "Tiếng Ả Rập"
+  },
+  "meetingRemindModal": {
+    "title": "Cách Sử Dụng Hiệu Quả Các Cuộc Họp V2V",
+    "subTitle": "※ Đặc biệt trong các cuộc họp đa ngôn ngữ",
+    "desc1": "Hãy nhận thức về khán giả của bạn và nói chậm lại.",
+    "desc2": "Nói rõ ràng và với tốc độ dễ hiểu.",
+    "desc3": "Tạm dừng khi nói sẽ cho phép âm thanh đã dịch đến người nghe nhanh hơn, giúp cuộc trò chuyện trở nên tự nhiên hơn.",
+    "desc4": "Nói quá nhanh có thể kích hoạt hướng dẫn từ V2V.",
+    "desc5": "Một khi đã tham gia cuộc họp, bạn không thể thay đổi cài đặt ngôn ngữ. Nếu muốn thay đổi, hãy nhấn nút quay lại, điều chỉnh cài đặt và tham gia lại.",
+    "desc6": "(Người dùng PC) Bấm phím cách để bật/tắt mic hoặc giơ tay lên!",
+    "desc7": "【Chỉ dành cho PC】 Bạn có thể điều chỉnh đầu vào micro và đầu ra loa từ trang cài đặt.",
+    "desc8": "【Chức năng dịch】 Để nghe đồng thời âm thanh gốc và âm thanh dịch, vui lòng sử dụng tai nghe hỗ trợ đầu ra 2 kênh. Mức âm lượng có thể được điều chỉnh từ biểu tượng loa ở góc trên bên phải."
+  },
+  "privateMeetingTooltip": {
+    "title": "Cuộc họp riêng tư",
+    "desc1": "Nếu bạn đặt phòng họp ở chế độ riêng tư, nó sẽ không hiển thị công khai cho người dùng khác.",
+    "desc2": "Để tham gia một phòng họp riêng tư, bạn cần chia sẻ liên kết của cuộc họp.",
+    "desc3": "Liên kết cuộc họp có thể được chia sẻ qua nút liên kết ở góc trên bên phải sau khi bạn vào phòng họp.",
+    "desc4": "Chia sẻ liên kết với người dùng khác để họ có thể truy cập vào phòng họp."
+  },
+  "setting": {
+    "microphoneTooltip": "Chọn thiết bị micro bạn muốn sử dụng.",
+    "speakerTooltip": "Chọn thiết bị để xuất âm thanh.",
+    "sttTooltip": "STT (Chuyển Giọng Nói Thành Văn Bản) chuyển âm thanh nói thành văn bản. Chúng tôi khuyên bạn nên sử dụng mô hình \"V2\" mới nhất, tự động thêm dấu chấm câu để có bản ghi tự nhiên hơn (cài đặt mặc định).",
+    "ttsTooltip": "TTS (Chuyển Văn Bản Thành Giọng Nói) chuyển văn bản thành âm thanh nghe tự nhiên. Chúng tôi khuyên bạn nên sử dụng mô hình \"V2\" mới nhất (cài đặt mặc định). Để bật sao chép giọng nói, vui lòng sử dụng cài đặt \"Sao Chép Giọng Nói\".",
+    "reverseTooltip": "Dịch ngược là quá trình dịch một văn bản đã dịch trở lại ngôn ngữ gốc. Ví dụ: nếu một văn bản tiếng Anh được dịch sang tiếng Nhật, một người dịch khác sẽ dịch phiên bản tiếng Nhật trở lại tiếng Anh mà không xem văn bản gốc. Bằng cách so sánh văn bản gốc và phiên bản dịch ngược, bạn có thể kiểm tra độ chính xác của bản dịch một cách khách quan.",
+    "reverseTooltipNote1": "Tính năng này chỉ khả dụng trong ",
+    "reverseTooltipNote2": "",
+    "maskingTooltip": "Thêm các từ ở đây để ẩn chúng trong âm thanh và văn bản. Nếu bạn bật tính năng che dữ liệu khi tải lên hoặc lưu, AI sẽ thay thế các từ này bằng âm thanh bíp trong âm thanh và ẩn chúng trong văn bản đã chép lại để đảm bảo quyền riêng tư.",
+    "sttTabDesc": "Chọn công cụ chuyển giọng nói thành văn bản, thêm từ vựng tùy chỉnh và đặt thời gian ngắt câu.",
+    "aiTabDesc": "Chọn công cụ AI, cấu hình tự động sửa lỗi, che dữ liệu và trích xuất thực thể.",
+    "ttsTabDesc": "Chọn công cụ chuyển văn bản thành giọng nói, đăng ký nhân bản giọng nói và thiết lập phương pháp phát lại."
+  },
+  "shareHistoryMeeting": {
+    "shareThisProject": "Chia sẻ dự án này",
+    "sendInvite": "Gửi lời mời",
+    "whoHasAccess": "Ai có quyền truy cập",
+    "inviteOthersByNameOrEmail": "Mời người khác theo tên hoặc email",
+    "owner": "chủ sở hữu",
+    "canEdit": "có thể chỉnh sửa",
+    "viewOnly": "chỉ xem",
+    "you": "bạn",
+    "copyLink": "Sao chép liên kết",
+    "success": "Thành công",
+    "somethingWentWrong": "Đã có lỗi xảy ra"
+  },
+  "clonedVoiceTips": {
+    "tip1": "(Ghi âm ứng dụng) Một văn bản có thể đọc được dài 2 phút sẽ được hiển thị.",
+    "tip2": "(Tải lên) Bạn có thể tải lên một mẫu giọng nói từ nút ở góc trên bên phải.",
+    "tip3": "Sử dụng micro hoặc thiết bị chất lượng cao để ghi âm.",
+    "tip4": "Ghi âm trong môi trường không có tiếng ồn.",
+    "tip5": "Ghi âm hoặc tải lên nhiều clip âm thanh dài 2 phút.",
+    "tip6": "Nói với giọng điệu và tốc độ tự nhiên.",
+    "tip7": "Bao gồm vài giây có cảm xúc lên xuống có thể hiệu quả."
+  },
+  "entityLabel": {
+    "person": {
+      "title": "Người",
+      "desc": "Người, bao gồm cả hư cấu.",
+      "example": "John Doe"
+    },
+    "norp": {
+      "title": "Quốc tịch",
+      "desc": "Quốc tịch, tôn giáo hoặc nhóm chính trị.",
+      "example": "Người Nhật, Phật tử, Nhà xã hội"
+    },
+    "org": {
+      "title": "Tổ chức",
+      "desc": "Công ty, cơ quan, tổ chức, v.v.",
+      "example": "Google, UN, NASA"
+    },
+    "gpe": {
+      "title": "Địa điểm",
+      "desc": "Quốc gia, thành phố, bang.",
+      "example": "Nhật Bản, Tokyo, California"
+    },
+    "loc": {
+      "title": "Địa danh",
+      "desc": "Vị trí ngoài GPE, dãy núi, vùng nước.",
+      "example": "Đỉnh Everest, Thái Bình Dương"
+    },
+    "product": {
+      "title": "Sản phẩm",
+      "desc": "Đồ vật, phương tiện, thực phẩm, v.v. (Không bao gồm dịch vụ.)",
+      "example": "Tesla Model 3, iPhone 15"
+    },
+    "event": {
+      "title": "Sự kiện",
+      "desc": "Bão được đặt tên, trận chiến, chiến tranh, sự kiện thể thao, v.v.",
+      "example": "Thế chiến II, Thế vận hội"
+    },
+    "work_of_art": {
+      "title": "Tác phẩm nghệ thuật",
+      "desc": "Tiêu đề sách, bài hát, v.v.",
+      "example": "The Great Gatsby, Imagine"
+    },
+    "language": {
+      "title": "Ngôn ngữ",
+      "desc": "Bất kỳ ngôn ngữ nào có tên.",
+      "example": "Tiếng Anh, Tiếng Nhật"
+    },
+    "date": {
+      "title": "Ngày tháng",
+      "desc": "Ngày hoặc giai đoạn tuyệt đối hoặc tương đối.",
+      "example": "1 tháng 1, 2024"
+    },
+    "time": {
+      "title": "Thời gian",
+      "desc": "Thời gian nhỏ hơn một ngày.",
+      "example": "3:30 chiều, nửa đêm"
+    },
+    "percent": {
+      "title": "Phần trăm",
+      "desc": "Tỷ lệ phần trăm, bao gồm '%'.",
+      "example": "75%, 3.14%"
+    },
+    "money": {
+      "title": "Tiền",
+      "desc": "Giá trị tiền tệ, bao gồm đơn vị.",
+      "example": "$100, £50"
+    },
+    "quantity": {
+      "title": "Số lượng",
+      "desc": "Đo lường, chẳng hạn như trọng lượng hoặc khoảng cách.",
+      "example": "10 kg, 5 dặm"
+    },
+    "ordinal": {
+      "title": "Số thứ tự",
+      "desc": "‘Thứ nhất’, ‘thứ hai’, v.v.",
+      "example": "Thứ nhất, Thứ hai"
+    },
+    "cardinal": {
+      "title": "Số đếm",
+      "desc": "Số không thuộc loại nào khác.",
+      "example": "1, 100, 250"
+    }
+  },
+  "sentiment": {
+    "positiveConversation": "Cuộc hội thoại tích cực",
+    "negativeConversation": "Cuộc hội thoại tiêu cực",
+    "sentimentScore": "Điểm cảm xúc",
+    "stackedBarChart": "Biểu đồ cột xếp chồng",
+    "scatterChart": "Biểu đồ phân tán",
+    "stackedBarChartTooltip": {
+      "title": "Biểu đồ cung cấp tóm tắt phân tích cảm xúc cho các cuộc hội thoại:",
+      "aggregateSentiment": "Tổng điểm cảm xúc",
+      "aggregateSentimentDesc": "Đại diện cho điểm cảm xúc tổng thể, được tính bằng tổng trọng số của điểm * cường độ cho tất cả các cuộc hội thoại.",
+      "totalConversation": "Tổng số cuộc hội thoại",
+      "totalConversationDesc": "Tổng số cụm từ hoặc câu được phân tích.",
+      "posNegConversation": "Cuộc hội thoại tích cực & tiêu cực",
+      "posNegConversationDesc": "Hiển thị dưới dạng một thanh ngang đơn, với các cuộc hội thoại tích cực xếp chồng lên các cuộc hội thoại tiêu cực để dễ so sánh.",
+      "bottomDesc": "Hình ảnh này giúp nhận biết xu hướng cảm xúc trong các cuộc hội thoại, làm nổi bật phản hồi tích cực hoặc tiêu cực của khách hàng."
+    },
+    "scatterChartTooltip": {
+      "desc1": "Biểu đồ này minh họa cảm xúc của các cụm từ được nói qua thời gian, dựa trên ID của chúng.",
+      "desc2": "Trục y đại diện cho điểm cảm xúc, dao động từ -1 (rất tiêu cực) đến 1 (rất tích cực).",
+      "desc3": "Kích thước của mỗi vòng tròn tương ứng với cường độ của cảm xúc.",
+      "desc4": "Điểm cảm xúc tích cực được hiển thị bằng các sắc thái màu xanh lá, trong khi điểm tiêu cực được hiển thị bằng các sắc thái màu đỏ.",
+      "desc5": "Di chuột qua một vòng tròn để xem chi tiết về cụm từ, bao gồm người nói, điểm cảm xúc và cường độ."
+    },
+    "tableTooltip": {
+      "title": "Bảng trên cung cấp phân tích cảm xúc cho các cụm từ, với các chi tiết sau:",
+      "idDesc": "Mã định danh duy nhất cho mỗi cụm từ.",
+      "speakerDesc": "Tên người dùng của người nói.",
+      "scoreDesc": "Điểm cảm xúc từ -1 (rất tiêu cực) đến 1 (rất tích cực). Một thanh ngang hiển thị điểm số, với màu xanh lá cho giá trị tích cực và màu đỏ cho giá trị tiêu cực. Bạn có thể di chuột qua thanh để xem giá trị chính xác.",
+      "magnitudeDesc": "Cường độ của cảm xúc, được biểu thị bằng một thanh màu cam tỷ lệ thuận để hình dung nhanh.",
+      "sentenceDesc": "Văn bản của cụm từ được phân tích.",
+      "bottomDesc": "Sử dụng các menu thả xuống phía trên để lọc theo người nói hoặc cảm xúc (tích cực hoặc tiêu cực). Bạn cũng có thể sử dụng hộp tìm kiếm để lọc cụm từ cụ thể và sắp xếp bảng bằng cách nhấp vào bất kỳ tiêu đề cột nào."
+    },
+    "dataTable": "Bảng dữ liệu",
+    "speaker": "Người nói",
+    "score": "Điểm số",
+    "magnitude": "Cường độ",
+    "sentence": "Cụm từ",
+    "filterSentences": "Lọc cụm từ...",
+    "allSpeakers": "Tất cả người nói",
+    "allScores": "Tất cả điểm số",
+    "positiveScores": "Điểm số tích cực",
+    "negativeScores": "Điểm số tiêu cực",
+    "notProcessTitle": "⚠️Phân tích cảm xúc chưa được xử lý cho bản ghi này.",
+    "clickToProcess": "Nhấn vào nút bên dưới để phân tích và xác định cảm xúc cho từng cụm từ."
+  },
+  "speakerSegmentTooltip": {
+    "title": "(Tính năng Beta) Bật phân đoạn người nói để tự động nhận diện và gắn nhãn các người nói khác nhau trong bản ghi. Tính năng này phân tách lời nói theo người nói, giúp dễ dàng xem lại và phân tích các cuộc hội thoại.",
+    "subTitle": "⚠️ Lưu ý",
+    "desc1": "Độ chính xác phụ thuộc vào các yếu tố như chất lượng âm thanh, tiếng ồn nền, giọng nói chồng lấn và sự khác biệt trong mẫu giọng nói.",
+    "desc2": "Để có kết quả tối ưu, sử dụng thiết lập micro đa kênh, gán một kênh đầu vào riêng cho từng người nói.",
+    "desc3": "Tối ưu hóa cho 2 người nói. Độ chính xác có thể giảm khi có 3 người nói trở lên."
+  },
+  "customWordsSttV2": {
+    "header": "Từ tùy chỉnh cho STT (chỉ dành cho V2)",
+    "toolTip1": "Thêm tối đa 50 từ được sử dụng thường xuyên hoặc độc đáo cho các cuộc trò chuyện của bạn.",
+    "toolTip2": "Những từ này sẽ giúp cải thiện độ chính xác của chuyển đổi giọng nói thành văn bản đối với các thuật ngữ cụ thể, chẳng hạn như tên, thuật ngữ kỹ thuật hoặc biệt ngữ ngành.",
+    "placeHolder": "Thêm tên hoặc từ cụ thể để cải thiện khả năng nhận diện..."
+  },
+  "customEntityTooltip": {
+    "desc1": "💡Tạo các danh mục của riêng bạn để nhận diện các thuật ngữ hoặc cụm từ cụ thể trong bản ghi của bạn.",
+    "desc2": "Ví dụ: bạn có thể tạo một danh mục tên là 'Sản phẩm' và thêm các từ như 'laptop', 'máy tính bảng' và 'điện thoại thông minh'.",
+    "desc3": "Khi được kích hoạt, tính năng trích xuất thực thể của chúng tôi sẽ tự động phát hiện và gắn nhãn các thuật ngữ này trong bản chép lời của bạn."
+  },
+  "summaryAITemplate": {
+    "interview": "Phỏng vấn",
+    "meeting": "Cuộc họp",
+    "podcast": "Podcast",
+    "business": "Đàm phán kinh doanh",
+    "presentation": "Bài thuyết trình",
+    "workshop": "Hội thảo",
+    "discussion": "Thảo luận"
+  },
+  "summaryAITemplateDetail": {
+    "description": "Sử dụng mẫu tóm tắt này, bạn có thể tự động tạo các tóm tắt và danh sách hành động phù hợp với các tình huống khác nhau, chẳng hạn như phỏng vấn, cuộc họp và đàm phán kinh doanh. Agenda, câu hỏi và các quyết định được tổ chức một cách khoa học, giúp bạn nắm bắt nội dung hiệu quả và xác định các bước tiếp theo một cách rõ ràng.",
+    "interview": {
+      "title": "Phỏng vấn",
+      "item1": "Câu hỏi và câu trả lời",
+      "item2": "Kỹ năng và kinh nghiệm của ứng viên",
+      "item3": "Tóm tắt phỏng vấn",
+      "item4": "Các điểm đánh giá",
+      "item5": "Các bước tiếp theo"
+    },
+    "meeting": {
+      "title": "Cuộc họp",
+      "item1": "Agenda cuộc họp",
+      "item2": "Quyết định đã được đưa ra",
+      "item3": "Danh sách việc cần làm",
+      "item4": "Tóm tắt",
+      "item5": "Câu hỏi"
+    },
+    "podcast": {
+      "title": "Podcast",
+      "item1": "Tổng quan tập",
+      "item2": "Giới thiệu khách mời",
+      "item3": "Tóm tắt các chủ đề chính",
+      "item4": "Câu hỏi và thảo luận",
+      "item5": "Giới thiệu tập tiếp theo"
+    },
+    "business": {
+      "title": "Đàm phán kinh doanh",
+      "item1": "Chi tiết đề xuất",
+      "item2": "Các điểm chính trong đàm phán",
+      "item3": "Ngân sách và điều kiện",
+      "item4": "Phản hồi từ khách hàng",
+      "item5": "Các hoạt động tiếp theo"
+    },
+    "presentation": {
+      "title": "Bài thuyết trình",
+      "item1": "Tổng quan bài thuyết trình",
+      "item2": "Tóm tắt các slide quan trọng",
+      "item3": "Câu hỏi và câu trả lời",
+      "item4": "Phản hồi quan trọng",
+      "item5": "Các hoạt động tiếp theo"
+    },
+    "workshop": {
+      "title": "Hội thảo",
+      "item1": "Mục tiêu hội thảo",
+      "item2": "Nội dung từng buổi",
+      "item3": "Phản hồi từ người tham gia",
+      "item4": "Những gì đã học và việc cần làm",
+      "item5": "Câu hỏi và thảo luận"
+    },
+    "discussion": {
+      "title": "Thảo luận",
+      "item1": "Các điểm chính trong tranh luận",
+      "item2": "Kết luận hoặc bất đồng ý kiến",
+      "item3": "Ý tưởng và đề xuất mới",
+      "item4": "Quyết định đã được đưa ra",
+      "item5": "Các hoạt động trong tương lai"
+    }
+  },
+  "microphoneTest": {
+    "randomize": "🎲 Ngẫu nhiên văn bản",
+    "startTest": "🎤 Bắt đầu",
+    "note": "Vui lòng thử nghiệm ở nơi yên tĩnh.",
+    "microphoneDevice": "Thiết bị micrô",
+    "totalWords": "Tổng số từ",
+    "accuracy": "Độ chính xác",
+    "historyTableTitle": "Lịch sử kiểm tra micrô",
+    "originTexts": {
+      "text1": "Không khí trong lành và tĩnh lặng, mang theo chút hương vị của đất. Một bóng người bước chậm rãi, từng bước hòa vào tiếng thì thầm của thiên nhiên. Phía trên, ánh sáng dịch chuyển trên bầu trời, tô điểm khung cảnh bằng sắc màu ấm áp và yên bình.",
+      "text2": "Đôi tay di chuyển đều đặn trên bề mặt, sắp xếp các vật dụng một cách gọn gàng. Không gian tràn ngập những âm thanh nhỏ của sự chuyển động và hoạt động xa xăm. Khi hoàn thành, khu vực mang đến cảm giác bình yên và có mục đích, phản ánh nỗ lực đã bỏ ra.",
+      "text3": "Ánh sáng tràn vào không gian yên tĩnh, làm nổi bật những hạt bụi lơ lửng trong không trung. Ai đó ngồi suy tư, ánh nhìn lơ đãng khi họ chìm vào dòng suy nghĩ. Bên ngoài, những âm thanh nhỏ của cuộc sống vẫn tiếp diễn, nhắc nhở về thế giới nhộn nhịp ngoài kia.",
+      "text4": "Một nhóm người tụ tập trò chuyện, giọng nói của họ đan xen tạo nên bức tranh của những suy nghĩ chung. Tiếng cười vang lên đôi lúc, phá vỡ dòng chảy ổn định của lời nói. Khi họ tan đi, không khí trở nên nhẹ nhàng hơn, mang theo dư âm niềm vui của họ.",
+      "text5": "Sự chuyển động lấp đầy một không gian mở, mỗi người đi theo con đường riêng không nhìn thấy. Không khí vang lên với âm thanh và mùi hương, hòa quyện thành một bản giao hưởng không ngừng thay đổi. Giữa hoạt động ấy, những khoảnh khắc tĩnh lặng nhỏ bé mang lại sự thư giãn thoáng qua.",
+      "text6": "Ai đó ngồi một mình, ngón tay lần theo cạnh của một vật nhỏ. Thế giới xung quanh dần biến mất thành tiếng ồn nền, chỉ còn lại sự suy tư yên tĩnh. Sự tĩnh lặng này vừa tiếp thêm sức mạnh vừa thoáng qua, một khoảng dừng hiếm hoi trong cuộc sống bận rộn.",
+      "text7": "Nước chảy đều đặn, âm thanh của nó mang lại sự thư giãn trong tĩnh lặng của khoảnh khắc. Một bóng người di chuyển có hệ thống, hoàn thành các công việc quen thuộc với sự tập trung yên tĩnh. Khi thời gian trôi qua, nhịp điệu của hoạt động trở nên gần như thiền định.",
+      "text8": "Ngày mới bắt đầu với ánh sáng nhẹ nhàng lọc qua cửa sổ, chiếu sáng một không gian quen thuộc. Ai đó động đậy, bắt đầu thói quen của mình bằng những cử động nhỏ nhưng có mục đích. Bên ngoài, thế giới thức dậy, thêm vào âm thanh của buổi sáng đang mở ra.",
+      "text9": "Công cụ phát ra tiếng lách cách nhẹ nhàng khi đôi tay làm việc một cách cẩn thận. Mỗi chuyển động đóng góp vào một tổng thể lớn hơn, minh chứng lặng lẽ cho sự kiên nhẫn. Thời gian trôi qua không ai nhận ra, nhịp điệu của tiến độ lấp đầy không gian.",
+      "text10": "Một bóng người đứng ở rìa của một khung cảnh rộng lớn, hình dáng của họ nổi bật giữa ánh sáng thay đổi. Không khí mát lạnh, mang theo những tiếng vọng xa xăm của sự sống không nhìn thấy. Thời gian như ngừng lại ở đây, mỗi hơi thở là lời nhắc nhở về khoảnh khắc hiện tại."
+    },
+    "wercerModal": {
+      "recogAccuracy": "Độ chính xác nhận dạng giọng nói",
+      "visualizeTitle": "Hiển thị độ chính xác nhận dạng giọng nói",
+      "numberCorrectWord": "Số từ đúng",
+      "numberReplacedWord": "Số từ thay thế sai",
+      "numberInsertedWord": "Số từ chèn sai",
+      "numberDeletedWord": "Số từ bị xóa",
+      "werErrorRate": "Tỷ lệ lỗi (WER)",
+      "legend1": "Mức có thể hiểu được",
+      "legend1Desc": "(Độ chính xác mục tiêu tối thiểu cho hệ thống nhận dạng giọng nói)",
+      "legend2": "Tiêu chuẩn yêu cầu độ chính xác cao",
+      "legend2Desc": "(Tiêu chuẩn yêu cầu độ chính xác cao)",
+      "legend3": "Mức đọc bản thảo của phát thanh viên",
+      "legendValue": "{{value}}% trở lên",
+      "item": "Mục",
+      "value": "Giá trị",
+      "targetValue": "Giá trị mục tiêu"
+    }
+  },
+  "tutorial": {
+    "title1": "Khám phá các hướng dẫn để tận dụng tối đa V2V! 🚀",
+    "title2": "Các hướng dẫn bổ sung sẽ sớm được phát hành, hãy đón chờ nhé!",
+    "title3": "",
+    "data": {
+      "tutorial1": "🏠 Menu Trang chủ và Các tính năng cơ bản",
+      "tutorial2": "🎤 Ghi âm và Tóm tắt bằng AI",
+      "tutorial3": "🌐 Dịch hội thoại theo thời gian thực",
+      "tutorial4": "📅 V2V cho các cuộc họp",
+      "tutorial5": "🤖 Cuộc họp: AI Phản hồi Tự động",
+      "tutorial6": "📜 Bot Cuộc họp trên Teams",
+      "tutorial7": "📂 Quản lý và Chia sẻ Lịch sử Ghi âm",
+      "tutorial8": "😊 Phân tích cảm xúc",
+      "tutorial9": "🔍 Trích xuất Thực thể",
+      "tutorial10": "🛡️ Tính năng Che dữ liệu",
+      "tutorial11": "📝 Tình huống 1: Xem Ghi âm Trực tiếp để Phát hiện PII",
+      "tutorial12": "📑 Tình huống 2: Mẫu Tóm tắt AI cho Các Tình huống",
+      "tutorial13": "📊 Tình huống 3: Phân tích Hiệu suất Cuộc gọi bằng AI",
+      "tutorial14": "🔎 Tình huống 4: Lấy Thông tin Quan trọng trong Cuộc họp"
+    },
+    "welcome": {
+      "title": "Chào mừng đến với V2V!",
+      "desc1": "Hãy tham quan nhanh ứng dụng để bắt đầu."
+    },
+    "profileMenu": {
+      "title": "Menu Hồ sơ",
+      "desc1": "Nhấn vào đây để quản lý tài khoản của bạn.",
+      "desc2": "Sử dụng để đăng xuất, cập nhật cài đặt hoặc nhận hỗ trợ khi cần."
+    },
+    "translationTab": {
+      "title": "Dịch theo Thời gian Thực",
+      "desc1": "Bật tính năng này để dịch hội thoại ngay lập tức.",
+      "desc2": "Rất hữu ích cho các cuộc họp với những người nói ngôn ngữ khác nhau.",
+      "desc3": ""
+    },
+    "recorderTab": {
+      "title": "Máy ghi âm",
+      "desc1": "Sử dụng tab này để ghi âm.",
+      "desc2": "Bạn cũng có thể chia sẻ liên kết để người khác xem bản ghi trực tiếp trong các cuộc họp.",
+      "desc3": ""
+    },
+    "audiosTab": {
+      "title": "Tab Bản ghi",
+      "desc1": "Tìm tất cả âm thanh và bản ghi âm của bạn tại đây.",
+      "desc2": "Chỉnh sửa, chia sẻ với nhóm của bạn hoặc nhận các bản tóm tắt nhanh bằng AI.",
+      "desc3": ""
+    },
+    "meetingTab": {
+      "title": "Tab Cuộc họp",
+      "desc1": "Bắt đầu hoặc tham gia cuộc họp để ghi âm tự động.",
+      "desc2": "Bản ghi âm sẽ được tạo theo thời gian thực để dễ dàng tham khảo.",
+      "desc3": ""
+    },
+    "startRecording": {
+      "title": "Bắt đầu Ghi âm",
+      "desc1": "Nhấn nút này để bắt đầu ghi âm.",
+      "desc2": "Sử dụng để ghi lại các cuộc thảo luận quan trọng hoặc ghi chú cuộc họp.",
+      "desc3": ""
+    },
+    "firework": {
+      "title": "Chúc mừng!",
+      "desc1": "Bạn đã hoàn thành hướng dẫn đầu tiên của mình!",
+      "desc2": "Thêm các hướng dẫn khác có thể được truy cập qua biểu tượng hồ sơ."
+    }
+  },
+  "meetingCreation": {
+    "v2vMeeting": {
+      "title": "Tạo cuộc họp V2V",
+      "headerText": "Tạo cuộc họp với V2V",
+      "desc1": "Chia sẻ liên kết cuộc họp để nhiều người dùng có thể tham gia.",
+      "desc2": "Âm thanh sẽ được chuyển thành văn bản trong thời gian thực.",
+      "desc3": "Hỗ trợ nhiều ngôn ngữ thông qua dịch âm thanh.",
+      "desc4": "Người dùng có thể đặt câu hỏi và AI sẽ tự động trả lời.",
+      "desc5": "Khuyến nghị sử dụng tài khoản V2V cá nhân cho mỗi người dùng."
+    },
+    "teamsMeeting": {
+      "title": "Bot cuộc họp Teams",
+      "headerText": "Thêm bot cuộc họp Teams",
+      "desc1": "Người dùng cần thêm URL cuộc họp Teams một cách thủ công.",
+      "desc2": "Bot V2V sẽ tham gia khi yêu cầu tham gia được chấp thuận.",
+      "desc3": "Bot sẽ tự động chuyển âm thanh cuộc họp thành văn bản."
+    }
+  },
+  "questionTab": {
+    "header": "⚠️ Chưa có câu hỏi nào được nhập",
+    "desc1": "Vui lòng nhập câu hỏi của bạn vào ô bên dưới.",
+    "desc2": "AI có thể trả lời câu hỏi dựa trên nội dung của cuộc họp.",
+    "desc3": "Người dùng khác cũng có thể trả lời câu hỏi của bạn."
+  }  
+}

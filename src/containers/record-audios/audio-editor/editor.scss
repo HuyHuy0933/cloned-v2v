@@ -1,0 +1,40 @@
+.bn-block-content.ProseMirror-selectednode > *,
+.ProseMirror-selectednode > .bn-block-content > * {
+  outline: none !important;
+}
+
+.bn-container {
+  --bn-colors-editor-text: white !important;
+  --bn-colors-editor-background: transparent !important;
+  --bn-font-family: "Hiragino Sans W3" !important;
+
+  .bn-editor {
+    padding-inline: 0 !important;
+
+    .bn-block-column {
+      padding: 8px 8px 8px 0;
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+
+  &.bn-mantine {
+    .mantine-Menu-dropdown {
+      background-color: hsl(var(--modal)) !important;
+      border-color: hsl(var(--primary-foreground)) !important;
+      box-shadow: 0 0 12px 4px hsl(var(--primary-foreground));
+
+      button {
+        background-color: transparent;
+        color: white;
+        cursor: none;
+        
+        &:hover {
+          background-color: hsl(var(--primary-foreground));
+        }
+      }
+    }
+  }
+}

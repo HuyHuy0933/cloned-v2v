@@ -1,0 +1,52 @@
+.volume-toggle {
+  position: relative;
+  display: inline-block;
+  
+  &--icon {
+    width: 75%;
+    height: 100%;
+    line-height: 100%;
+    display: block;
+    margin: auto;
+  }
+  
+  &--wave {
+    position: absolute;
+    border-radius: 50%;
+    transition: all 200ms;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    &_one {
+      width: 50%;
+      height: 50%;
+    }
+
+    &_two {
+      width: 75%;
+      height: 75%;
+    }
+  }
+  
+  &.mute .volume-toggle--wave {
+    border-radius: 0;
+    width: 40%;
+    height: 40%;
+    border-width: 0 2px 0 0;
+    
+    &_one {
+      transform:
+        rotate(45deg) 
+        translate3d(0, -50%, 0);
+    }
+    
+    &_two {
+      transform: 
+        rotate(-45deg)
+        translate3d(0, 50%, 0);
+    }
+  }
+}

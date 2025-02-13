@@ -1,0 +1,1303 @@
+{
+  "bottomTabs": {
+    "recorder": "Rekorder",
+    "conversation": "Übersetzung",
+    "recordedAudios": "Verlauf",
+    "meeting": "Meeting"
+  },
+  "common": {
+    "startRecording": "Aufnahme starten",
+    "startRecordingNote": "Die aufgezeichnete Audiodatei kann im 'Aufnahmeverlauf' überprüft werden",
+    "stopRecording": "Drücken, um die Aufnahme zu stoppen",
+    "finedTuneTitle": "Bitte wählen Sie, was Sie gesagt haben",
+    "pressCompleteNote": "Nach dem Drücken der Fertigstellen-Taste kann die aufgezeichnete Audiodatei im 'Aufnahmeverlauf' überprüft werden",
+    "saveToDeviceConfirm": "Möchten Sie diese Aufnahme auf Ihrem Gerät speichern?",
+    "doneRecording": "Aufnahme abgeschlossen",
+    "face2FaceMode": "⇅ Face-to-Face",
+    "parallelMode": "Parallel ⇈",
+    "converNote1": "Um zu beginnen",
+    "converNote2": "die",
+    "converNote3": "Unterhaltung",
+    "converNote4": "zu übersetzen,",
+    "converNote5": "tippen Sie bitte",
+    "converNote6": "auf das Mikrofon",
+    "converNote7": "Symbol",
+    "converNote8": "",
+    "converNote9": "Das Gespräch",
+    "endConversation": "Gespräch beenden",
+    "no": "Nein",
+    "yes": "Ja",
+    "complete": "Fertigstellen",
+    "generalFinedTune": "Allgemein",
+    "financeFinedTune": "Finanzen (nur Japanisch)",
+    "finedTuneHint": "Für normale Gespräche wählen Sie bitte 'Allgemein'",
+    "longFinanceFinedTune": "Finanzen (z. B. NISA, iDeCo) (nur Japanisch)",
+    "noSave": "Nicht speichern",
+    "save": "Speichern",
+    "removeNoiseTitle": "Geräusche entfernen?",
+    "removeNoiseTitleHint": "⚠️ Bei mehreren Sprechern wird die Verwendung der Geräuschunterdrückung nicht empfohlen",
+    "performMasking": "Maskierung durchführen",
+    "performMaskingHint": "⚡ Sie können in den Einstellungen Wörter zur Maskierung hinzufügen.<br />Datenschutzfunktion zum Verbergen sensibler Informationen.",
+    "selectFile": "Datei auswählen",
+    "search": "Suchen",
+    "uploadModalTitle": "Bitte laden Sie eine Audiodatei hoch",
+    "clickButtonAndSelectFile": "Klicken Sie auf die Schaltfläche unten und wählen Sie die Datei zum Hochladen aus.",
+    "upload": "Hochladen",
+    "finedTuneLabel": "Branchenterminologie",
+    "numOfSpeakers": "Anzahl der Sprecher",
+    "noRecordHistory": "Noch keine Aufzeichnung vorhanden.",
+    "wantToRecordOrUpload": "Möchten Sie ein Meeting aufzeichnen oder ein Audiosample hochladen?",
+    "deleteRecordConfirm": "Möchten Sie die Aufzeichnung löschen?",
+    "createMeetingTitle": "Ein Online-Meeting abhalten",
+    "meetingName": "Meeting-Name",
+    "meetingNamePlaceHolder": "Bitte geben Sie die Meeting-Agenda an",
+    "role": "Rolle",
+    "meetingContext": "Hintergrundinformationen hinzufügen",
+    "meetingCtxPlaceholder": "Hintergrundinformationen, Inhalte zur Vorabfreigabe, erwartete Fragen und Antworten usw. eingeben",
+    "setPassword": "Passwort festlegen",
+    "privateMeeting": "Privates Meeting",
+    "toHold": "Abhalten",
+    "addBotTeamsMeetingTitle": "V2V-Bot zum Teams-Meeting hinzufügen",
+    "addBotTeamsMeetingTitle1": "V2V-Bot zu",
+    "addBotTeamsMeetingTitle2": "Teams-Meeting hinzufügen",
+    "addBotTeamsMeetingTitle3": "※ 2-Stunden-System",
+    "teamsURL": "Teams-Meeting-URL",
+    "language": "Sprache",
+    "presenter": "Präsentator",
+    "recommended": "Empfohlen",
+    "secretary": "Sekretär",
+    "observer": "Beobachter",
+    "chairPerson": "Vorsitzender",
+    "secretaryPCUseOnly": "Sekretär (Protokollführer): Nur PC-Nutzung",
+    "observerNoSpeak": "Beobachter (Keine Sprechrechte)",
+    "chairPersonMaxOne": "Vorsitzender (Maximal einer)",
+    "meetingParticipants": "Teilnehmer: {{number}} Personen",
+    "meetingQAPlaceholder": "Was möchten Sie fragen?",
+    "thread": "Thread",
+    "question": "Frage",
+    "send": "Senden",
+    "editMsg": "Nachricht bearbeiten",
+    "replyInThread": "Im Thread antworten",
+    "highlightMsg": "Nachricht hervorheben",
+    "enterMsgPlaceholder": "Bitte Nachricht eingeben",
+    "replies": "Antworten",
+    "lastReply": "Letzte Antwort:",
+    "yearsAgo": "vor {{count}} Jahren",
+    "monthsAgo": "vor {{count}} Monaten",
+    "daysAgo": "vor {{count}} Tagen",
+    "hoursAgo": "vor {{count}} Stunden",
+    "minutesAgo": "vor {{count}} Minuten",
+    "secondsAgo": "vor {{count}} Sekunden",
+    "justNow": "Gerade eben",
+    "myPage": "Meine Seite",
+    "accountManage": "Kontoverwaltung",
+    "microphoneTest": "Mikrofontest",
+    "message": "Nachricht",
+    "setting": "Einstellungen",
+    "help": "Hilfe",
+    "logout": "Abmelden",
+    "name": "Name",
+    "photograph": "Foto",
+    "emptyInbox": "Der Posteingang ist leer.",
+    "noticeIfHasInbox": "Sie werden benachrichtigt, wenn eine neue Nachricht eingeht.",
+    "logoutConfirm": "Möchten Sie sich wirklich abmelden?",
+    "sttSettings": "STT-Einstellungen",
+    "sttV1": "V1",
+    "sttV2": "V2 (Interpunktion✅)",
+    "sttV3": "V3 (Fertigung)",
+    "ttsSettings": "TTS-Einstellungen",
+    "ttsNoClonedV1": "V1",
+    "ttsNoClonedV2": "V2",
+    "ttsNoClonedJPOnly": "V3 (nur Japanisch)",
+    "ttsCloned": "Verwendung des Voice-Cloning",
+    "meetingTTSSettings": "Meeting-TTS-Einstellungen",
+    "meetingTTSPlayWhileSpeaking": "Übersetzte Stimme während des Sprechens abspielen",
+    "meetingTTSPlayAfterSpeaking": "Übersetzte Stimme nach dem Sprechen abspielen",
+    "meetingSTTSettings": "Meeting-STT-Einstellungen",
+    "voiceCloned": "Stimmklonung",
+    "breathingTime": "Atemzeit",
+    "voiceCloneRegistration": "Registrierung der Stimmklonung",
+    "cloneVoice": "Stimme klonen",
+    "voiceClonedList": "Stimmklonungsliste",
+    "translationSettings": "Übersetzungs- und Autokorrektureinstellungen",
+    "translationOnly": "Nur Übersetzung",
+    "openAITranslation": "Übersetzung & Autokorrektur (OpenAI)",
+    "geminiTranslation": "Übersetzung & Autokorrektur (Gemini)",
+    "autoPhraseList": "Autokorrektur-Phrasenliste",
+    "autoPhraseListPlaceHolder": "Autophrasenliste",
+    "conversationSettings": "Konversationsübersetzung Einstellungen",
+    "conversationTTSSettings": "Konversationsübersetzung TTS-Einstellungen",
+    "conversationSTTSettings": "Konversationsübersetzung STT-Einstellungen",
+    "autoPlay": "Übersetzten Ton automatisch abspielen",
+    "notAutoPlay": "Übersetzten Ton nicht automatisch abspielen",
+    "notBackTranslate": "Keine Rückübersetzung",
+    "backTranslate": "Rückübersetzung",
+    "leftVoice": "Linke Stimme",
+    "rightVoice": "Rechte Stimme",
+    "leftBreathTime": "Links: Atemzeit",
+    "rightBreathTime": "Rechts: Atemzeit",
+    "fastTalk": "Schnelles Sprechen",
+    "usually": "Normal",
+    "maskingWords": "Datenmaskierungswörter",
+    "maskingWordsPlaceholder": "Einzufügende Wörter",
+    "developerSettings": "Entwicklereinstellungen",
+    "speed": "Geschwindigkeit",
+    "slow": "Langsam",
+    "fast": "Schnell",
+    "emotion": "Emotion",
+    "neutral": "Neutral",
+    "anger": "Wut",
+    "disgust": "Ekel",
+    "fear": "Angst",
+    "happy": "Glücklich",
+    "sad": "Traurig",
+    "surprise": "Überraschung",
+    "gender": "Geschlecht",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "tone": "Ton",
+    "pitch": "Tonhöhe",
+    "pitchScaleNote": "Die Verwendung eines anderen Werts als 1 kann die Klangqualität beeinträchtigen.",
+    "intonation": "Intonation",
+    "low": "Niedrig",
+    "high": "Hoch",
+    "less": "Weniger",
+    "aLot": "Mehr",
+    "userPrompt": "Autokorrektur Benutzeraufforderung",
+    "systemPrompt": "Autokorrektur Systemaufforderung",
+    "termsOfUse": "Nutzungsbedingungen",
+    "resetSettingConfirm": "Möchten Sie die App-Einstellungen auf die Standardwerte zurücksetzen?",
+    "processingAudio": "Audioverarbeitung",
+    "copied": "In die Zwischenablage kopiert",
+    "summaryAI": "KI-Zusammenfassung",
+    "transcription": "Transkription",
+    "notAnswered": "Nicht beantwortet",
+    "answered": "Beantwortet",
+    "maxClonedSamples": "Die maximale Anzahl an Stimmproben wurde erreicht",
+    "clonedVoiceTipTitle": "Tipps zur Erstellung eines guten Stimmklons",
+    "clonedVoiceTip1": "Ein Text, der etwa 2 Minuten Lesezeit benötigt, wird auf dem Bildschirm angezeigt.",
+    "clonedVoiceTip2": "Bitte lesen Sie klar und deutlich in einer ruhigen Umgebung.",
+    "clonedVoiceTip3": "Selbst bei Lese- oder Aussprachefehlern können Sie unbesorgt weiterlesen.",
+    "clonedVoiceTip4": "Wichtige Hinweise",
+    "clonedVoiceTip5": "Durch den Start der Aufnahme stimmen Sie der Analyse und Sprachgenerierung durch die 'V2V App' zu.",
+    "clonedVoiceTip6": "Diese Stimme wird automatisch aus den hochgeladenen Audiodaten oder Online-Meetings erstellt und zur Stimmklonung verwendet.",
+    "clonedVoiceTip7": "Die erzeugte Stimme wird sicher gespeichert, bis Sie deren Löschung beantragen.",
+    "audioSamplesRegisteredIn": "Registrierte Audiosamples in",
+    "startRecording2": "Aufnahme starten",
+    "endRecording": "Aufnahme beenden",
+    "recordThankYou": "Vielen Dank für die Aufnahme!",
+    "processVoiceTake1Min": "Der Stimmklonprozess dauert etwa 1 Minute.",
+    "enterVoiceName": "Bitte geben Sie den Namen der Stimme ein",
+    "enterVoiceNamePlaceholder": "Masayuki Fujita",
+    "startCloning": "Klonprozess starten",
+    "recording": "Aufnahme",
+    "clonedVoiceList": "Stimmklonliste",
+    "myRegisteredVoice": "Meine registrierte Stimme",
+    "systemVoice": "Systemstimme",
+    "deleteVoiceConfirm": "Möchten Sie Ihre Stimme löschen?",
+    "you": "Sie",
+    "participants": "Teilnehmer",
+    "languageSetting": "Spracheinstellungen",
+    "customVoiceUsageAmount": "Anzahl der Stimmklone",
+    "audioSamplesUsageAmount": "Stimmklon: Anzahl der Audiobeispiele",
+    "storageUsageTime": "Speichernutzung",
+    "noiseSuppressionUsageTime": "Geräuschunterdrückungszeit",
+    "AIUsageAmount": "KI-Nutzung (Token)",
+    "meetingUsageTime": "Nutzungszeit für Meetings",
+    "sttUsageTime": "STT-Nutzungszeit",
+    "ttsUsageChars": "TTS-Zeichenanzahl",
+    "cloneVoiceUsageChars": "TTS-Zeichenanzahl (Stimmklon)",
+    "translatedUsageChars": "Übersetzte Zeichen",
+    "minutes": "Minuten",
+    "hours": "Stunden",
+    "seconds": "Sekunden",
+    "mins": "m",
+    "hrs": "h",
+    "secs": "s",
+    "breathTimeDesc1": "Diese Einstellung bestimmt, wann das Audio während des Sprechens aufgeteilt wird.",
+    "breathTimeDesc2": "Je kürzer die eingestellte Zeit, desto schneller erfolgt die Aufteilung, Übersetzung und Wiedergabe des Audios.",
+    "breathTimeDesc3": "Wenn die Sprechgeschwindigkeit schnell ist oder es nur wenige Pausen gibt, wird eine kürzere Einstellung empfohlen.",
+    "confirm": "Bestätigen",
+    "chooseLanguageConfirm": "Bitte wählen Sie die Spracheinstellungen, bevor Sie die App verwenden",
+    "changeLaterInProfile": "※ Die Einstellungen können später in 'Mein Profil' geändert werden.",
+    "meetingPasscodeLimit": "Bitte geben Sie eine 5-stellige Zahl ein",
+    "meetingPasscodeInvalid": "Der Zugangscode ist falsch",
+    "meetingPasscodePrompt": "Zugangscode eingeben",
+    "joinMeeting": "Meeting beitreten",
+    "teamsURLPlaceholder": "Bitte URL eingeben",
+    "add": "Hinzufügen",
+    "return": "Zurück",
+    "endMeetingConfirm": "Möchten Sie das Meeting beenden?",
+    "chairPersonEndMeetingConfirm": "Möchten Sie das Meeting beenden? Wenn das Meeting beendet ist, werden alle im Raum entfernt.",
+    "cancel": "Abbrechen",
+    "end": "Beenden",
+    "agenda": "Tagesordnung",
+    "decisions": "Entscheidungen",
+    "todo": "Aufgaben",
+    "summary": "Zusammenfassung",
+    "askChatBotMeeting": "Über welches Meeting möchten Sie sprechen?",
+    "askChatBotTopicToTalk": "Was möchten Sie über dieses Meeting wissen?",
+    "aiChatTyping": "AI-Chat tippt...",
+    "pleaseAsk": "Bitte stellen Sie eine Frage!",
+    "aiChat": "AI Chat",
+    "selectMeeting": "Bitte wählen Sie ein Meeting",
+    "askAnother": "Weitere Frage stellen",
+    "changeMeeting": "Meeting ändern",
+    "autoDeletedChat": "Chatverlauf wird nach 1 Tag automatisch gelöscht",
+    "none": "Keine",
+    "saveMeetingConfirm": "Möchten Sie die Sitzungsdetails speichern? Gespeicherte Besprechungen können aus dem 'Transkript' angezeigt werden.",    
+    "enterMessage": "Nachricht eingeben...",
+    "today": "Heute",
+    "yesterday": "Gestern",
+    "unexpectedError": "Ein unerwarteter Fehler ist aufgetreten.",
+    "goHome": "Zur Startseite zurückkehren",
+    "goBack": "Zurück",
+    "botLangNotYou": "Bot-Sprache",
+    "selectTeamsNameModalTitle": "Bitte wählen Sie Ihren Benutzernamen für das Teams-Meeting aus.",
+    "confirmation": "Bestätigung",
+    "waitingBot": "Warten auf den Bot",
+    "trial": "Probe",
+    "downloading": "Herunterladen",
+    "multiUnmutedUsers": "Mehrere Benutzer sind in Teams stummgeschaltet!",
+    "copyMeetingLink": "Besprechungslink kopieren",
+    "botHasLeft": "Der V2V-Bot hat das Teams-Meeting verlassen!",
+    "answer": "Antwort",
+    "findingLocation": "Standort wird gesucht...",
+    "location": "Standort: ",
+    "copiedMeetingLink": "Besprechungslink kopiert!",
+    "onlineV2V": "V2V-Dienst: Online",
+    "checkNetwork": "Bitte überprüfen Sie Ihre Verbindung",
+    "internetConnected": "Mit dem Internet verbunden",
+    "internetDisconnected": "Hoppla! Das Internet ist getrennt",
+    "enterRoom": "Raum betreten",
+    "speakSlowly": "Sprechen Sie langsam und machen Sie Pausen!",
+    "unmuteAll": "Alle stummschalten aufheben",
+    "muteAll": "Alle stummschalten",
+    "originAudio": "Originalaudio",
+    "interpretation": "Übersetzung",
+    "holdStopRecording": "Taste halten, um die Aufnahme zu stoppen",
+    "networkGood": "Gut",
+    "networkFair": "Mittel",
+    "networkModerate": "Etwas instabil",
+    "networkPoor": "Instabil",
+    "networkOffline": "Offline",
+    "audioDeviceSetting": "Audio-Geräteeinstellungen",
+    "addV2VBotTeamsMeeting": "🤖 V2V-Bot zum Teams-Meeting hinzufügen",
+    "holdV2VConference": "💬 V2V-Konferenz abhalten",
+    "userMetadataModalTitle": "Überprüfung vor der Aufnahme",
+    "userMetadataModalSubTitle": "※Bitte bestätigen Sie, dass die folgenden Kontoinformationen korrekt sind",
+    "area": "Bereich",
+    "branch": "Filiale",
+    "returnToSettings": "Zurück zu den Einstellungen",
+    "confirmationCompleted": "Bestätigung abgeschlossen",
+    "emailAddress": "E-Mail-Adresse",
+    "hasEnteredRoom": "ist dem Raum beigetreten.",
+    "hasLeftRoom": "hat den Raum verlassen.",
+    "usageTitle": "Nutzungsübersicht",
+    "fontSize": "Schriftgröße",
+    "smaller": "Kleiner",
+    "bigger": "Größer",
+    "leaving": "Verlässt",
+    "guestUsed": "Gastnutzung",
+    "highSpeed": "🚀 Hohe Geschwindigkeit (Je nach Umgebung möglicherweise nicht wirksam)",
+    "uploading": "Wird hochgeladen",
+    "storeName": "Geschäftsname",
+    "fullName": "Vollständiger Name",
+    "mp3FileSizeLimit": "MP3-Dateien hochladen (max. 10 MB)",
+    "fileTooLarge": "Die Datei ist zu groß",
+    "meetingStopAlert": "Das Meeting endet in 1 Minute und wird automatisch gespeichert!",
+    "sttSettingTab": "Spracherkennung",
+    "aiSettingTab": "KI",
+    "ttsSettingTab": "Spracherzeugung",
+    "recorderEntityExtraction": "Entitätsextraktion",
+    "recorderTrancriptSharing": "Live-Transkriptfreigabe",
+    "entityExtractionDesc": "Kennzeichnet automatisch Informationen wie Personen, Orte und Organisationen während der Aufnahme.",
+    "trancriptSharingDesc": "Ermöglicht das Teilen von Live-Transkripten und extrahierten Informationen während der Aufnahme.",
+    "supportedLanguagesText": "Unterstützte Sprachen",
+    "spacySupportedLanguages": "Katalanisch, Chinesisch, Kroatisch, Dänisch, Niederländisch, Englisch, Finnisch, Französisch, Deutsch, Griechisch, Italienisch, Japanisch, Koreanisch, Litauisch, Mazedonisch, Mehrsprachig, Norwegisch, Bokmål, Polnisch, Portugiesisch, Rumänisch, Russisch, Slowenisch, Spanisch, Schwedisch, Ukrainisch",
+    "entityExtraction": "Entitätsextraktion",
+    "recordingPaused": "Die Aufnahme wurde pausiert",
+    "recordingResumed": "Die Aufnahme wurde fortgesetzt",
+    "recordingStopped": "Die Aufnahme wurde beendet",
+    "entityTabTitle": "Die Entitätsextraktion wurde für diese Aufnahme nicht durchgeführt.",
+    "entityTabBottomTitle": "Klicken Sie auf die Schaltfläche unten, um Entitäten im Text zu analysieren und zu identifizieren.",
+    "entityTabSubTitle": "Die erkannten Kategorien umfassen:",
+    "startProcessing": "Verarbeitung starten",
+    "paused": "Pausiert",
+    "ended": "Beendet",
+    "selectAll": "Alles auswählen",
+    "deselectAll": "Alles abwählen",
+    "sentiment": "Stimmungsanalyse",
+    "analyzeSentiment": "Stimmung analysieren",
+    "analyzeSentimentLonger": "Wenn die Anzahl der Phrasen im Transkript 100 überschreitet, kann die Verarbeitung länger dauern.<br />Bewertet den emotionalen Ton und die Stimmung des Gesprächs.",
+    "rowsPerPage": "Zeilen pro Seite",
+    "pageIndexOfTotal": "Seite {{page}} von {{total}}",
+    "showingPageRowsOfTotal": "Zeige {{from}} bis {{to}} von insgesamt {{total}} Einträgen.",
+    "recordSpeakerSegment": "Rekorder: Sprechersegmentierung",
+    "addCustomEntity": "Benutzerdefinierte Entität hinzufügen",
+    "enterEntityPlaceholder": "Entität eingeben...",
+    "enterWordsPlayholder": "Wörter eingeben...",
+    "addEntity": "Entität hinzufügen",
+    "syncNow": "Jetzt synchronisieren",
+    "syncing": "Synchronisiere...",
+    "synced": "Synchronisiert",
+    "refreshingPage": "Seite wird aktualisiert...",
+    "AISummary": "KI-Zusammenfassung",
+    "AISummarySkipped": "Für diese Aufnahme wurde keine KI-Zusammenfassung erstellt.",
+    "summaryAITemplate": "Zusammenfassungsvorlage",
+    "textCopied": "Text kopiert!",
+    "share": "Teilen",
+    "download": "Herunterladen",
+    "copy": "Kopieren",
+    "entity": "Entität",
+    "reset": "Zurücksetzen",
+    "hide": "Verstecken",
+    "show": "Anzeigen",
+    "sort": "Sortieren",
+    "filter": "Filter",
+    "date": "Datum",
+    "title": "Titel",
+    "duration": "Dauer",
+    "all": "Alle",
+    "startingSession": "Sitzung startet",
+    "start": "Start",
+    "skip": "Überspringen",
+    "close": "Schließen",
+    "commingSoon": "Demnächst",
+    "finish": "Fertigstellen",
+    "next": "Weiter",
+    "tutorial": "Tutorial",
+    "notStarted": "Nicht gestartet",
+    "pending": "Ausstehend",
+    "financeModelWarning": "Für jede aufgezeichnete Minute werden etwa 30 Sekunden Bearbeitungszeit benötigt.",
+    "on": "Ein",
+    "off": "Aus",
+    "size": "Größe",
+    "joinRecordingModalTitle": "Betreten Sie den Aufzeichnungsraum",
+    "teamsUrlFormat": "Die URL muss mit https://teams.microsoft.com/ oder https://teams.live.com/ beginnen.",
+    "addPeople": "Personen hinzufügen",
+    "myFavorite": "Mein Favorit",
+    "whospeaksModelWarning": "Im Spracherkennungsmodell V3 müssen die Anzahl der Gesprächsteilnehmer angegeben werden, um eine genaue Trennung nach Sprecher zu gewährleisten. Die Initialisierung kann bis zu 30 Sekunden dauern.",
+    "edit": "Bearbeiten",
+    "save2": "Speichern",
+    "untitledAudio": "Unbenannte Audio",
+    "enterAnswerPlaceholder": "Bitte geben Sie Ihre Antwort ein",
+    "length": "Länge",
+    "participants2": "Teilnehmer: {{value}}",
+    "keyword": "Schlüsselwort",
+    "original": "Original",
+    "showOriginText": "Originaltext anzeigen",
+    "uploadAttachmentPlaceholder": "Laden Sie Dateien hoch, die für diese Aufnahme relevant sind.",
+    "attachments": "Anhänge",
+    "deleteAttachmentConfirm": "Möchten Sie den Anhang löschen?",
+    "fileSizeLimit": "(Maximal {{size}} MB)",
+    "failToUpload": "Hochladen fehlgeschlagen",
+    "emptyAttachment1": "Für diesen Datensatz wurden noch keine Anhänge hochgeladen.",
+    "emptyAttachment2": "Beginnen Sie mit dem Hochladen von Dateien, indem Sie auf die Plus-Schaltfläche auf der rechten Seite klicken.",
+    "answering": "Beantworte",
+    "kuritaFineTuned": "Manufacturing",
+    "processing": "Verarbeitung",
+    "advancedSettings": "Erweiterte Einstellungen",
+    "saveAudioAdvancedSettingsNote": "⚠️ Hinweis: Die Verarbeitungszeit wird länger sein, wenn eine dieser erweiterten Funktionen aktiviert ist.",
+    "AISummaryHint": "Das Transkript wird automatisch mit dem LLM-Modell zusammengefasst."
+  },
+  "usageTooltip": {
+    "numVoiceClones": "Anzahl der Sprachklone",
+    "numVoiceClonesDesc": "Die Anzahl der registrierten Sprachklone, die ein Benutzer pro Konto haben kann.",
+    "numVoiceSamples": "Sprachklon: Anzahl der Sprachproben",
+    "numVoiceSamplesDesc": "Die Anzahl der Sprachproben, die Benutzer hochladen können, um die Qualität des Sprachklons zu verbessern.",
+    "storageUsage": "Speichernutzung",
+    "storageUsageDesc": "Die gesamte gespeicherte Zeit für Audioaufnahmen, Hochladen von Audiodateien oder Aufzeichnungen von Besprechungen.",
+    "noiseReductionTime": "Zeit für Geräuschreduzierung",
+    "noiseReductionTimeDesc": "Die Zeit, die benötigt wird, wenn die Option zur Geräuschreduzierung beim Speichern oder Hochladen von Audio gewählt wird.",
+    "AIUsageToken": "KI-Nutzungsmenge (Token)",
+    "AIUsageTokenDesc": "Die Anzahl der Tokens, die für KI-Zusammenfassungen oder für Fragen an die KI während oder nach einer Besprechungsaufzeichnung verwendet werden.",
+    "meetingJoinTime": "Besprechungszeit",
+    "meetingJoinTimeDesc": "Die Zeit, die der Benutzer in der Besprechung verbracht hat.",
+    "STTUsageTime": "Zeit für Spracherkennung (STT)",
+    "STTUsageTimeDesc": "Die gesamte Zeit, die für Spracherkennung (Speech-to-Text) in allen Funktionen verwendet wurde.",
+    "TTSUsageTime": "Zeit für Text-to-Speech (TTS)",
+    "TTSUsageTimeDesc": "Die gesamte Zeit, die für Text-to-Speech in allen Funktionen verwendet wurde.",
+    "numTTSCharacters": "Anzahl der Zeichen für TTS (Sprachklon)",
+    "numTTSCharactersDesc": "Die Zeit, die in allen Funktionen für Text-to-Speech unter Verwendung des Sprachklons aufgewendet wurde.",
+    "transCharacterCount": "Übersetzungszeichenzahl",
+    "transCharacterCountDesc": "Die gesamte Anzahl der Zeichen, die für Übersetzungen verwendet wurden."
+  },
+  "finedTuneTooltip": {
+    "title": "Was ist die Einstellung 'Branchenterminologie'?",
+    "description": "Die Einstellung 'Branchenterminologie' umfasst das Vortraining des KI-Modells mit speziellen Begriffen und Abkürzungen, die in bestimmten Branchen verwendet werden. Mit dieser Einstellung können schwierige Wörter, Eigennamen und Abkürzungen genauer erkannt werden, was eine höhere Präzision bei der Spracherkennung ermöglicht.",
+    "selectSettings": "Wählbare Einstellungen:",
+    "general": "Allgemein",
+    "generalDesc": "Nicht auf eine Branche spezialisiert und keine spezifischen Wörter vortrainiert. Es ist ein grundlegendes Erkennungsmodell, das in allen Bereichen eingesetzt werden kann.",
+    "finance": "Finanzen",
+    "financeDesc": "Vortrainiert mit speziellen Wörtern und Abkürzungen in der Finanzbranche. Zum Beispiel werden folgende Finanzbegriffe genauer erkannt:"
+  },
+  "meetingRoleTooltip": {
+    "presenterDesc1": "Teilnehmer mit Sprechrecht.",
+    "presenterDesc2": "Wählen Sie Personen aus, die voraussichtlich oder möglicherweise während des Meetings sprechen werden.",
+    "presenterDesc3": "Mehrere Personen können ausgewählt werden.",
+    "secretaryDesc1": "Teilnehmer mit Sprechrecht.",
+    "secretaryDesc2": "Eine spezielle Benutzeroberfläche wird für den Sekretär bereitgestellt und wird im Querformat empfohlen.",
+    "observerDesc1": "Teilnehmer ohne Sprechrecht.",
+    "observerDesc2": "Hat die Rolle, am Meeting teilzunehmen und den Inhalt zu hören, ohne zu sprechen.",
+    "observerDesc3": "Mehrere Personen können ausgewählt werden.",
+    "chairPersonDesc1": "Teilnehmer mit Sprechrecht und der Befugnis, das Meeting zwangsweise zu beenden.",
+    "chairPersonDesc2": "Es kann nur eine Person ausgewählt werden.",
+    "bottomNote": "Der letzte Teilnehmer, der das Meeting verlässt, oder der Vorsitzende hat die Befugnis, das Protokoll zu speichern."
+  },
+  "meetingCtxTooltip": {
+    "desc": "Sie können hier im Voraus Hintergrundinformationen, Schlüsselpunkte und erwartete Fragen und Antworten für das Meeting eingeben. Diese Informationen werden auch von der KI-Fragefunktion während des Meetings verwendet. Die KI gibt automatische Antworten auf die Fragen der Teilnehmer basierend auf dem Meetinginhalt und diesen vorab eingegebenen Informationen. Das Bereitstellen umfassender Informationen im Voraus kann zu genaueren und schnelleren Antworten führen."
+  },
+  "termsOfUseTooltip": {
+    "title": "V2V Nutzungsbedingungen (Entwurfsversion)",
+    "desc1": "Diese Nutzungsbedingungen (im Folgenden als 'die Bedingungen' bezeichnet) definieren die Nutzungsbedingungen für",
+    "desc2": "AtPeak Co., Ltd.",
+    "desc3": "(im Folgenden als 'das Unternehmen' bezeichnet) und seinen Simultanübersetzungsdienst 'V2V' (im Folgenden als 'der Dienst' bezeichnet). Der Dienst wird derzeit als Prototyp angeboten, und die Bedingungen sind ebenfalls in einer Entwurfsversion. Sie müssen den Bedingungen zustimmen, um den Dienst nutzen zu können.",
+    "desc4": "Erstellt am: 19. September 2024",
+    "term1": "Artikel 1 (Anwendbarkeit)",
+    "term1Desc1": "Zweck dieser Bedingungen ist es, die Rechte und Pflichten zwischen dem Unternehmen und den Benutzern in Bezug auf die Bereitstellung und Nutzung des Dienstes zu definieren. Benutzer müssen den Dienst gemäß diesen Bedingungen nutzen.",
+    "term1Desc2": "Falls es Abweichungen zwischen dem Inhalt der Bedingungen und den individuellen Nutzungsbedingungen des Dienstes gibt, haben die individuellen Nutzungsbedingungen Vorrang.",
+    "term2": "Artikel 2 (Definitionen)",
+    "term2Desc": "Zweck dieser Bedingungen ist es, die Rechte und Pflichten zwischen dem Unternehmen und den Benutzern in Bezug auf die Bereitstellung und Nutzung des Dienstes zu definieren. Benutzer müssen den Dienst gemäß diesen Bedingungen nutzen.",
+    "term3": "Artikel 3 (Kontoerstellung)",
+    "term3Desc1": "Um den Dienst zu nutzen, müssen Benutzer ein Konto durch Einrichten einer E-Mail-Adresse und eines Passworts erstellen. Die Registrierung eines Namens ist ebenfalls erforderlich.",
+    "term3Desc2": "Falls die bei der Kontoerstellung bereitgestellten Informationen falsch sind, behält sich das Unternehmen das Recht vor, das Konto zu sperren oder zu löschen.",
+    "term4": "Artikel 4 (Gebühren und Zahlungsmethoden)",
+    "term4Desc1": "Derzeit sind die Gebührenstruktur und Zahlungsmethoden für den Dienst noch nicht festgelegt. Sobald Details zu Gebühren und Zahlungen feststehen, werden die Bedingungen aktualisiert und die Benutzer benachrichtigt.",
+    "term5": "Artikel 5 (Verbotene Handlungen)",
+    "term5Desc1": "Benutzer dürfen während der Nutzung des Dienstes die folgenden Handlungen nicht ausführen:",
+    "term5Desc2": "Den Dienst für politische Aktivitäten nutzen. Insbesondere ist die Unterstützung der Aktivitäten von Politikern, politischen Parteien, Fraktionen oder politischen Organisationen untersagt.",
+    "term5Desc3": "Förderung oder Verleumdung bestimmter Politiker, politischer Parteien, Fraktionen oder politischer Organisationen.",
+    "term5Desc4": "Verletzung von Urheberrechten, Markenrechten oder anderen geistigen Eigentumsrechten des Unternehmens oder Dritter.",
+    "term5Desc5": "Nachahmen von Stimmen von Politikern, Prominenten oder Privatpersonen ohne deren Erlaubnis.",
+    "term5Desc6": "Verletzung von Urheberrechten, Markenrechten oder anderen geistigen Eigentumsrechten des Unternehmens oder Dritter.",
+    "term5Desc7": "Tätigkeiten, die gegen Gesetze, die öffentliche Ordnung oder Moral verstoßen, oder andere vom Unternehmen als unangemessen erachtete Handlungen.",
+    "term6": "Artikel 6 (Dienstunterbrechung usw.)",
+    "term6Desc1": "Das Unternehmen kann den Dienst ganz oder teilweise ohne vorherige Ankündigung unterbrechen oder einstellen, wenn:",
+    "term6Desc2": "Wartungsarbeiten oder Updates an den Computersystemen des Dienstes durchgeführt werden.",
+    "term6Desc3": "Der Dienst aufgrund von Naturkatastrophen, Bränden, Stromausfällen oder anderen Fällen höherer Gewalt schwer zu erbringen ist.",
+    "term6Desc4": "Computer- oder Kommunikationsleitungen aufgrund eines Unfalls gestoppt werden.",
+    "term6Desc5": "Andere Fälle, in denen das Unternehmen die Bereitstellung des Dienstes als schwierig erachtet.",
+    "term7": "Artikel 7 (Nutzungsbeschränkungen und Kontolöschung)",
+    "term7Desc1": "Das Unternehmen kann ohne vorherige Ankündigung die Nutzung von Konten vorübergehend einschränken oder löschen, wenn Benutzer:",
+    "term7Desc2": "Gegen eine der Bestimmungen der Bedingungen verstoßen.",
+    "term7Desc3": "Wenn falsche Informationen in den Registrierungsdetails gefunden werden.",
+    "term7Desc4": "Andere Fälle, in denen das Unternehmen die Nutzung des Dienstes als unangemessen erachtet.",
+    "term8": "Artikel 8 (Haftungsausschluss)",
+    "term8Desc1": "Das Unternehmen haftet nicht für Schäden, es sei denn, es liegt Vorsatz oder grobe Fahrlässigkeit des Unternehmens vor.",
+    "term8Desc2": "Das Unternehmen haftet nicht für Streitigkeiten zwischen Benutzern oder mit Dritten, die sich aus der Nutzung des Dienstes ergeben.",
+    "term9": "Artikel 9 (Änderungen der Bedingungen)",
+    "term9Desc": "Das Unternehmen kann die Bedingungen jederzeit ohne vorherige Ankündigung ändern, wenn dies als notwendig erachtet wird. Die geänderten Bedingungen treten in Kraft, sobald sie auf dem Dienst angezeigt werden, sofern nicht anders vom Unternehmen angegeben.",
+    "term10": "Artikel 10 (Anwendbares Recht und Gerichtsbarkeit)",
+    "term10Desc": "Diese Bedingungen unterliegen japanischem Recht. Im Falle von Streitigkeiten, die sich aus dem Dienst ergeben, ist das Bezirksgericht Tokio als erstinstanzliches Gericht zuständig."
+  },
+  "cloneTelePrompter": {
+    "line1": {
+      "text": "Hallo zusammen!"
+    },
+    "line2": {
+      "text": "Ich habe mich wirklich darauf gefreut, heute wieder mit euch zu sprechen."
+    },
+    "line3": {
+      "text1": "Diesmal möchte ich über die bemerkenswerten Fortschritte der jüngsten KI-Technologie und ihre Geschichte sprechen.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line4": {
+      "text": "Nun dann, lasst uns anfangen!"
+    },
+    "line5": {
+      "text": "Die Geschichte der Künstlichen Intelligenz (KI) reicht bis in die 1950er Jahre zurück."
+    },
+    "line6": {
+      "text1": "Damals strebten die Pioniere der Informatik das große Ziel an, menschliche Intelligenz mit Maschinen zu reproduzieren.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": "",
+      "text8": "",
+      "text9": "",
+      "text10": ""
+    },
+    "line7": {
+      "text1": "Die Dartmouth-Konferenz von 1956 symbolisierte den Beginn der KI-Forschung und wird als entscheidendes Ereignis angesehen.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": ""
+    },
+    "line8": {
+      "text1": "Danach erlebte die KI-Forschung eine Stagnation, aber in den 1980er Jahren brachte das Aufkommen von Expertensystemen neue Aufmerksamkeit.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": ""
+    },
+    "line9": {
+      "text": "Aufgrund fehlender Rechenleistung und Daten wurden jedoch die erwarteten Ergebnisse nicht erzielt."
+    },
+    "line10": {
+      "text1": "Ab den 2000er Jahren führten die Ansammlung von Big Data und bemerkenswerte Verbesserungen der Rechenleistung zu einer neuen Phase der KI-Forschung.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line11": {
+      "text1": "Insbesondere die Entwicklung der Deep-Learning-Technologie brachte revolutionäre Erfolge in Bereichen wie Bild- und Spracherkennung.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line12": {
+      "text": "Zum Beispiel hat die Technologie des autonomen Fahrens durch Fortschritte in der KI erheblich zugenommen."
+    },
+    "line13": {
+      "text": "Autos können nun autonom fahren, indem sie Informationen aus Sensoren und Kameras verarbeiten."
+    },
+    "line14": {
+      "text1": "Dies führte zu Erwartungen an eine Reduzierung von Verkehrsunfällen und einer verbesserten Effizienz im Transportwesen.",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line15": {
+      "text": "Darüber hinaus gab es bedeutende Fortschritte im Bereich der Verarbeitung natürlicher Sprache."
+    },
+    "line16": {
+      "text": "KI kann jetzt menschliche Sprache verstehen und Aufgaben wie Übersetzungen, Zusammenfassungen und sogar Texterstellung durchführen."
+    },
+    "line17": {
+      "text": "Diese Technologie ist äußerst wichtig, um die internationale Kommunikation und den Informationsaustausch zu fördern."
+    },
+    "line18": {
+      "text1": "Zusätzlich wird KI im medizinischen Bereich eingesetzt.",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line19": {
+      "text1": "Bei der frühen Diagnose von Krankheiten und der Entwicklung von Behandlungsmethoden analysiert KI große Datenmengen und liefert wertvolle Erkenntnisse.",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line20": {
+      "text": "Infolgedessen besteht die Möglichkeit, viele Leben zu retten."
+    },
+    "line21": {
+      "text": "Es gibt jedoch auch Herausforderungen im Zusammenhang mit dem Fortschritt der KI."
+    },
+    "line22": {
+      "text1": "Es gibt viele Probleme, die angegangen werden müssen, wie ethische Bedenken, Datenschutz und die Beseitigung von Vorurteilen.",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line23": {
+      "text": "Deshalb ist es notwendig, sorgfältig zu überlegen, wie die Technologie neben ihrer Entwicklung genutzt werden soll."
+    },
+    "line24": {
+      "text": "Schließlich ist es wichtig, dass wir weiter lernen, um von dieser Technologie voll profitieren zu können."
+    },
+    "line25": {
+      "text": "Lasst uns darüber nachdenken, wie wir neue Technologien verstehen und in unser Leben und unsere Arbeit integrieren können."
+    },
+    "line26": {
+      "text": "Auf diese Weise können wir eine reichere Zukunft gestalten."
+    },
+    "line27": {
+      "text": "Vielen Dank, dass Sie bis zum Ende zugehört haben."
+    },
+    "line28": {
+      "text": "Ich hoffe, das, was ich heute gesagt habe, wird Ihr Wissen vertiefen."
+    },
+    "line29": {
+      "text": "Ich werde weiterhin die neuesten Informationen und interessante Themen bringen, also freuen Sie sich auf das nächste Mal."
+    },
+    "line30": {
+      "text": "Bis zum nächsten Mal, alles Gute!"
+    }
+  },
+  "faqs": {
+    "categories": {
+      "all": "Alle",
+      "usage": "Nutzung",
+      "account": "Konto",
+      "system": "System",
+      "support": "Support",
+      "data": "Daten",
+      "pricing": "Preise",
+      "other": "Sonstiges"
+    },
+    "usage": {
+      "faq1": {
+        "title": "Wie lösche ich ein Gespräch?",
+        "desc": "Sowohl auf iOS als auch auf Android können Sie ein Gespräch löschen, indem Sie auf der Registerkarte „Aufnahmeverlauf“ nach links wischen, während das Gespräch angezeigt wird."
+      },
+      "faq2": {
+        "title": "Wofür kann V2V verwendet werden?",
+        "desc": "V2V transkribiert Gespräche und erleichtert das Suchen und Teilen. Es eignet sich zum Notieren von Besprechungen und Interviews, Aufzeichnen von Ideen während der Fahrt und Transkribieren von Audiodateien. Während der Aufnahme können auch Fotos gemacht und aufgezeichnet werden."
+      },
+      "faq3": {
+        "title": "Unterstützt V2V Zoom-Aufnahmen?",
+        "desc": "Derzeit bieten wir keine Erweiterungen/Plugins für Zoom oder Teams an, arbeiten jedoch an deren Entwicklung."
+      },
+      "faq4": {
+        "title": "Kann ich Telefonate aufnehmen?",
+        "desc": "Momentan wird die Aufnahme von Smartphone-Anrufen nicht offiziell unterstützt. Versuchen Sie, den Lautsprechermodus zu verwenden und die Aufnahme mit einem anderen Gerät vorzunehmen."
+      },
+      "faq5": {
+        "title": "Wie kann ich die Transkriptionsgenauigkeit verbessern?",
+        "desc": "Stellen Sie sicher, dass das Aufnahmegerät in der Nähe ist und die Stimme des Sprechers klar hörbar ist. Minimieren Sie Hintergrundgeräusche und Musik und vermeiden Sie, dass mehrere Personen gleichzeitig sprechen."
+      },
+      "faq6": {
+        "title": "Kann ich ein gelöschtes Gespräch wiederherstellen?",
+        "desc": "Einmal gelöschte Daten können nicht wiederhergestellt werden, bitte beachten Sie dies."
+      },
+      "faq7": {
+        "title": "Kann ich den transkribierten Text bearbeiten?",
+        "desc": "Bearbeiten ist nicht möglich."
+      },
+      "faq8": {
+        "title": "Kann ich den transkribierten Text in eine andere App exportieren?",
+        "desc": "Drücken Sie die „Kopieren“-Schaltfläche oben rechts auf dem Bildschirm, um den Text in die Zwischenablage zu kopieren. Sie können ihn dann an beliebiger Stelle einfügen."
+      },
+      "faq9": {
+        "title": "Wie teile ich den transkribierten Text?",
+        "desc": "Drücken Sie die „Kopieren“-Schaltfläche oben rechts auf dem Bildschirm, um den Text in die Zwischenablage zu kopieren. Sie können ihn dann an beliebiger Stelle einfügen."
+      },
+      "faq10": {
+        "title": "Kann V2V von mehreren Personen gleichzeitig verwendet werden?",
+        "desc": "Ja, es ist möglich, V2V gleichzeitig von mehreren Personen zu verwenden."
+      },
+      "faq11": {
+        "title": "Kann ich das Protokoll, das mit V2V erstellt wurde, übersetzen?",
+        "desc": "Ja, mit der automatischen Übersetzungsfunktion ist es möglich, das Protokoll zu übersetzen."
+      },
+      "faq12": {
+        "title": "Gibt es eine Funktion zur Geräuschunterdrückung bei Aufnahmen mit Rauschen?",
+        "desc": "Ja, es gibt eine Option zur Geräuschunterdrückung. Beachten Sie jedoch, dass diese Funktion bei Aufnahmen mit mehreren Sprechern oder wenn die Originalstimme erhalten bleiben soll, nicht empfohlen wird. Da eine Verarbeitung stattfindet, kann es dazu kommen, dass die Stimmen anderer Sprecher verschwinden oder der Klang verzerrt wird."
+      },
+      "faq13": {
+        "title": "Kann ich eine Besprechungsaufnahme mit V2V transkribieren?",
+        "desc": "Besprechungsaufnahmen können transkribiert werden, indem die Videodatei in das MP3-Format konvertiert und die Upload-Funktion verwendet wird."
+      },
+      "faq14": {
+        "title": "Kann ich die Transkriptionsgeschwindigkeit anpassen?",
+        "desc": "Die Transkriptionsgeschwindigkeit kann nicht angepasst werden. Da die Qualität auch von der Netzwerkverbindung abhängt, stellen Sie sicher, dass Sie eine stabile Netzwerkverbindung verwenden, wenn Sie V2V nutzen."
+      },
+      "faq15": {
+        "title": "Werden Zeitstempel eingefügt?",
+        "desc": "Ja, es werden Zeitstempel für jede Aussage eingefügt."
+      }
+    },
+    "account": {
+      "faq1": {
+        "title": "Wie lösche ich mein V2V-Konto?",
+        "desc": "Bitte kontaktieren Sie uns unter kenji.sakuramoto@at-peak.com."
+      },
+      "faq2": {
+        "title": "Was passiert mit meinen Daten, wenn ich mein Konto lösche?",
+        "desc": "Nach der Löschung des Kontos werden auch die Daten vollständig gelöscht und können nicht wiederhergestellt werden."
+      },
+      "faq3": {
+        "title": "Kann ich die E-Mail-Adresse, mit der ich mich bei der Kontoerstellung registriert habe, ändern?",
+        "desc": "Ja, die E-Mail-Adresse kann geändert werden. Bitte kontaktieren Sie uns unter kenji.sakuramoto@at-peak.com."
+      },
+      "faq4": {
+        "title": "Wie registriere ich mich für ein Konto?",
+        "desc": "Sie können sich registrieren, indem Sie auf der V2V-Registrierungsseite Ihre E-Mail-Adresse und ein Passwort eingeben."
+      },
+      "faq5": {
+        "title": "Wie melde ich mich an?",
+        "desc": "Melden Sie sich mit der E-Mail-Adresse und dem Passwort an, mit denen Sie sich registriert haben."
+      }
+    },
+    "system": {
+      "faq1": {
+        "title": "Welche Geräte werden unterstützt?",
+        "desc": "V2V ist über einen Webbrowser verfügbar. Die iOS- und Android-Apps werden voraussichtlich Ende 2024 veröffentlicht."
+      },
+      "faq2": {
+        "title": "Was ist die neueste Version von V2V?",
+        "desc": "Die neueste Versionsnummer können Sie unter https://pastebin.com/z3nqZkKg einsehen. Sie können auch die aktuelle Website-Version prüfen, indem Sie auf das Profil-Symbol klicken – die Versionsnummer wird am unteren Rand angezeigt."
+      },
+      "faq3": {
+        "title": "Benötige ich eine Netzwerkverbindung, um V2V zu nutzen?",
+        "desc": "Ja, eine stabile Netzwerkverbindung ist für die Echtzeit-Transkription erforderlich. (WLAN wird empfohlen)"
+      },
+      "faq4": {
+        "title": "Welche Sprachen werden unterstützt?",
+        "desc": "Englisch, Chinesisch, Vietnamesisch, Deutsch, Französisch, Koreanisch, Russisch, Italienisch, Spanisch, Hindi, Thailändisch, Arabisch. Weitere Sprachen werden in Zukunft unterstützt."
+      },
+      "faq5": {
+        "title": "Wie funktioniert V2V?",
+        "desc": "V2V ist cloudbasiert und bietet Echtzeit-Spracherkennung und Übersetzungsfunktionen."
+      },
+      "faq6": {
+        "title": "Unterstützt V2V Dialekte?",
+        "desc": "Derzeit unterstützt V2V standardmäßiges Japanisch und Englisch, hat jedoch Einschränkungen bei der Erkennung bestimmter Dialekte."
+      },
+      "faq7": {
+        "title": "Wie genau ist die Übersetzungsgenauigkeit?",
+        "desc": "Die Genauigkeit ist bei standardmäßigen Gesprächen hoch, kann jedoch bei Fachbegriffen oder speziellen Ausdrücken variieren."
+      },
+      "faq8": {
+        "title": "Kann V2V offline verwendet werden?",
+        "desc": "V2V kann nicht offline verwendet werden. Eine Internetverbindung ist erforderlich."
+      },
+      "faq9": {
+        "title": "Welche Video-Conferencing-Tools werden unterstützt? (z.B. Teams, Webex)",
+        "desc": "Derzeit ist eine Integration mit Microsoft Teams verfügbar. Integrationen mit Google Meet und Webex sind in Planung."
+      },
+      "faq10": {
+        "title": "Gibt es eine Desktop-App?",
+        "desc": "V2V funktioniert webbasiert, und es wird keine Desktop-App angeboten."
+      },
+      "faq11": {
+        "title": "Unterstützt V2V Fachbegriffe und branchenspezifische Ausdrücke?",
+        "desc": "Fachbegriffe und branchenspezifische Ausdrücke können durch vorheriges Training in der Erkennungsgenauigkeit verbessert werden. Dies ist im Enterprise-Plan verfügbar, bitte kontaktieren Sie kenji.sakuramoto@at-peak.com für weitere Details."
+      },
+      "faq12": {
+        "title": "Kann V2V mehrere Sprecher unterscheiden?",
+        "desc": "Mit der Aufnahme- und Sprachhochladefunktion kann V2V mehrere Sprecher erkennen und die Transkription für jeden Sprecher separat durchführen. Eine Echtzeit-Unterscheidung von Sprechern ist jedoch nicht möglich."
+      },
+      "faq13": {
+        "title": "Welche Audioformat-Dateien werden unterstützt?",
+        "desc": "MP3-Dateien werden unterstützt."
+      },
+      "faq14": {
+        "title": "Welche Betriebssysteme werden unterstützt?",
+        "desc": "V2V unterstützt alle Betriebssysteme, die den Chrome-Browser unterstützen (empfohlener Browser ist Chrome). Für eine bessere Audioqualität wird die Verwendung eines Headsets empfohlen."
+      },
+      "faq15": {
+        "title": "Welche Browser werden unterstützt?",
+        "desc": "Chrome ist der empfohlene Browser, aber auch andere Browser können verwendet werden. Beachten Sie jedoch, dass die Qualität bei anderen Browsern nicht garantiert werden kann."
+      },
+      "faq16": {
+        "title": "Welche Internetgeschwindigkeit wird empfohlen?",
+        "desc": "Eine schnelle und stabile Verbindung wird empfohlen (mindestens 10 Mbps)."
+      },
+      "faq17": {
+        "title": "Welche PC-Spezifikationen sind für den Betrieb von V2V erforderlich?",
+        "desc": "Für den Betrieb von V2V wird ein PC benötigt, auf dem der Chrome-Browser reibungslos läuft. Zudem sollten ein Mikrofon und Lautsprecher (Headset empfohlen) vorhanden sein."
+      }
+    },
+    "support": {
+      "faq1": {
+        "title": "Wo kann ich Feedback senden?",
+        "desc": "Bitte senden Sie Ihr Feedback per E-Mail an kenji.sakuramoto@at-peak.com."
+      },
+      "faq2": {
+        "title": "Was soll ich tun, wenn ich mich nicht einloggen kann?",
+        "desc": "Wenn Sie Ihr Passwort vergessen haben, nutzen Sie die Zurücksetzungsfunktion oder kontaktieren Sie uns unter kenji.sakuramoto@at-peak.com."
+      },
+      "faq3": {
+        "title": "Was soll ich tun, wenn ich mein Passwort vergessen habe?",
+        "desc": "Verwenden Sie den Passwort-Zurücksetzungslink, um ein neues Passwort festzulegen."
+      },
+      "faq4": {
+        "title": "Wo kann ich Fragen zu V2V stellen?",
+        "desc": "Bitte kontaktieren Sie uns für weitere Informationen unter kenji.sakuramoto@at-peak.com."
+      }
+    },
+    "data": {
+      "faq1": {
+        "title": "Sind meine Daten sicher gespeichert?",
+        "desc": "Wir gewährleisten die Privatsphäre und Sicherheit Ihrer Daten. Ihre Daten werden verschlüsselt und in sicheren Rechenzentren gespeichert. Weitere Informationen finden Sie in unseren Nutzungsbedingungen und der Datenschutzerklärung."
+      },
+      "faq2": {
+        "title": "Wo werden meine Daten gespeichert?",
+        "desc": "Die Daten werden auf sicheren Cloud-Servern gespeichert."
+      },
+      "faq3": {
+        "title": "Wie werden Daten gesichert?",
+        "desc": "Regelmäßige Backups werden durchgeführt, um für den Notfall gewappnet zu sein."
+      },
+      "faq4": {
+        "title": "Gibt es eine Zwei-Faktor-Authentifizierung?",
+        "desc": "Derzeit gibt es keine Option für eine Zwei-Faktor-Authentifizierung, jedoch wurden die Sicherheitsmaßnahmen verstärkt."
+      },
+      "faq5": {
+        "title": "Erzählen Sie mir mehr über die Sicherheitsmaßnahmen von V2V.",
+        "desc": "Daten werden verschlüsselt und in einer sicheren Umgebung geschützt."
+      },
+      "faq6": {
+        "title": "Wie werden die Daten verschlüsselt?",
+        "desc": "Die Daten werden mit AES-256 verschlüsselt."
+      }
+    },
+    "pricing": {
+      "faq1": {
+        "title": "Kommen Kosten auf?",
+        "desc": "Bitte kontaktieren Sie uns für weitere Informationen unter kenji.sakuramoto@at-peak.com."
+      },
+      "faq2": {
+        "title": "Gibt es eine kostenlose Testversion?",
+        "desc": "Ja, Sie können eine kostenlose Testversion nutzen."
+      },
+      "faq3": {
+        "title": "Was sind die Preispläne?",
+        "desc": "Für detaillierte Preispläne kontaktieren Sie bitte kenji.sakuramoto@at-peak.com."
+      },
+      "faq4": {
+        "title": "Wie lange kann ich meine Aufnahme-Daten speichern?",
+        "desc": "Die Speicherdauer hängt vom gewählten Vertrag ab."
+      },
+      "faq5": {
+        "title": "Gibt es eine Größenbeschränkung für die Aufnahmedaten?",
+        "desc": "Es gibt unterschiedliche Beschränkungen je nach Plan. Weitere Informationen erhalten Sie auf Anfrage."
+      }
+    },
+    "other": {
+      "faq1": {
+        "title": "Wer hat V2V entwickelt?",
+        "desc": "V2V wurde von der At-Peak Co., Ltd. entwickelt."
+      },
+      "faq2": {
+        "title": "Gibt es eine API für V2V?",
+        "desc": "Eine API wird zur Verfügung gestellt. Weitere Informationen erhalten Sie bei kenji.sakuramoto@at-peak.com."
+      },
+      "faq3": {
+        "title": "Wo kann ich die Nutzungsbedingungen von V2V einsehen?",
+        "desc": "Bitte kontaktieren Sie uns für weitere Details unter kenji.sakuramoto@at-peak.com."
+      },
+      "faq4": {
+        "title": "Wo kann ich die Datenschutzerklärung einsehen?",
+        "desc": "Weitere Informationen finden Sie unter kenji.sakuramoto@at-peak.com."
+      },
+      "faq5": {
+        "title": "Muss ich in bestimmten Regionen die Erlaubnis anderer Personen einholen, um Gespräche aufzuzeichnen?",
+        "desc": "Dies hängt von der Region und der spezifischen Situation ab. Wir empfehlen, sich über die Gesetze zur Aufzeichnung in Ihrer Region zu informieren und diese zu verstehen."
+      }
+    }
+  },
+  "language": {
+    "en_US": "Englisch",
+    "ja_JP": "Japanisch",
+    "vi_VN": "Vietnamesisch",
+    "zh_CN": "Chinesisch",
+    "de_DE": "Deutsch",
+    "fr_FR": "Französisch",
+    "ko_KR": "Koreanisch",
+    "it_IT": "Italienisch",
+    "es_ES": "Spanisch",
+    "ru_RU": "Russisch",
+    "hi_IN": "Hindi",
+    "th_TH": "Thailändisch",
+    "ar_SA": "Arabisch"
+  },
+  "meetingRemindModal": {
+    "title": "Wie man V2V-Meetings effektiv nutzt",
+    "subTitle": "※ Insbesondere bei mehrsprachigen Meetings",
+    "desc1": "Seien Sie sich Ihres Publikums bewusst und sprechen Sie langsam.",
+    "desc2": "Sprechen Sie mit einer klaren Stimme und einem verständlichen Ton.",
+    "desc3": "Wenn Sie Ihre Rede unterteilen, erreicht das übersetzte Audio die Zuhörer schneller, was zu einer natürlicheren Konversation führt.",
+    "desc4": "Wenn Sie zu schnell sprechen, kann V2V eine Anleitung anzeigen.",
+    "desc5": "Sobald Sie beigetreten sind, können Sie die Spracheinstellungen nicht mehr ändern. Wenn Sie Änderungen vornehmen möchten, drücken Sie die Zurück-Taste, ändern Sie die Einstellungen und treten Sie erneut bei.",
+    "desc6": "(PC-Benutzer) Mit der Leertaste können Sie das Mikrofon ein-/ausschalten oder die Hand heben!",
+    "desc7": "【Nur PC】 Mikrofoneingang und Lautsprecherausgang können auf der Einstellungsseite angepasst werden.",
+    "desc8": "【Übersetzungsfunktion】 Verwenden Sie bitte ein Headset mit 2-Kanal-Ausgabe, um Original- und Übersetzungs-Audio gleichzeitig zu hören. Die Lautstärken können über das Lautsprechersymbol oben rechts eingestellt werden."
+  },
+  "privateMeetingTooltip": {
+    "title": "Privates Meeting",
+    "desc1": "Wenn Sie den Meetingraum auf privat setzen, ist er für andere Benutzer nicht sichtbar.",
+    "desc2": "Um einem privaten Meeting beizutreten, müssen Sie den Meeting-Link teilen.",
+    "desc3": "Der Meeting-Link kann über die Link-Schaltfläche oben rechts nach dem Beitritt zum Meetingraum geteilt werden.",
+    "desc4": "Teilen Sie den Link mit anderen Benutzern, um ihnen den Zugang zum Meetingraum zu ermöglichen."
+  },
+  "setting": {
+    "microphoneTooltip": "Wählen Sie das Mikrofon-Gerät aus, das Sie verwenden möchten.",
+    "speakerTooltip": "Wählen Sie das Gerät für die Audioausgabe.",
+    "sttTooltip": "STT (Spracherkennung) wandelt gesprochene Sprache in Text um. Wir empfehlen die neueste \"V2\"-Version, die automatisch Satzzeichen für eine natürlichere Transkription hinzufügt (Standardeinstellung).",
+    "ttsTooltip": "TTS (Text-zu-Sprache) wandelt Text in natürlich klingende Audio um. Wir empfehlen die neueste \"V2\"-Version (Standardeinstellung). Um Sprachklonierung zu aktivieren, verwenden Sie bitte die Einstellung \"Sprachklonierung\".",
+    "reverseTooltip": "Die Rückübersetzung ist ein Prozess, bei dem ein übersetzter Text zurück in die Originalsprache übersetzt wird. Wenn beispielsweise ein englischer Text ins Japanische übersetzt wird, wird ein anderer Übersetzer die japanische Version zurück ins Englische übersetzen, ohne den Originaltext zu sehen. Durch den Vergleich des Originaltexts mit der rückübersetzten Version können Sie die Genauigkeit der Übersetzung objektiv überprüfen.",
+    "reverseTooltipNote1": "Diese Funktion ist nur in ",
+    "reverseTooltipNote2": " verfügbar",
+    "maskingTooltip": "Fügen Sie hier Wörter hinzu, die im Audio und Text verborgen werden sollen. Wenn Sie die Datenmaskierung beim Hochladen oder Speichern aktivieren, ersetzt die KI diese Wörter durch Pieptöne im Audio und verbirgt sie im transkribierten Text, um die Privatsphäre zu schützen.",
+    "sttTabDesc": "Wählen Sie die Spracherkennungs-Engine, fügen Sie benutzerdefiniertes Vokabular hinzu und legen Sie die Dauer für Phrasenpausen fest.",
+    "aiTabDesc": "Wählen Sie die KI-Engine, konfigurieren Sie die automatische Korrektur, Datenmaskierung und Entitätsextraktion.",
+    "ttsTabDesc": "Wählen Sie die Text-to-Speech-Engine, registrieren Sie die Stimmklonung und legen Sie Wiedergabemethoden fest."
+  },
+  "shareHistoryMeeting": {
+    "shareThisProject": "Dieses Projekt teilen",
+    "sendInvite": "Einladung senden",
+    "whoHasAccess": "Wer hat Zugriff",
+    "inviteOthersByNameOrEmail": "Andere per Name oder E-Mail einladen",
+    "owner": "Eigentümer",
+    "canEdit": "kann bearbeiten",
+    "viewOnly": "nur ansehen",
+    "you": "du",
+    "copyLink": "Link kopieren",
+    "success": "Erfolg",
+    "somethingWentWrong": "Etwas ist schiefgelaufen"
+  },
+  "clonedVoiceTips": {
+    "tip1": "(App-Aufnahme) Ein 2-minütiger lesbarer Text wird angezeigt.",
+    "tip2": "(Hochladen) Sie können eine Sprachprobe über die Schaltfläche oben rechts hochladen.",
+    "tip3": "Verwenden Sie ein hochwertiges Mikrofon oder Gerät zur Aufnahme.",
+    "tip4": "Nehmen Sie in einer geräuschfreien Umgebung auf.",
+    "tip5": "Nehmen Sie mehrere 2-minütige Audioclips auf oder laden Sie sie hoch.",
+    "tip6": "Sprechen Sie in einer natürlichen Stimme und einem natürlichen Tempo.",
+    "tip7": "Einige Sekunden mit emotionalen Höhen und Tiefen können effektiv sein."
+  },
+  "entityLabel": {
+    "person": {
+      "title": "PERSON",
+      "desc": "Personen, einschließlich fiktiver.",
+      "example": "John Doe"
+    },
+    "norp": {
+      "title": "NORP",
+      "desc": "Nationalitäten oder religiöse oder politische Gruppen.",
+      "example": "Japaner, Buddhist, Sozialist"
+    },
+    "org": {
+      "title": "ORG",
+      "desc": "Unternehmen, Agenturen, Institutionen usw.",
+      "example": "Google, UN, NASA"
+    },
+    "gpe": {
+      "title": "GPE",
+      "desc": "Länder, Städte, Staaten.",
+      "example": "Japan, Tokio, Kalifornien"
+    },
+    "loc": {
+      "title": "ORT",
+      "desc": "Nicht-GPE-Standorte, Gebirgsketten, Gewässer.",
+      "example": "Mount Everest, Pazifik"
+    },
+    "product": {
+      "title": "PRODUKT",
+      "desc": "Objekte, Fahrzeuge, Lebensmittel usw. (Keine Dienstleistungen.)",
+      "example": "Tesla Model 3, iPhone 15"
+    },
+    "event": {
+      "title": "EREIGNIS",
+      "desc": "Benannte Hurrikane, Schlachten, Kriege, Sportveranstaltungen usw.",
+      "example": "Zweiter Weltkrieg, Olympische Spiele"
+    },
+    "work_of_art": {
+      "title": "KUNSTWERK",
+      "desc": "Titel von Büchern, Liedern usw.",
+      "example": "Der große Gatsby, Imagine"
+    },
+    "language": {
+      "title": "SPRACHE",
+      "desc": "Jede benannte Sprache.",
+      "example": "Englisch, Japanisch"
+    },
+    "date": {
+      "title": "DATUM",
+      "desc": "Absolute oder relative Daten oder Zeiträume.",
+      "example": "1. Januar 2024"
+    },
+    "time": {
+      "title": "ZEIT",
+      "desc": "Zeiten unter einem Tag.",
+      "example": "15:30 Uhr, Mitternacht"
+    },
+    "percent": {
+      "title": "PROZENT",
+      "desc": "Prozentsatz, einschließlich '%'.",
+      "example": "75%, 3,14%"
+    },
+    "money": {
+      "title": "GELD",
+      "desc": "Währungswerte, einschließlich Einheiten.",
+      "example": "100$, 50£"
+    },
+    "quantity": {
+      "title": "MENGE",
+      "desc": "Messwerte, z. B. Gewicht oder Entfernung.",
+      "example": "10 kg, 5 Meilen"
+    },
+    "ordinal": {
+      "title": "ORDNUNGSZAHL",
+      "desc": "‚Erste‘, ‚Zweite‘ usw.",
+      "example": "Erste, Zweite"
+    },
+    "cardinal": {
+      "title": "KARDINALZAHL",
+      "desc": "Zahlen, die nicht unter andere Typen fallen.",
+      "example": "1, 100, 250"
+    }
+  },
+  "sentiment": {
+    "positiveConversation": "Positive Gespräche",
+    "negativeConversation": "Negative Gespräche",
+    "sentimentScore": "Stimmungspunktzahl",
+    "stackedBarChart": "Gestapeltes Balkendiagramm",
+    "scatterChart": "Streudiagramm",
+    "stackedBarChartTooltip": {
+      "title": "Das Diagramm bietet eine Zusammenfassung der Stimmungsanalyse für Gespräche:",
+      "aggregateSentiment": "Aggregierte Stimmung",
+      "aggregateSentimentDesc": "Stellt die Gesamtpunktzahl der Stimmung dar, berechnet als gewichtete Summe von Punktzahl * Intensität für alle Gespräche.",
+      "totalConversation": "Gesamtanzahl der Gespräche",
+      "totalConversationDesc": "Die Gesamtzahl der analysierten Sätze oder Phrasen.",
+      "posNegConversation": "Positive & Negative Gespräche",
+      "posNegConversationDesc": "Wird als einzelner horizontaler Balken angezeigt, wobei positive Gespräche über negativen Gesprächen gestapelt werden, um den Vergleich zu erleichtern.",
+      "bottomDesc": "Diese Visualisierung hilft, Stimmungstrends in Gesprächen zu erkennen und hebt das allgemeine positive oder negative Kundenfeedback hervor."
+    },
+    "scatterChartTooltip": {
+      "desc1": "Dieses Diagramm visualisiert die Stimmung gesprochener Phrasen im Zeitverlauf, basierend auf ihren IDs.",
+      "desc2": "Die y-Achse stellt die Stimmungspunktzahl dar, die von -1 (stark negativ) bis 1 (stark positiv) reicht.",
+      "desc3": "Die Größe jedes Kreises entspricht der Intensität der Stimmung.",
+      "desc4": "Positive Stimmungspunktzahlen werden in Grüntönen dargestellt, während negative in Rottönen angezeigt werden.",
+      "desc5": "Bewegen Sie die Maus über einen Kreis, um Details zur Phrase, einschließlich Sprecher, Stimmungspunktzahl und Intensität, anzuzeigen."
+    },
+    "tableTooltip": {
+      "title": "Die obige Tabelle bietet eine Stimmungsanalyse für verschiedene Phrasen mit folgenden Details:",
+      "idDesc": "Eine eindeutige Kennung für jede Phrase.",
+      "speakerDesc": "Der Benutzername des Sprechers.",
+      "scoreDesc": "Ein Stimmungspunkt von -1 (stark negativ) bis 1 (stark positiv). Eine horizontale Leiste visualisiert den Punktwert, wobei Grün für positive und Rot für negative Werte steht. Sie können die Maus über die Leiste bewegen, um den genauen Punktwert zu sehen.",
+      "magnitudeDesc": "Die Stärke der Stimmung, dargestellt durch eine proportionale orangefarbene Leiste zur schnellen Visualisierung.",
+      "sentenceDesc": "Der Text der analysierten Phrase.",
+      "bottomDesc": "Verwenden Sie die Dropdown-Menüs oben, um nach Sprecher oder Stimmung (positiv oder negativ) zu filtern. Sie können auch das Suchfeld verwenden, um bestimmte Phrasen zu filtern und die Tabelle durch Klicken auf eine Spaltenüberschrift zu sortieren."
+    },
+    "dataTable": "Datentabelle",
+    "speaker": "Sprecher",
+    "score": "Punktwert",
+    "magnitude": "Intensität",
+    "sentence": "Phrase",
+    "filterSentences": "Phrasen filtern...",
+    "allSpeakers": "Alle Sprecher",
+    "allScores": "Alle Punktwerte",
+    "positiveScores": "Positive Punktwerte",
+    "negativeScores": "Negative Punktwerte",
+    "notProcessTitle": "⚠️Die Stimmungsanalyse wurde für diese Aufnahme nicht verarbeitet.",
+    "clickToProcess": "Klicken Sie auf die Schaltfläche unten, um die Stimmungen für jede Phrase zu analysieren und zu identifizieren."
+  },
+  "speakerSegmentTooltip": {
+    "title": "(Beta-Funktion) Aktivieren Sie die Sprechersegmentierung, um automatisch verschiedene Sprecher in der Aufnahme zu identifizieren und zu kennzeichnen. Diese Funktion trennt die Sprache nach Sprechern, was die Überprüfung und Analyse von Gesprächen erleichtert.",
+    "subTitle": "⚠️ Hinweis",
+    "desc1": "Die Genauigkeit hängt von Faktoren wie Audioqualität, Hintergrundgeräuschen, sich überlappenden Stimmen und Variationen in den Sprachmustern ab.",
+    "desc2": "Für optimale Ergebnisse verwenden Sie ein Multi-Channel-Pin-Mikrofon-Setup und weisen jedem Sprecher einen eigenen Eingangskanal zu.",
+    "desc3": "Optimiert für nur 2 Sprecher. Die Genauigkeit kann abnehmen, wenn es 3 oder mehr Sprecher gibt."
+  },
+  "customWordsSttV2": {
+    "header": "Benutzerdefinierte Wörter für STT (nur V2)",
+    "toolTip1": "Fügen Sie bis zu 50 Wörter hinzu, die häufig verwendet werden oder für Ihre Gespräche einzigartig sind.",
+    "toolTip2": "Diese Wörter helfen, die Genauigkeit der Spracherkennung für spezifische Begriffe wie Namen, Fachbegriffe oder Branchenausdrücke zu verbessern.",
+    "placeHolder": "Fügen Sie spezifische Namen oder Wörter hinzu, um die Erkennung zu verbessern..."
+  },
+  "customEntityTooltip": {
+    "desc1": "💡Erstellen Sie Ihre eigenen Kategorien, um spezifische Begriffe oder Phrasen in Ihren Aufnahmen zu identifizieren.",
+    "desc2": "Zum Beispiel könnten Sie eine Kategorie namens 'Produkte' erstellen und Wörter wie 'Laptop', 'Tablet' und 'Smartphone' hinzufügen.",
+    "desc3": "Wenn aktiviert, erkennt und kennzeichnet unsere Entitätsextraktion diese Begriffe automatisch in Ihren Transkripten."
+  },
+  "summaryAITemplate": {
+    "interview": "Vorstellungsgespräch",
+    "meeting": "Besprechung",
+    "podcast": "Podcast",
+    "business": "Geschäftsverhandlung",
+    "presentation": "Präsentation",
+    "workshop": "Workshop",
+    "discussion": "Diskussion"
+  },
+  "summaryAITemplateDetail": {
+    "description": "Mit dieser Zusammenfassungsvorlage können automatisch Zusammenfassungen und Aktionspunkte für verschiedene Situationen wie Vorstellungsgespräche, Besprechungen und Geschäftsverhandlungen erstellt werden. Agenden, Fragen und Entscheidungen werden organisiert, um Inhalte effizient zu erfassen und die nächsten Schritte klar zu definieren.",
+    "interview": {
+      "title": "Vorstellungsgespräch",
+      "item1": "Fragen und Antworten",
+      "item2": "Fähigkeiten und Erfahrungen des Bewerbers",
+      "item3": "Zusammenfassung des Gesprächs",
+      "item4": "Bewertungspunkte",
+      "item5": "Nächste Schritte"
+    },
+    "meeting": {
+      "title": "Besprechung",
+      "item1": "Agenda",
+      "item2": "Entscheidungen",
+      "item3": "To-Do",
+      "item4": "Zusammenfassung",
+      "item5": "Fragen"
+    },
+    "podcast": {
+      "title": "Podcast",
+      "item1": "Episodenübersicht",
+      "item2": "Gastvorstellung",
+      "item3": "Zusammenfassung der Hauptthemen",
+      "item4": "Fragen und Diskussion",
+      "item5": "Vorschau auf die nächste Episode"
+    },
+    "business": {
+      "title": "Geschäftsverhandlung",
+      "item1": "Angebotsdetails",
+      "item2": "Verhandlungspunkte",
+      "item3": "Budget und Bedingungen",
+      "item4": "Reaktionen des Kunden",
+      "item5": "Nächste Aktionen"
+    },
+    "presentation": {
+      "title": "Präsentation",
+      "item1": "Übersicht der Präsentation",
+      "item2": "Zusammenfassung der wichtigsten Folien",
+      "item3": "Fragen und Antworten",
+      "item4": "Wichtige Rückmeldungen",
+      "item5": "Nächste Aktionen"
+    },
+    "workshop": {
+      "title": "Workshop",
+      "item1": "Ziele des Workshops",
+      "item2": "Inhalte der einzelnen Sitzungen",
+      "item3": "Feedback der Teilnehmer",
+      "item4": "Erfahrungen und Maßnahmen",
+      "item5": "Fragen und Diskussion"
+    },
+    "discussion": {
+      "title": "Diskussion",
+      "item1": "Hauptdiskussionspunkte",
+      "item2": "Schlussfolgerungen oder Meinungsverschiedenheiten",
+      "item3": "Neue Ideen und Vorschläge",
+      "item4": "Entscheidungen",
+      "item5": "Zukünftige Aktionen"
+    }
+  },
+  "microphoneTest": {
+    "randomize": "🎲 Text zufällig auswählen",
+    "startTest": "🎤 Starten",
+    "note": "Bitte testen Sie an einem ruhigen Ort.",
+    "microphoneDevice": "Mikrofongerät",
+    "totalWords": "Gesamtanzahl der Wörter",
+    "accuracy": "Genauigkeit",
+    "historyTableTitle": "Mikrofon-Testverlauf",
+    "originTexts": {
+      "text1": "Die Luft ist frisch und ruhig, mit einem Hauch von Erde. Eine Gestalt geht langsam, ihre Schritte verschmelzen mit dem leisen Summen der Natur. Über ihnen wandert das Licht über den Himmel und malt die Szene in warme, friedliche Farbtöne.",
+      "text2": "Hände bewegen sich stetig über eine Oberfläche und ordnen Gegenstände ordentlich an. Der Raum füllt sich mit leisen Geräuschen von Bewegung und ferner Aktivität. Nach Abschluss fühlt sich der Bereich ruhig und zielgerichtet an, ein Spiegelbild der aufgewendeten Mühe.",
+      "text3": "Licht strömt in einen stillen Raum und beleuchtet Staubpartikel, die langsam durch die Luft schweben. Jemand sitzt nachdenklich da, der Blick unfokussiert. Draußen tragen leise Geräusche des Lebens weiter, ein Hinweis auf die geschäftige Welt jenseits.",
+      "text4": "Eine Gruppe versammelt sich zum Gespräch, ihre Stimmen verweben sich zu einem Teppich gemeinsamer Gedanken. Ab und zu erklingt ein Lachen, das den stetigen Fluss der Worte unterbricht. Nach der Auflösung fühlt sich die Luft leichter an und trägt das Echo ihrer Freude.",
+      "text5": "Eine offene Fläche ist voller Bewegung, jeder folgt seinem unsichtbaren Pfad. Die Luft summt vor Geräuschen und Düften, die sich zu einer sich ständig verändernden Symphonie verweben. Inmitten der Aktivität bieten kleine Momente der Stille kurzzeitige Erholung.",
+      "text6": "Jemand sitzt allein und fährt mit den Fingern über die Kanten eines kleinen Objekts. Die Welt um sie herum verblasst zu Hintergrundgeräuschen, nur leise Reflexion bleibt. Diese Stille wirkt sowohl erdend als auch flüchtig, eine seltene Pause im geschäftigen Leben.",
+      "text7": "Wasser fließt stetig, sein Klang beruhigt in der Stille des Moments. Eine Gestalt bewegt sich methodisch und erledigt vertraute Aufgaben mit ruhigem Fokus. Während die Zeit vergeht, wird der Rhythmus der Tätigkeit fast meditativ.",
+      "text8": "Der Tag beginnt mit sanftem Licht, das durch ein Fenster fällt und einen vertrauten Raum erhellt. Jemand bewegt sich, beginnt die Routine mit kleinen, aber gezielten Bewegungen. Draußen erwacht die Welt und fügt ihre Geräusche dem erwachenden Morgen hinzu.",
+      "text9": "Werkzeuge klicken und kratzen sanft, während Hände sorgfältig arbeiten. Jede Bewegung trägt zu einem größeren Ganzen bei, ein stilles Zeugnis der Geduld. Die Zeit vergeht unbemerkt, der Rhythmus des Fortschritts erfüllt den Raum.",
+      "text10": "Eine Gestalt steht am Rand eines weiten Blicks, ihre Silhouette eingerahmt von sich änderndem Licht. Die Luft ist kühl und trägt ferne Echos unsichtbaren Lebens. Die Zeit scheint hier stillzustehen, jeder Atemzug erinnert an den gegenwärtigen Moment."
+    },
+    "wercerModal": {
+      "recogAccuracy": "Genauigkeit der Spracherkennung",
+      "visualizeTitle": "Visualisierung der Spracherkennungsgenauigkeit",
+      "numberCorrectWord": "Anzahl der korrekten Wörter",
+      "numberReplacedWord": "Anzahl der ersetzten Wörter",
+      "numberInsertedWord": "Anzahl der eingefügten Wörter",
+      "numberDeletedWord": "Anzahl der gelöschten Wörter",
+      "werErrorRate": "Fehlerrate (WER)",
+      "legend1": "Verstehbares Niveau",
+      "legend1Desc": "(Mindestzielgenauigkeit für Spracherkennungssysteme)",
+      "legend2": "Standard, der hohe Genauigkeit erfordert",
+      "legend2Desc": "(Standard, der hohe Genauigkeit erfordert)",
+      "legend3": "Niveau des Vorlesens eines Sprechers",
+      "legendValue": "{{value}}% oder höher",
+      "item": "Element",
+      "value": "Wert",
+      "targetValue": "Zielwert"
+    }
+  },
+  "tutorial": {
+    "title1": "Entdecken Sie Tutorials, um V2V optimal zu nutzen! 🚀",
+    "title2": "Weitere Tutorials werden bald veröffentlicht, bleiben Sie dran!",
+    "title3": "",
+    "data": {
+      "tutorial1": "🏠 Hauptmenü und Grundfunktionen",
+      "tutorial2": "🎤 Aufnahme und KI-Zusammenfassung",
+      "tutorial3": "🌐 Echtzeit-Gesprächsübersetzung",
+      "tutorial4": "📅 V2V für Besprechungen",
+      "tutorial5": "🤖 Besprechung: KI-Antwort",
+      "tutorial6": "📜 Teams-Meeting-Bot",
+      "tutorial7": "📂 Verwaltung und Freigabe von Aufnahmehistorie",
+      "tutorial8": "😊 Sentimentanalyse",
+      "tutorial9": "🔍 Entitätsextraktion",
+      "tutorial10": "🛡️ Datenmaskierungsfunktion",
+      "tutorial11": "📝 Anwendungsfall 1: Live-Aufnahmeansicht zum Erkennen von PII",
+      "tutorial12": "📑 Anwendungsfall 2: KI-Zusammenfassungsvorlagen für Szenarien",
+      "tutorial13": "📊 Anwendungsfall 3: Leistungsanalyse von Anrufen mit KI",
+      "tutorial14": "🔎 Anwendungsfall 4: Abrufen wichtiger Besprechungsinformationen"
+    },
+    "welcome": {
+      "title": "Willkommen bei V2V!",
+      "desc1": "Machen Sie eine schnelle Tour durch die App, um loszulegen."
+    },
+    "profileMenu": {
+      "title": "Profilmenü",
+      "desc1": "Tippen Sie hier, um Ihr Konto zu verwalten.",
+      "desc2": "Verwenden Sie es, um sich abzumelden, Einstellungen zu aktualisieren oder Hilfe zu erhalten, wenn Sie sie benötigen."
+    },
+    "translationTab": {
+      "title": "Echtzeitübersetzung",
+      "desc1": "Aktivieren Sie dies, um Gespräche sofort zu übersetzen.",
+      "desc2": "Nützlich für Besprechungen mit Menschen, die unterschiedliche Sprachen sprechen.",
+      "desc3": ""
+    },
+    "recorderTab": {
+      "title": "Rekorder",
+      "desc1": "Verwenden Sie diesen Tab, um Audio aufzunehmen.",
+      "desc2": "Sie können auch einen Link teilen, damit andere während Besprechungen Live-Transkriptionen sehen können.",
+      "desc3": ""
+    },
+    "audiosTab": {
+      "title": "Transkriptionstab",
+      "desc1": "Finden Sie hier alle Ihre aufgezeichneten Audios und Transkriptionen.",
+      "desc2": "Bearbeiten Sie sie, teilen Sie sie mit Ihrem Team oder erhalten Sie schnelle KI-Zusammenfassungen.",
+      "desc3": ""
+    },
+    "meetingTab": {
+      "title": "Besprechungstab",
+      "desc1": "Starten oder treten Sie einer Besprechung bei, um automatisch Audio aufzuzeichnen.",
+      "desc2": "Transkriptionen werden in Echtzeit erstellt und können leicht referenziert werden.",
+      "desc3": ""
+    },
+    "startRecording": {
+      "title": "Aufnahme starten",
+      "desc1": "Drücken Sie diese Taste, um die Aufnahme zu starten.",
+      "desc2": "Verwenden Sie es, um wichtige Diskussionen oder Besprechungsnotizen aufzuzeichnen.",
+      "desc3": ""
+    },
+    "firework": {
+      "title": "Herzlichen Glückwunsch!",
+      "desc1": "Sie haben Ihr erstes Tutorial abgeschlossen!",
+      "desc2": "Weitere Tutorials können über das Profilsymbol aufgerufen werden."
+    }
+  },
+  "meetingCreation": {
+    "v2vMeeting": {
+      "title": "V2V-Meeting erstellen",
+      "headerText": "Ein Meeting mit V2V erstellen",
+      "desc1": "Teilen Sie den Besprechungslink, um mehrere Teilnehmer einzuladen.",
+      "desc2": "Der Ton wird in Echtzeit transkribiert.",
+      "desc3": "Unterstützt verschiedene Sprachen durch Audioübersetzung.",
+      "desc4": "Benutzer können Fragen stellen und die KI antwortet automatisch.",
+      "desc5": "Wir empfehlen die Verwendung von individuellen V2V-Konten."
+    },
+    "teamsMeeting": {
+      "title": "Teams-Meeting-Bot",
+      "headerText": "Teams-Meeting-Bot hinzufügen",
+      "desc1": "Benutzer müssen den Teams-Meeting-Link manuell hinzufügen.",
+      "desc2": "Der V2V-Bot tritt bei Genehmigung der Teilnahmeanfrage dem Meeting bei.",
+      "desc3": "Der Bot transkribiert die Audioinhalte automatisch."
+    }
+  },
+  "questionTab": {
+    "header": "⚠️ Es wurde noch keine Frage eingegeben",
+    "desc1": "Bitte geben Sie Ihre Frage in das untenstehende Eingabefeld ein.",
+    "desc2": "Die KI kann Fragen basierend auf dem Besprechungsinhalt beantworten.",
+    "desc3": "Auch andere Benutzer können Ihre Fragen beantworten."
+  }
+  
+}
