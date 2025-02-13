@@ -1,0 +1,1305 @@
+{
+  "bottomTabs": {
+    "recorder": "录音机",
+    "conversation": "翻译",
+    "recordedAudios": "历史记录",
+    "meeting": "会议"
+  },
+  "common": {
+    "startRecording": "开始录音",
+    "startRecordingNote": "录制的音频可以从“录音历史”中查看",
+    "stopRecording": "按下停止录音",
+    "finedTuneTitle": "请选择你所说的内容",
+    "pressCompleteNote": "按下完成按钮后，录制的音频可以从“录音历史”中查看",
+    "saveToDeviceConfirm": "您是否想将此录音保存到设备中？",
+    "doneRecording": "录音完成",
+    "face2FaceMode": "⇅ 面对面",
+    "parallelMode": "并行 ⇈",
+    "converNote1": "要开始",
+    "converNote2": "翻译对话",
+    "converNote3": "",
+    "converNote4": "请点击",
+    "converNote5": "麦克风图标",
+    "converNote6": "",
+    "converNote7": "",
+    "converNote8": "对话",
+    "converNote9": "将被录音",
+    "endConversation": "结束对话",
+    "no": "否",
+    "yes": "是",
+    "complete": "完成",
+    "generalFinedTune": "通用",
+    "financeFinedTune": "财务（仅限日语)",
+    "finedTuneHint": "对于普通对话，请选择“常规”",
+    "longFinanceFinedTune": "财务（例如：NISA、iDeCo）(仅限日语)",
+    "noSave": "不保存",
+    "save": "保存",
+    "removeNoiseTitle": "移除噪音?",
+    "removeNoiseTitleHint": "⚠️ 如果有多个说话者，不建议使用噪音消除",
+    "performMasking": "执行遮蔽处理",
+    "performMaskingHint": "⚡ 您可以在设置中添加需要屏蔽的词语。<br />隐私保护功能可屏蔽敏感信息。",
+    "selectFile": "选择文件",
+    "search": "搜索",
+    "uploadModalTitle": "请上传音频文件",
+    "clickButtonAndSelectFile": "点击下方按钮并选择要上传的文件。",
+    "upload": "上传",
+    "finedTuneLabel": "行业术语",
+    "numOfSpeakers": "说话者数量",
+    "noRecordHistory": "还没有录音历史。",
+    "wantToRecordOrUpload": "您想记录会议还是尝试上传音频样本？",
+    "deleteRecordConfirm": "是否要删除录音？",
+    "createMeetingTitle": "召开在线会议",
+    "meetingName": "会议名称",
+    "meetingNamePlaceHolder": "请提供会议议程",
+    "role": "角色",
+    "meetingContext": "添加背景信息",
+    "meetingCtxPlaceholder": "输入背景信息、想要预先分享的内容、预期的问题和答案等。",
+    "setPassword": "设置密码",
+    "privateMeeting": "私人会议",
+    "toHold": "召开",
+    "addBotTeamsMeetingTitle": "将 V2V 机器人添加到 Teams 会议",
+    "addBotTeamsMeetingTitle1": "将 V2V 机器人添加到",
+    "addBotTeamsMeetingTitle2": "Teams 会议",
+    "addBotTeamsMeetingTitle3": "※ 2小时系统",
+    "teamsURL": "Teams 会议 URL",
+    "language": "语言",
+    "presenter": "演讲者",
+    "recommended": "推荐",
+    "secretary": "秘书",
+    "observer": "观察员",
+    "chairPerson": "主席",
+    "secretaryPCUseOnly": "秘书（记录员）：仅限 PC 使用",
+    "observerNoSpeak": "观察员（无发言权）",
+    "chairPersonMaxOne": "主席（最多一人）",
+    "meetingParticipants": "参加人数：{{number}} 人",
+    "meetingQAPlaceholder": "你想询问什么？",
+    "thread": "线程",
+    "question": "问题",
+    "send": "发送",
+    "editMsg": "编辑消息",
+    "replyInThread": "在线程中回复",
+    "highlightMsg": "高亮消息",
+    "enterMsgPlaceholder": "请输入消息",
+    "replies": "条回复",
+    "lastReply": "最后回复:",
+    "yearsAgo": "{{count}}年前",
+    "monthsAgo": "{{count}}个月前",
+    "daysAgo": "{{count}}天前",
+    "hoursAgo": "{{count}}小时前",
+    "minutesAgo": "{{count}}分钟前",
+    "secondsAgo": "{{count}}秒前",
+    "justNow": "刚刚",
+    "myPage": "我的页面",
+    "accountManage": "账户管理",
+    "microphoneTest": "麦克风测试",
+    "message": "消息",
+    "setting": "设置",
+    "help": "帮助",
+    "logout": "登出",
+    "name": "姓名",
+    "photograph": "照片",
+    "emptyInbox": "收件箱为空。",
+    "noticeIfHasInbox": "有新消息时会通知您。",
+    "logoutConfirm": "确定要登出吗？",
+    "sttSettings": "STT设置",
+    "sttV1": "V1",
+    "sttV2": "V2（标点符号✅）",
+    "sttV3": "V3（制造）",
+    "ttsSettings": "TTS设置",
+    "ttsNoClonedV1": "V1",
+    "ttsNoClonedV2": "V2",
+    "ttsNoClonedJPOnly": "V3（仅限日语）",
+    "ttsCloned": "使用语音克隆",
+    "meetingTTSSettings": "会议TTS设置",
+    "meetingTTSPlayWhileSpeaking": "讲话时播放",
+    "meetingTTSPlayAfterSpeaking": "说完后播放",
+    "meetingSTTSettings": "会议STT设置",
+    "voiceCloned": "语音克隆",
+    "breathingTime": "呼吸时间",
+    "voiceCloneRegistration": "语音克隆注册",
+    "cloneVoice": "克隆声音",
+    "voiceClonedList": "语音克隆列表",
+    "translationSettings": "翻译与校正设置",
+    "translationOnly": "仅翻译",
+    "openAITranslation": "翻译与校正 (OpenAI)",
+    "geminiTranslation": "翻译与校正 (Gemini)",
+    "autoPhraseList": "自动校正短语列表",
+    "autoPhraseListPlaceHolder": "自动短语列表",
+    "conversationSettings": "对话翻译设置",
+    "conversationTTSSettings": "对话翻译TTS设置",
+    "conversationSTTSettings": "对话翻译STT设置",
+    "autoPlay": "自动播放翻译音频",
+    "notAutoPlay": "不自动播放翻译音频",
+    "notBackTranslate": "不反向翻译",
+    "backTranslate": "反向翻译",
+    "leftVoice": "左声道",
+    "rightVoice": "右声道",
+    "leftBreathTime": "左：呼吸时间",
+    "rightBreathTime": "右：呼吸时间",
+    "fastTalk": "快讲",
+    "usually": "普通",
+    "maskingWords": "屏蔽词",
+    "maskingWordsPlaceholder": "输入要屏蔽的词",
+    "developerSettings": "开发者设置",
+    "speed": "速度",
+    "slow": "慢",
+    "fast": "快",
+    "emotion": "情绪",
+    "neutral": "中性",
+    "anger": "愤怒",
+    "disgust": "厌恶",
+    "fear": "恐惧",
+    "happy": "开心",
+    "sad": "悲伤",
+    "surprise": "惊讶",
+    "gender": "性别",
+    "male": "男",
+    "female": "女",
+    "tone": "声调",
+    "pitch": "音高",
+    "pitchScaleNote": "使用非1的值可能会降低音质。",
+    "intonation": "语调",
+    "low": "低",
+    "high": "高",
+    "less": "少",
+    "aLot": "多",
+    "userPrompt": "自动校正用户提示",
+    "systemPrompt": "自动校正系统提示",
+    "termsOfUse": "使用条款",
+    "resetSettingConfirm": "是否将应用设置恢复为默认设置？",
+    "processingAudio": "正在处理音频",
+    "copied": "已复制到剪贴板",
+    "summaryAI": "AI摘要",
+    "transcription": "转录",
+    "notAnswered": "未回答",
+    "answered": "已回答",
+    "maxClonedSamples": "已达到语音样本的最大数量",
+    "clonedVoiceTipTitle": "创建优质语音克隆的技巧",
+    "clonedVoiceTip1": "屏幕上会显示一段大约2分钟的文本供您阅读。",
+    "clonedVoiceTip2": "请在安静的环境中清晰且响亮地朗读。",
+    "clonedVoiceTip3": "即使读错或发音错误，也可以继续阅读，无需担心。",
+    "clonedVoiceTip4": "注意事项",
+    "clonedVoiceTip5": "开始录音表示您同意由'V2V应用程序'进行的音频分析和语音生成。",
+    "clonedVoiceTip6": "该语音是根据上传的音频数据或在线会议自动生成的，用于语音克隆（声音重现）的目的。",
+    "clonedVoiceTip7": "生成的语音将安全存储，直到您请求删除。",
+    "audioSamplesRegisteredIn": "注册的音频样本在",
+    "startRecording2": "开始录音",
+    "endRecording": "结束录音",
+    "recordThankYou": "感谢您的录音！",
+    "processVoiceTake1Min": "语音克隆处理大约需要1分钟。",
+    "enterVoiceName": "请输入语音的名称",
+    "enterVoiceNamePlaceholder": "藤田正则",
+    "startCloning": "开始克隆处理",
+    "recording": "录音中",
+    "pause": "暂停",
+    "clonedVoiceList": "语音克隆列表",
+    "myRegisteredVoice": "我已注册的语音",
+    "systemVoice": "系统语音",
+    "deleteVoiceConfirm": "您要删除您的语音吗？",
+    "you": "你",
+    "participants": "参与者",
+    "languageSetting": "语言设置",
+    "customVoiceUsageAmount": "语音克隆数量",
+    "audioSamplesUsageAmount": "语音克隆：音频样本数量",
+    "storageUsageTime": "存储使用",
+    "noiseSuppressionUsageTime": "噪音抑制时间",
+    "AIUsageAmount": "AI使用量（Token）",
+    "meetingUsageTime": "会议参与时间",
+    "sttUsageTime": "STT使用时间",
+    "ttsUsageChars": "TTS 字符数",
+    "cloneVoiceUsageChars": "TTS 字符数（语音克隆）",
+    "translatedUsageChars": "翻译字符数",
+    "minutes": "分钟",
+    "hours": "小时",
+    "seconds": "秒",
+    "mins": "分钟",
+    "hrs": "小时",
+    "secs": "秒",
+    "breathTimeDesc1": "此设置决定在讲话时音频何时分割。",
+    "breathTimeDesc2": "设置时间越短，音频分割和翻译播放的速度就越快。",
+    "breathTimeDesc3": "如果说话速度快或很少停顿，可以选择较短的设置。",
+    "confirm": "确认",
+    "chooseLanguageConfirm": "在使用应用程序之前请选择语言设置",
+    "changeLaterInProfile": "※ 可以稍后在“我的页面”中更改设置。",
+    "meetingPasscodeLimit": "请输入5位数字",
+    "meetingPasscodeInvalid": "密码不正确",
+    "meetingPasscodePrompt": "请输入密码",
+    "joinMeeting": "加入会议",
+    "teamsURLPlaceholder": "请输入网址",
+    "add": "添加",
+    "return": "返回",
+    "endMeetingConfirm": "您要结束会议吗？",
+    "chairPersonEndMeetingConfirm": "您要结束会议吗？会议结束后，所有人将被移除。",
+    "cancel": "取消",
+    "end": "结束",
+    "agenda": "议程",
+    "decisions": "决策",
+    "todo": "待办事项",
+    "summary": "总结",
+    "askChatBotMeeting": "您想谈哪次会议？",
+    "askChatBotTopicToTalk": "您想了解这次会议的哪些信息？",
+    "aiChatTyping": "AI正在输入...",
+    "pleaseAsk": "请提问！",
+    "aiChat": "AI 聊天",
+    "selectMeeting": "请选择会议",
+    "askAnother": "再问一个问题",
+    "changeMeeting": "更改会议",
+    "autoDeletedChat": "聊天记录将在1天后自动删除",
+    "none": "无",
+    "saveMeetingConfirm": "您要保存会议详情吗？保存的会议可以从转录中查看。",
+    "enterMessage": "输入消息...",
+    "today": "今天",
+    "yesterday": "昨天",
+    "unexpectedError": "发生了意外错误。",
+    "goHome": "回到首页",
+    "goBack": "返回",
+    "botLangNotYou": "机器人语言",
+    "selectTeamsNameModalTitle": "请选择您在 Teams 会议中的用户名。",
+    "confirmation": "确认",
+    "waitingBot": "等待机器人",
+    "trial": "试用",
+    "downloading": "下载中",
+    "multiUnmutedUsers": "多个用户在Teams中取消静音!",
+    "copyMeetingLink": "复制会议链接",
+    "botHasLeft": "V2V机器人已退出Teams会议！",
+    "answer": "回答",
+    "findingLocation": "正在定位您的位置...",
+    "location": "位置: ",
+    "copiedMeetingLink": "已复制会议链接！",
+    "onlineV2V": "V2V服务：在线",
+    "checkNetwork": "请检查您的连接",
+    "internetConnected": "已连接到互联网",
+    "internetDisconnected": "哎呀！互联网已断开",
+    "enterRoom": "进入房间",
+    "speakSlowly": "慢慢说，停顿一下！",
+    "unmuteAll": "全部解除静音",
+    "muteAll": "全部静音",
+    "originAudio": "原始音频",
+    "interpretation": "口译",
+    "holdStopRecording": "按住按钮以停止录音",
+    "networkGood": "良好",
+    "networkFair": "一般",
+    "networkModerate": "稍微不稳定",
+    "networkPoor": "不稳定",
+    "networkOffline": "离线",
+    "audioDeviceSetting": "音频设备设置",
+    "addV2VBotTeamsMeeting": "🤖 将 V2V 机器人添加到 Teams 会议",
+    "holdV2VConference": "💬 举办 V2V 会议",
+    "userMetadataModalTitle": "录音前检查",
+    "userMetadataModalSubTitle": "※请确认以下账户信息是否正确",
+    "area": "区域",
+    "branch": "分行",
+    "returnToSettings": "返回设置",
+    "confirmationCompleted": "确认完成",
+    "emailAddress": "电子邮件地址",
+    "hasEnteredRoom": "进入了房间。",
+    "hasLeftRoom": "离开了房间。",
+    "usageTitle": "使用情况",
+    "fontSize": "字体大小",
+    "smaller": "更小",
+    "bigger": "更大",
+    "leaving": "正在退出",
+    "guestUsed": "访客使用",
+    "highSpeed": "🚀 高速（可能因环境而无效）",
+    "uploading": "正在上传",
+    "storeName": "店名",
+    "fullName": "姓名",
+    "mp3FileSizeLimit": "上传 MP3 文件（最大 10MB）",
+    "fileTooLarge": "文件太大",
+    "meetingStopAlert": "会议将在1分钟后结束并自动保存！",
+    "sttSettingTab": "语音识别",
+    "aiSettingTab": "人工智能",
+    "ttsSettingTab": "语音生成",
+    "recorderEntityExtraction": "录音机：实体提取",
+    "recorderTrancriptSharing": "录音机：实时转录共享",
+    "entityExtractionDesc": "在录音过程中自动标记信息（如人物、地点、组织等）。",
+    "trancriptSharingDesc": "录音过程中可以共享实时转录和提取信息的链接。",
+    "supportedLanguagesText": "支持的语言",
+    "spacySupportedLanguages": "加泰罗尼亚语, 中文, 克罗地亚语, 丹麦语, 荷兰语, 英语, 芬兰语, 法语, 德语, 希腊语, 意大利语, 日语, 韩语, 立陶宛语, 马其顿语, 多语言, 挪威语, 博克马尔语, 波兰语, 葡萄牙语, 罗马尼亚语, 俄语, 斯洛文尼亚语, 西班牙语, 瑞典语, 乌克兰语",
+    "entityExtraction": "实体提取",
+    "recordingPaused": "录音已暂停",
+    "recordingResumed": "录音已恢复",
+    "recordingStopped": "录音已停止",
+    "entityTabTitle": "此录音未进行实体提取。",
+    "entityTabBottomTitle": "点击下面的按钮分析并识别文本中的实体。",
+    "entityTabSubTitle": "检测到的类别包括：",
+    "startProcessing": "开始处理",
+    "paused": "暂停",
+    "ended": "结束",
+    "selectAll": "全选",
+    "deselectAll": "取消全选",
+    "sentiment": "情感分析",
+    "analyzeSentiment": "进行情感分析",
+    "analyzeSentimentLonger": "如果转录中的短语数量超过100，评估对话的情感基调和情绪。",
+    "rowsPerPage": "每页行数",
+    "pageIndexOfTotal": "第 {{page}} 页，共 {{total}} 页",
+    "showingPageRowsOfTotal": "显示第 {{from}} 条到第 {{to}} 条，共 {{total}} 条记录。",
+    "recordSpeakerSegment": "录音机：说话者分段",
+    "addCustomEntity": "添加自定义实体",
+    "enterEntityPlaceholder": "输入实体...",
+    "enterWordsPlayholder": "输入单词...",
+    "addEntity": "添加实体",
+    "syncNow": "立即同步",
+    "syncing": "正在同步...",
+    "synced": "已同步",
+    "refreshingPage": "正在刷新页面...",
+    "AISummary": "AI摘要",
+    "AISummarySkipped": "此录音未生成 AI 摘要。",
+    "summaryAITemplate": "摘要模板",
+    "textCopied": "文字已复制！",
+    "share": "分享",
+    "download": "下载",
+    "copy": "复制",
+    "entity": "实体",
+    "reset": "重置",
+    "hide": "隐藏",
+    "show": "显示",
+    "sort": "排序",
+    "filter": "筛选",
+    "date": "日期",
+    "title": "标题",
+    "duration": "时长",
+    "all": "全部",
+    "startingSession": "会话正在开始",
+    "start": "开始",
+    "skip": "跳过",
+    "close": "关闭",
+    "commingSoon": "即将推出",
+    "finish": "完成",
+    "next": "下一步",
+    "tutorial": "教程",
+    "financeModelWarning": "每分钟录音需要约30秒的处理时间。",
+    "notStarted": "未开始",
+    "pending": "待处理",
+    "on": "开",
+    "off": "关",
+    "size": "大小",
+    "joinRecordingModalTitle": "进入录音会议室",
+    "teamsUrlFormat": "URL 必须以 https://teams.microsoft.com/ 或 https://teams.live.com/ 开头。",
+    "addPeople": "添加人员",
+    "myFavorite": "我的最爱",
+    "whospeaksModelWarning": "在语音识别V3中，必须指定对话中的发言人数，以实现准确的发言人分离。初始化可能需要最多30秒。",
+    "edit": "编辑",
+    "save2": "保存",
+    "untitledAudio": "未命名音频",
+    "enterAnswerPlaceholder": "请输入您的答案",
+    "length": "长度",
+    "participants2": "参与者: {{value}}",
+    "keyword": "关键词",
+    "original": "原文",
+    "showOriginText": "显示原文",
+    "uploadAttachmentPlaceholder": "上传与此录音相关的文件。",
+    "attachments": "附件",
+    "deleteAttachmentConfirm": "您要删除附件吗？",
+    "fileSizeLimit": "(最大{{size}}MB)",
+    "failToUpload": "上传失败",
+    "emptyAttachment1": "此记录尚未上传任何附件。",
+    "emptyAttachment2": "通过按右侧的加号按钮开始上传文件。",
+    "answering": "正在回答",
+    "kuritaFineTuned": "Manufacturing",
+    "processing": "处理中",
+    "advancedSettings": "高级设置",
+    "saveAudioAdvancedSettingsNote": "⚠️ 注意: 启用任何这些高级功能都会增加处理时间。",
+    "AISummaryHint": "它将使用 LLM 模型自动总结转录内容。"
+  },
+  "usageTooltip": {
+    "numVoiceClones": "语音克隆数量",
+    "numVoiceClonesDesc": "用户每个帐户可以拥有的注册语音克隆数量。",
+    "numVoiceSamples": "语音克隆：音频样本数量",
+    "numVoiceSamplesDesc": "用户可以上传的音频样本数量，以提高语音克隆的质量。",
+    "storageUsage": "存储使用量",
+    "storageUsageDesc": "从音频录音、音频上传或会议录音中保存的总时间。",
+    "noiseReductionTime": "噪声消除时间",
+    "noiseReductionTimeDesc": "在保存或上传音频时选择噪声消除选项所需的时间。",
+    "AIUsageToken": "AI 使用量（Token）",
+    "AIUsageTokenDesc": "用于 AI 摘要或在会议中或之后向 AI 提问时使用的 Token 数量。",
+    "meetingJoinTime": "会议参加时间",
+    "meetingJoinTimeDesc": "用户参加会议的时间。",
+    "STTUsageTime": "语音转文字使用时间",
+    "STTUsageTimeDesc": "在所有功能中使用的语音识别（Speech-to-Text）的总时间。",
+    "TTSUsageTime": "文本转语音使用时间",
+    "TTSUsageTimeDesc": "在所有功能中使用的文本转语音（Text-to-Speech）的总时间。",
+    "numTTSCharacters": "TTS 字符数（语音克隆）",
+    "numTTSCharactersDesc": "在所有功能中使用语音克隆的文本转语音时间。",
+    "transCharacterCount": "翻译字符数",
+    "transCharacterCountDesc": "翻译中使用的总字符数。"
+  },
+  "finedTuneTooltip": {
+    "title": "“行业术语”设置是什么？",
+    "description": "“行业术语”设置涉及通过预先训练AI模型，学习特定行业中使用的专业术语和缩写。使用此设置，可以更准确地识别难懂的词汇、专有名词和缩写，从而提供更高精度的语音识别。",
+    "selectSettings": "可选择的设置：",
+    "general": "通用",
+    "generalDesc": "不针对任何特定行业，也没有预先学习特定的词汇。是可以应对所有领域的基本识别模型。",
+    "finance": "金融",
+    "financeDesc": "已预先学习金融行业的专用词汇和缩写。例如，以下的金融术语可以更准确地识别：",
+    "enterRoom": "进入房间",
+    "speakSlowly": "慢慢说，停顿一下！"
+  },
+  "meetingRoleTooltip": {
+    "presenterDesc1": "允许发言的参与者。",
+    "presenterDesc2": "选择预计或可能在会议中发言的人。",
+    "presenterDesc3": "可以选择多个人。",
+    "secretaryDesc1": "允许发言的参与者。",
+    "secretaryDesc2": "为书记提供了特殊的界面，建议在横屏上显示。",
+    "observerDesc1": "没有发言权的参与者。",
+    "observerDesc2": "在会议中扮演听取内容的角色而不发言。",
+    "observerDesc3": "可以选择多个人。",
+    "chairPersonDesc1": "允许发言的参与者，拥有强制结束会议的权利。",
+    "chairPersonDesc2": "只能选择一个人。",
+    "bottomNote": "最后一个离开会议的参与者或主席有权保存会议记录。"
+  },
+  "meetingCtxTooltip": {
+    "desc": "您可以在此提前输入会议的背景信息、关键点以及预期的问题和答案。这些信息也会在会议中由AI的问答功能使用。AI将根据会议内容和预先输入的信息，为参与者的提问提供自动响应。提前提供充分的信息，有助于获得更准确和快速的回复。"
+  },
+  "termsOfUseTooltip": {
+    "title": "V2V 使用条款（草案）",
+    "desc1": "这些使用条款（以下简称“条款”）规定了",
+    "desc2": "AtPeak 株式会社",
+    "desc3": "（以下简称“公司”）提供的同声翻译服务“V2V”（以下简称“本服务”）的使用条件。当前，本服务作为原型提供，条款也处于草案版本。使用本服务时，用户需要同意这些条款。",
+    "desc4": "创建日期：2024年9月19日",
+    "term1": "第1条（适用范围）",
+    "term1Desc1": "本条款旨在定义公司与用户之间关于本服务提供和使用的权利和义务关系。用户应根据这些条款使用本服务。",
+    "term1Desc2": "如果条款内容与本服务相关的单独使用条款不同，以单独使用条款为准。",
+    "term2": "第2条（定义）",
+    "term2Desc": "本条款旨在定义公司与用户之间关于本服务提供和使用的权利和义务关系。用户应根据这些条款使用本服务。",
+    "term3": "第3条（账号创建）",
+    "term3Desc1": "使用本服务，用户需要设置电子邮件地址和密码并创建账号。此外，还需要注册姓名。",
+    "term3Desc2": "如果账号创建时提供的信息虚假，公司有权暂停或删除该账号。",
+    "term4": "第4条（费用及支付方式）",
+    "term4Desc1": "目前，本服务的收费体系和支付方式尚未确定。一旦费用和支付详情确定，将更新条款并通知用户。",
+    "term5": "第5条（禁止事项）",
+    "term5Desc1": "用户在使用本服务时不得从事以下行为：",
+    "term5Desc2": "将本服务用于政治活动，特别是禁止以支持政治家、政党、派系或政治组织的活动为目的的使用。",
+    "term5Desc3": "宣传或贬低特定的政治家、政党、派系或政治组织的行为。",
+    "term5Desc4": "侵犯公司或第三方的版权、商标权或其他知识产权的行为。",
+    "term5Desc5": "未经允许，模仿政治家、名人或普通人的声音。",
+    "term5Desc6": "侵犯公司或第三方的版权、商标权或其他知识产权的行为。",
+    "term5Desc7": "其他违反法律、公序良俗或公司认为不适当的行为。",
+    "term6": "第6条（服务中止等）",
+    "term6Desc1": "公司可以在以下情况下，无需事先通知，暂停或中止本服务的全部或部分：",
+    "term6Desc2": "进行本服务相关的计算机系统维护检查或更新时。",
+    "term6Desc3": "因自然灾害、火灾、停电或其他不可抗力导致难以提供本服务的情况。",
+    "term6Desc4": "因事故停止计算机或通信线路等时。",
+    "term6Desc5": "其他公司认为难以提供本服务的情况。",
+    "term7": "第7条（使用限制及账号注销）",
+    "term7Desc1": "公司有权在用户符合以下任何情况时，无需事先通知，暂停使用或注销账号：",
+    "term7Desc2": "违反本条款的任何规定。",
+    "term7Desc3": "如果发现注册信息虚假。",
+    "term7Desc4": "其他公司认为使用本服务不适当的情况。",
+    "term8": "第8条（免责事项）",
+    "term8Desc1": "除非公司有故意或重大过失，否则公司不承担损害赔偿责任。",
+    "term8Desc2": "公司对用户间或与第三方因使用本服务而产生的争议不承担任何责任。",
+    "term9": "第9条（条款变更）",
+    "term9Desc": "公司有权在认为必要的情况下随时更改条款而无需事先通知。更改后的条款自公司另行规定的情况下以外，从显示在本服务上的时间起生效。",
+    "term10": "第10条（适用法律及司法管辖）",
+    "term10Desc": "本条款解释适用日本法律。因本服务引起的争议，由东京地方法院作为第一审专属合意管辖法院。"
+  },
+  "cloneTelePrompter": {
+    "line1": {
+      "text": "大家好！"
+    },
+    "line2": {
+      "text": "我真的很期待今天能再次和大家交谈。"
+    },
+    "line3": {
+      "text1": "这次，我想谈谈最近在人工智能和技术方面的显著进展，以及它的历史。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line4": {
+      "text": "那么，我们开始吧！"
+    },
+    "line5": {
+      "text": "人工智能（AI）的历史可以追溯到20世纪50年代。"
+    },
+    "line6": {
+      "text1": "在那个时候，计算机科学的先驱们目标是通过机器来再现人类智能。先驱们设定了一个宏大的目标。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": "",
+      "text8": "",
+      "text9": "",
+      "text10": ""
+    },
+    "line7": {
+      "text1": "1956年举行的达特茅斯会议象征着AI研究的曙光，被认为是一个决定性事件。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": ""
+    },
+    "line8": {
+      "text1": "之后，AI研究经历了一段停滞期，但在20世纪80年代，专家系统的出现重新引起了人们的关注。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": ""
+    },
+    "line9": {
+      "text": "然而，由于缺乏足够的计算能力和数据，预期的结果并未实现。"
+    },
+    "line10": {
+      "text1": "进入21世纪，随着大数据的积累和计算能力的显著提高，AI研究进入了一个新的阶段。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line11": {
+      "text1": "特别是深度学习技术的发展，在图像和语音识别等领域取得了革命性的成果。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line12": {
+      "text": "例如，由于AI的进步，自动驾驶技术有了很大的提高。"
+    },
+    "line13": {
+      "text": "现在的汽车可以通过处理从传感器和摄像头收集的信息实现自主驾驶。"
+    },
+    "line14": {
+      "text1": "这带来了减少交通事故和提高运输效率的期望。",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line15": {
+      "text": "此外，自然语言处理领域也取得了显著的进展。"
+    },
+    "line16": {
+      "text": "AI现在能够理解人类语言，并能执行翻译、总结甚至生成文本等任务。"
+    },
+    "line17": {
+      "text": "这一技术对促进国际交流和信息共享至关重要。"
+    },
+    "line18": {
+      "text1": "此外，AI也被应用于医疗领域。",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line19": {
+      "text1": "在疾病的早期诊断和治疗方法的开发中，AI分析了大量数据并提供了有价值的见解。",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "text7": ""
+    },
+    "line20": {
+      "text": "结果是，有可能拯救许多生命。"
+    },
+    "line21": {
+      "text": "然而，AI的发展也面临着一些挑战。"
+    },
+    "line22": {
+      "text1": "有许多问题需要解决，例如伦理问题、隐私保护以及消除偏见。",
+      "text2": "",
+      "text3": "",
+      "text4": ""
+    },
+    "line23": {
+      "text": "因此，在技术发展过程中，需要认真考虑如何利用这项技术。"
+    },
+    "line24": {
+      "text": "最后，我们必须继续学习，以充分受益于这项技术。"
+    },
+    "line25": {
+      "text": "让我们思考如何理解新技术并将其融入我们的生活和工作中。"
+    },
+    "line26": {
+      "text": "通过这样做，我们可以构建一个更丰富的未来。"
+    },
+    "line27": {
+      "text": "感谢你们的倾听。"
+    },
+    "line28": {
+      "text": "希望今天我讲的内容能帮助你们加深理解。"
+    },
+    "line29": {
+      "text": "我将继续带来最新的信息和有趣的话题，所以请期待下次再见。"
+    },
+    "line30": {
+      "text": "下次见，保重！"
+    }
+  },
+  "faqs": {
+    "categories": {
+      "all": "全部",
+      "usage": "使用方法",
+      "account": "账户",
+      "system": "系统",
+      "support": "支持",
+      "data": "数据",
+      "pricing": "定价",
+      "other": "其他"
+    },
+    "usage": {
+      "faq1": {
+        "title": "如何删除会话？",
+        "desc": "在iOS和Android设备上，在“录音记录”标签中显示会话时，向左滑动即可删除录音。"
+      },
+      "faq2": {
+        "title": "V2V可以用来做什么？",
+        "desc": "V2V将对话转录为文字，便于搜索和共享。适用于会议或采访时的笔记记录、驾驶时记录灵感或转录音频文件等。此外，在录音时还可以拍照记录。"
+      },
+      "faq3": {
+        "title": "V2V支持Zoom录音吗？",
+        "desc": "目前尚未提供支持Zoom或Teams的扩展功能/插件，但正在开发中。"
+      },
+      "faq4": {
+        "title": "可以录制电话通话吗？",
+        "desc": "目前尚不正式支持智能手机的通话录音功能。建议将电话设置为扬声器模式，并用另一台设备进行录音作为替代方案。"
+      },
+      "faq5": {
+        "title": "如何提高转录的准确性？",
+        "desc": "请将录音设备靠近发言人，并确保声音清晰可听。尽量减少背景噪音或音乐，避免多人同时发言。"
+      },
+      "faq6": {
+        "title": "删除的会话可以恢复吗？",
+        "desc": "请注意，删除的数据无法恢复。"
+      },
+      "faq7": {
+        "title": "可以编辑转录的文本吗？",
+        "desc": "不支持编辑功能。"
+      },
+      "faq8": {
+        "title": "可以将转录的文本导出到其他应用吗？",
+        "desc": "点击屏幕右上角的“复制”按钮，文本将复制到剪贴板，可粘贴到任何地方。"
+      },
+      "faq9": {
+        "title": "如何共享转录的文本？",
+        "desc": "点击屏幕右上角的“复制”按钮，文本将复制到剪贴板，可粘贴到任何地方。"
+      },
+      "faq10": {
+        "title": "可以多人同时使用V2V吗？",
+        "desc": "是的，可以多人同时使用。"
+      },
+      "faq11": {
+        "title": "可以翻译用V2V创建的会议记录吗？",
+        "desc": "是的，可以使用自动翻译功能翻译会议记录。"
+      },
+      "faq12": {
+        "title": "录音中出现噪音时，是否有去除功能？",
+        "desc": "是的，配备了噪音去除功能选项。但对于有多个说话者的录音或需要保留原始音频的情况，不推荐使用噪音去除功能。由于处理过程，可能会导致部分说话者声音被去除或音频失真。"
+      },
+      "faq13": {
+        "title": "可以对会议录音进行转录吗？",
+        "desc": "会议录音可以通过将视频文件转换为MP3格式并使用上传功能进行转录。"
+      },
+      "faq14": {
+        "title": "可以调整转录速度吗？",
+        "desc": "无法调整转录速度。此外，速度还受网络质量的影响，因此请确保在良好的网络环境下使用V2V。"
+      },
+      "faq15": {
+        "title": "是否会插入时间戳？",
+        "desc": "是的，每次发言都会插入时间戳。"
+      }
+    },
+    "account": {
+      "faq1": {
+        "title": "如何删除V2V账户？",
+        "desc": "请联系 kenji.sakuramoto@at-peak.com 。"
+      },
+      "faq2": {
+        "title": "删除账户后数据会怎样？",
+        "desc": "删除账户后，数据将被完全删除且无法恢复。"
+      },
+      "faq3": {
+        "title": "可以更改账户注册时的邮箱地址吗？",
+        "desc": "是的，可以更改邮箱地址。请联系 kenji.sakuramoto@at-peak.com 。"
+      },
+      "faq4": {
+        "title": "如何注册账户？",
+        "desc": "在V2V注册页面输入邮箱地址和密码即可完成注册。"
+      },
+      "faq5": {
+        "title": "如何登录？",
+        "desc": "使用注册的邮箱地址和密码登录即可。"
+      }
+    },
+    "system": {
+      "faq1": {
+        "title": "支持哪些设备？",
+        "desc": "V2V可通过网页浏览器使用。iOS版和Android版应用预计将于2024年底发布。"
+      },
+      "faq2": {
+        "title": "V2V的最新版本是？",
+        "desc": "可以从 https://pastebin.com/z3nqZkKg 检查最新版本号。此外，点击个人资料图标后可在页面底部查看当前网站版本号。"
+      },
+      "faq3": {
+        "title": "使用时需要网络连接吗？",
+        "desc": "是的，实时转录需要稳定的网络连接（推荐Wi-Fi）。"
+      },
+      "faq4": {
+        "title": "支持哪些语言？",
+        "desc": "支持英语、中文、越南语、德语、法语、韩语、俄语、意大利语、西班牙语、印地语、泰语和阿拉伯语。未来将支持更多语言。"
+      },
+      "faq5": {
+        "title": "V2V是如何运作的？",
+        "desc": "V2V基于云技术运行，提供实时语音识别和翻译功能。"
+      },
+      "faq6": {
+        "title": "支持方言吗？",
+        "desc": "目前支持标准日语和英语，对某些方言的支持有限。"
+      },
+      "faq7": {
+        "title": "翻译的准确性如何？",
+        "desc": "标准对话的翻译准确性较高，但专业术语或特殊表达的准确性可能有所波动。"
+      },
+      "faq8": {
+        "title": "可以离线使用吗？",
+        "desc": "无法离线使用，需要互联网连接。"
+      },
+      "faq9": {
+        "title": "是否支持与其他视频会议工具的集成？（如：Teams、Webex）",
+        "desc": "目前提供与Microsoft Teams的集成功能。Google Meet和Webex的集成功能正在计划中。"
+      },
+      "faq10": {
+        "title": "有桌面应用程序吗？",
+        "desc": "V2V基于浏览器运行，未提供桌面应用程序。"
+      },
+      "faq11": {
+        "title": "可以支持专业术语和行业术语吗？",
+        "desc": "可以通过提前训练特定的术语来提高识别准确性。这项功能可通过企业版计划提供，详情请联系 kenji.sakuramoto@at-peak.com 。"
+      },
+      "faq12": {
+        "title": "能区分多个发言者吗？",
+        "desc": "录音功能和音频上传功能可由AI区分多个发言者并为每位发言者转录发言。但实时话者分离功能暂时不支持。"
+      },
+      "faq13": {
+        "title": "支持哪些音频文件格式？",
+        "desc": "支持MP3格式。"
+      },
+      "faq14": {
+        "title": "支持哪些操作系统？",
+        "desc": "支持所有可运行Chrome浏览器的操作系统（推荐使用Chrome）。为确保音质，建议使用耳机。"
+      },
+      "faq15": {
+        "title": "支持哪些浏览器？",
+        "desc": "推荐使用Chrome，但其他浏览器也可使用。不过在其他浏览器上的质量可能无法得到保证。"
+      },
+      "faq16": {
+        "title": "推荐的网络速度是多少？",
+        "desc": "推荐使用快速且稳定的连接（10Mbps及以上）。"
+      },
+      "faq17": {
+        "title": "V2V运行所需的PC配置是什么？",
+        "desc": "需要能流畅运行Chrome浏览器的PC，并具备麦克风和扬声器（推荐使用耳机）。"
+      }
+    },
+    "support": {
+      "faq1": {
+        "title": "我该将反馈发送到哪里？",
+        "desc": "请通过邮件发送至 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq2": {
+        "title": "如果无法登录该怎么办？",
+        "desc": "如果忘记密码，请使用重置功能，或联系 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq3": {
+        "title": "如果忘记了密码该怎么办？",
+        "desc": "请使用密码重置链接设置新密码。"
+      },
+      "faq4": {
+        "title": "关于 V2V 的问题可以在哪里咨询？",
+        "desc": "详细信息请联系 kenji.sakuramoto@at-peak.com。"
+      }
+    },
+    "data": {
+      "faq1": {
+        "title": "数据是否会被安全存储？",
+        "desc": "我们确保您的数据隐私和安全。所有数据均经过加密并存储在安全的数据中心中。详情请参阅我们的使用条款和隐私政策。"
+      },
+      "faq2": {
+        "title": "我的数据存储在哪里？",
+        "desc": "您的数据安全地存储在云服务器上。"
+      },
+      "faq3": {
+        "title": "数据备份是如何进行的？",
+        "desc": "我们定期进行备份，以应对灾难恢复的需要。"
+      },
+      "faq4": {
+        "title": "是否提供双重身份验证？",
+        "desc": "目前尚未提供双重身份验证选项，但我们的安全措施十分完善。"
+      },
+      "faq5": {
+        "title": "关于 V2V 的安全措施是什么？",
+        "desc": "数据经过加密，并在安全的环境中受到保护。"
+      },
+      "faq6": {
+        "title": "数据加密是如何实现的？",
+        "desc": "数据使用 AES-256 进行加密。"
+      }
+    },
+    "pricing": {
+      "faq1": {
+        "title": "是否需要费用？",
+        "desc": "详情请联系 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq2": {
+        "title": "是否提供免费试用？",
+        "desc": "是的，我们提供免费试用。"
+      },
+      "faq3": {
+        "title": "费用计划是怎样的？",
+        "desc": "关于详细的费用计划，请联系 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq4": {
+        "title": "录音数据的存储期限是多久？",
+        "desc": "数据的存储期限根据订阅计划而有所不同。"
+      },
+      "faq5": {
+        "title": "录音数据的容量限制是多少？",
+        "desc": "每个计划的限制不同，详情请联系我们。"
+      }
+    },
+    "other": {
+      "faq1": {
+        "title": "V2V 的开发公司是？",
+        "desc": "由株式会社 At-Peak 开发。"
+      },
+      "faq2": {
+        "title": "V2V 是否提供 API？",
+        "desc": "可以提供 API，详情请联系 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq3": {
+        "title": "V2V 的使用条款在哪里可以查看？",
+        "desc": "详情请联系 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq4": {
+        "title": "隐私政策在哪里可以查看？",
+        "desc": "详情请联系 kenji.sakuramoto@at-peak.com。"
+      },
+      "faq5": {
+        "title": "在某些司法管辖区，录音是否需要他人的法律许可？",
+        "desc": "这取决于您所在的地区和具体情况。建议调查并了解您所在地区有关录音的法律。"
+      }
+    }
+  },
+  "language": {
+    "en_US": "英语",
+    "ja_JP": "日语",
+    "vi_VN": "越南语",
+    "zh_CN": "中文",
+    "de_DE": "德语",
+    "fr_FR": "法语",
+    "ko_KR": "韩语",
+    "it_IT": "意大利语",
+    "es_ES": "西班牙语",
+    "ru_RU": "俄语",
+    "hi_IN": "印地语",
+    "th_TH": "泰语",
+    "ar_SA": "阿拉伯语"
+  },
+  "meetingRemindModal": {
+    "title": "如何有效利用V2V会议",
+    "subTitle": "※ 尤其是在多语言会议中",
+    "desc1": "意识到你的听众，慢慢说话。",
+    "desc2": "用清晰易懂的声音和语调讲话。",
+    "desc3": "分段讲话可以使翻译后的音频更快传达到听众，接近自然对话。",
+    "desc4": "说话速度过快可能会出现V2V提示。",
+    "desc5": "一旦进入会议，语言设置将无法更改。如果需要更改，请按返回按钮，调整设置并重新进入。",
+    "desc6": "（PC用户）按空格键即可打开/关闭麦克风或举手！",
+    "desc7": "【仅限PC】可以在设置页面调整麦克风输入和扬声器输出。",
+    "desc8": "【翻译功能】如需同时听到原音和翻译音，请使用支持双通道输出的耳机。各音量可以通过右上角的扬声器图标进行调整。"
+  },
+  "privateMeetingTooltip": {
+    "title": "私人会议",
+    "desc1": "如果将会议室设置为私密，其他用户将无法看到。",
+    "desc2": "要加入私密会议室，您需要分享会议链接。",
+    "desc3": "会议链接可以通过右上角的链接按钮共享，该按钮在您加入会议室后出现。",
+    "desc4": "与其他用户分享链接，以允许他们访问会议室。"
+  },
+  "setting": {
+    "microphoneTooltip": "选择您要使用的麦克风设备。",
+    "speakerTooltip": "选择音频输出设备。",
+    "sttTooltip": "STT（语音转文字）将语音音频转换为文本。我们建议使用最新的 \"V2\" 模型，它会自动添加标点符号，使转录更加自然（默认设置）。",
+    "ttsTooltip": "TTS（文本转语音）将文本转换为自然听感的音频。我们建议使用最新的 \"V2\" 模型（默认设置）。要启用语音克隆，请使用 \"语音克隆\" 设置。",
+    "reverseTooltip": "反向翻译是将翻译后的文本重新翻译回原始语言的过程。例如，如果将英语文本翻译成日语，另一位翻译者会在不查看原始文本的情况下将日语版本翻译回英语。通过比较原始文本和反向翻译的版本，可以客观地检查翻译的准确性。",
+    "reverseTooltipNote1": "此功能仅在",
+    "reverseTooltipNote2": "中可用",
+    "maskingTooltip": "在此添加需要隐藏的单词。在上传或保存时启用数据屏蔽功能，AI将在音频中用哔声替换这些单词，并在转录文本中隐藏它们以保护隐私。",
+    "sttTabDesc": "选择语音转文本引擎，添加自定义词汇，并设置短语中断时间。",
+    "aiTabDesc": "选择AI引擎，配置自动校正、数据屏蔽和实体提取。",
+    "ttsTabDesc": "选择文本转语音引擎，注册语音克隆，并设置播放方式。"
+  },
+  "shareHistoryMeeting": {
+    "shareThisProject": "分享此项目",
+    "sendInvite": "发送邀请",
+    "whoHasAccess": "谁有访问权限",
+    "inviteOthersByNameOrEmail": "通过姓名或电子邮件邀请他人",
+    "owner": "拥有者",
+    "canEdit": "可以编辑",
+    "viewOnly": "仅查看",
+    "you": "你",
+    "copyLink": "复制链接",
+    "success": "成功",
+    "somethingWentWrong": "出了点问题"
+  },
+  "clonedVoiceTips": {
+    "tip1": "(应用录音) 将显示一段可读的 2 分钟文本。",
+    "tip2": "(上传) 您可以从右上角的按钮上传语音样本。",
+    "tip3": "使用高质量的麦克风或设备进行录音。",
+    "tip4": "在无噪音的环境中录音。",
+    "tip5": "录制或上传多个 2 分钟的音频片段。",
+    "tip6": "用自然的语音和语速说话。",
+    "tip7": "包括几秒钟的情感高低变化可能会更有效。"
+  },
+  "entityLabel": {
+    "person": {
+      "title": "人物",
+      "desc": "人物，包括虚构的。",
+      "example": "约翰·多伊"
+    },
+    "norp": {
+      "title": "国籍/宗教/政治团体",
+      "desc": "国籍、宗教或政治团体。",
+      "example": "日本人、佛教徒、社会主义者"
+    },
+    "org": {
+      "title": "组织",
+      "desc": "公司、机构、组织等。",
+      "example": "谷歌、联合国、NASA"
+    },
+    "gpe": {
+      "title": "地理政治实体",
+      "desc": "国家、城市、州。",
+      "example": "日本、东京、加州"
+    },
+    "loc": {
+      "title": "地点",
+      "desc": "非地理政治实体的地点，例如山脉、水体。",
+      "example": "珠穆朗玛峰、太平洋"
+    },
+    "product": {
+      "title": "产品",
+      "desc": "物品、交通工具、食品等（不包括服务）。",
+      "example": "特斯拉Model 3、iPhone 15"
+    },
+    "event": {
+      "title": "事件",
+      "desc": "命名的飓风、战役、战争、体育赛事等。",
+      "example": "第二次世界大战、奥运会"
+    },
+    "work_of_art": {
+      "title": "艺术作品",
+      "desc": "书籍、歌曲等的标题。",
+      "example": "了不起的盖茨比、Imagine"
+    },
+    "language": {
+      "title": "语言",
+      "desc": "任何命名的语言。",
+      "example": "英语、日语"
+    },
+    "date": {
+      "title": "日期",
+      "desc": "绝对或相对的日期或时间段。",
+      "example": "2024年1月1日"
+    },
+    "time": {
+      "title": "时间",
+      "desc": "一天以内的时间。",
+      "example": "下午3:30、午夜"
+    },
+    "percent": {
+      "title": "百分比",
+      "desc": "百分比，包括 '%'.",
+      "example": "75%、3.14%"
+    },
+    "money": {
+      "title": "金额",
+      "desc": "货币价值，包括单位。",
+      "example": "$100、£50"
+    },
+    "quantity": {
+      "title": "数量",
+      "desc": "重量或距离等测量值。",
+      "example": "10 公斤、5 英里"
+    },
+    "ordinal": {
+      "title": "序数",
+      "desc": "“第一”、“第二”等。",
+      "example": "第一、第二"
+    },
+    "cardinal": {
+      "title": "基数",
+      "desc": "不属于其他类型的数字。",
+      "example": "1、100、250"
+    }
+  },
+  "sentiment": {
+    "positiveConversation": "积极对话",
+    "negativeConversation": "消极对话",
+    "sentimentScore": "情感分数",
+    "stackedBarChart": "堆叠条形图",
+    "scatterChart": "散点图",
+    "stackedBarChartTooltip": {
+      "title": "图表提供了对对话情感分析的摘要：",
+      "aggregateSentiment": "总体情感",
+      "aggregateSentimentDesc": "表示总体情感分数，通过所有对话的分数 * 强度的加权总和计算得出。",
+      "totalConversation": "总对话数",
+      "totalConversationDesc": "分析的短语或句子总数。",
+      "posNegConversation": "积极与消极对话",
+      "posNegConversationDesc": "显示为单一的水平条，积极对话堆叠在消极对话之上，便于比较。",
+      "bottomDesc": "此可视化帮助识别对话中的情感趋势，突出显示整体的积极或消极客户反馈。"
+    },
+    "scatterChartTooltip": {
+      "desc1": "此图表可视化了基于ID的口头短语随时间的情感变化。",
+      "desc2": "Y轴表示情感分数，范围从 -1（强烈消极）到 1（强烈积极）。",
+      "desc3": "每个圆圈的大小对应于情感的强度。",
+      "desc4": "积极的情感分数以绿色阴影表示，而消极的分数以红色阴影表示。",
+      "desc5": "将鼠标悬停在一个圆圈上，以查看短语的详细信息，包括说话者、情感分数和强度。"
+    },
+    "tableTooltip": {
+      "title": "上表提供了各种短语的情感分析，详细信息如下：",
+      "idDesc": "每个短语的唯一标识符。",
+      "speakerDesc": "发言者的用户名。",
+      "scoreDesc": "情感得分范围从 -1（强烈消极）到 1（强烈积极）。一条水平条形图可视化表示得分，绿色表示积极，红色表示消极值。您可以将鼠标悬停在条形上查看准确的得分值。",
+      "magnitudeDesc": "情感的强度，用比例橙色条形图表示以便快速可视化。",
+      "sentenceDesc": "所分析短语的文本。",
+      "bottomDesc": "使用上方的下拉菜单按说话者或情感（积极或消极）过滤。您还可以使用搜索框过滤特定短语，并通过单击任何列标题对表格进行排序。"
+    },
+    "dataTable": "数据表",
+    "speaker": "说话者",
+    "score": "得分",
+    "magnitude": "强度",
+    "sentence": "短语",
+    "filterSentences": "过滤短语...",
+    "allSpeakers": "所有说话者",
+    "allScores": "所有得分",
+    "positiveScores": "积极得分",
+    "negativeScores": "消极得分",
+    "notProcessTitle": "⚠️该录音未进行情感分析。",
+    "clickToProcess": "点击下面的按钮以分析并识别每个短语的情感。"
+  },
+  "speakerSegmentTooltip": {
+    "title": "（测试功能）启用说话者分段功能，以自动识别并标记录音中的不同说话者。此功能按说话者分离语音，使审阅和分析对话更容易。",
+    "subTitle": "⚠️ 注意",
+    "desc1": "准确性取决于音质、背景噪音、语音重叠和语音模式变化等因素。",
+    "desc2": "为获得最佳效果，请使用多通道针式麦克风设置，为每个说话者分配专用输入通道。",
+    "desc3": "仅针对2位说话者进行了优化。当有3位或更多说话者时，准确性可能会降低。"
+  },
+  "customWordsSttV2": {
+    "header": "STT的自定义词汇（仅适用于V2）",
+    "toolTip1": "添加最多50个在您的对话中经常使用或独特的词汇。",
+    "toolTip2": "这些词汇将帮助提高语音转文本对特定术语（如姓名、技术术语或行业术语）的准确性。",
+    "placeHolder": "添加特定名称或单词以提高识别率..."
+  },
+  "customEntityTooltip": {
+    "desc1": "💡创建您自己的类别，以识别录音中的特定术语或短语。",
+    "desc2": "例如，您可以创建一个名为“产品”的类别，并添加“笔记本电脑”、“平板电脑”和“智能手机”等词语。",
+    "desc3": "启用后，我们的实体提取功能将自动检测并标记您的转录中这些术语。"
+  },
+  "summaryAITemplate": {
+    "interview": "面试",
+    "meeting": "会议",
+    "podcast": "播客",
+    "business": "商务谈判",
+    "presentation": "演示",
+    "workshop": "工作坊",
+    "discussion": "讨论会"
+  },
+  "summaryAITemplateDetail": {
+    "description": "使用这个摘要模板，可以自动生成适应不同场景（如面试、会议、商务谈判等）的摘要和行动清单。议程、问题和决策都被组织得更高效，帮助您更快地理解内容，并清晰地确定下一步行动。",
+    "interview": {
+      "title": "面试",
+      "item1": "问题与答案",
+      "item2": "申请人的技能与经验",
+      "item3": "面试总结",
+      "item4": "评估要点",
+      "item5": "下一步行动"
+    },
+    "meeting": {
+      "title": "会议",
+      "item1": "会议议程",
+      "item2": "已作出的决策",
+      "item3": "待办事项",
+      "item4": "总结",
+      "item5": "问题"
+    },
+    "podcast": {
+      "title": "播客",
+      "item1": "节目概述",
+      "item2": "嘉宾介绍",
+      "item3": "主要话题总结",
+      "item4": "问题与讨论",
+      "item5": "预告下一期"
+    },
+    "business": {
+      "title": "商务谈判",
+      "item1": "提案详细信息",
+      "item2": "谈判要点",
+      "item3": "预算与条件",
+      "item4": "客户反馈",
+      "item5": "下一步行动"
+    },
+    "presentation": {
+      "title": "演示",
+      "item1": "演示总览",
+      "item2": "关键幻灯片总结",
+      "item3": "问答环节",
+      "item4": "重要反馈",
+      "item5": "下一步行动"
+    },
+    "workshop": {
+      "title": "工作坊",
+      "item1": "工作坊目标",
+      "item2": "每个环节的内容",
+      "item3": "参与者反馈",
+      "item4": "学习内容与待办事项",
+      "item5": "问题与讨论"
+    },
+    "discussion": {
+      "title": "讨论会",
+      "item1": "主要论点",
+      "item2": "结论或分歧意见",
+      "item3": "新想法与提议",
+      "item4": "已作出的决策",
+      "item5": "未来行动"
+    }
+  },
+  "microphoneTest": {
+    "randomize": "🎲 随机文本",
+    "startTest": "🎤 开始",
+    "note": "请在安静的地方进行测试。",
+    "microphoneDevice": "麦克风设备",
+    "totalWords": "总词数",
+    "accuracy": "准确性",
+    "historyTableTitle": "麦克风测试历史",
+    "originTexts": {
+      "text1": "空气清新而宁静，带着一丝泥土的味道。一个人缓缓前行，脚步声与大自然的轻柔低语融为一体。头顶上，光线在天空中变化，为场景涂上温暖、宁静的色调。",
+      "text2": "双手稳稳地在表面移动，整理物品使其井然有序。空间中充满了轻微的动作声和远处的活动声。完成后，这个区域呈现出平静与目的感，是付出努力的体现。",
+      "text3": "光线洒进一片安静的空间，照亮了缓缓漂浮的尘埃。有人坐在那里沉思，目光恍惚地反射着外界。窗外，生活的微弱声音持续着，提醒着外面繁忙的世界。",
+      "text4": "一群人聚集在一起交谈，声音交织成一幅共享思想的画卷。偶尔的笑声打破了平稳的话语流动。当他们散去时，空气变得轻松，回荡着他们的欢乐。",
+      "text5": "开放的空间里充满了人们的移动，每个人都在走着各自看不见的路径。空气中充斥着声音和气味，交织成一首不断变化的交响曲。在活动中，短暂的宁静提供了片刻的喘息。",
+      "text6": "一个人独自坐着，手指抚摸着一个小物件的边缘。周围的世界逐渐变成背景噪音，只剩下静静的反思。这种静谧感既稳定又短暂，是忙碌生活中难得的停顿。",
+      "text7": "水流持续流淌，声音在静谧的时刻中让人感到舒缓。一个人有条不紊地移动，专注地完成熟悉的任务。随着时间流逝，这种活动的节奏几乎让人感到冥想般的平静。",
+      "text8": "一天的开始，柔和的光线透过窗户，照亮了熟悉的空间。有人开始动起来，用小而有目的的动作开启了一天的日常。窗外，世界开始苏醒，早晨的声音渐渐响起。",
+      "text9": "工具轻轻地发出咔嚓声，双手小心翼翼地进行操作。每一个动作都是更大整体的一部分，默默地展示着耐心。时间悄然流逝，进度的节奏填满了整个空间。",
+      "text10": "一个人站在广阔景色的边缘，他们的轮廓被变化的光线勾勒出来。空气清凉，带着遥远、看不见的生命的回声。时间仿佛在这里停滞，每一口呼吸都提醒着当下的存在。"
+    },
+    "wercerModal": {
+      "recogAccuracy": "语音识别精度",
+      "visualizeTitle": "语音识别精度可视化",
+      "numberCorrectWord": "正确单词数量",
+      "numberReplacedWord": "替换错误单词数量",
+      "numberInsertedWord": "插入错误单词数量",
+      "numberDeletedWord": "删除错误单词数量",
+      "werErrorRate": "错误率 (WER)",
+      "legend1": "可理解的水平",
+      "legend1Desc": "（语音识别系统的最低目标精度）",
+      "legend2": "需要高精度的标准",
+      "legend2Desc": "（需要高精度的标准）",
+      "legend3": "播音员朗读稿件水平",
+      "legendValue": "{{value}}%以上",
+      "item": "项目",
+      "value": "值",
+      "targetValue": "目标值"
+    }
+  },
+  "tutorial": {
+    "title1": "探索教程，帮助您充分利用V2V！🚀",
+    "title2": "更多教程即将发布，敬请期待！",
+    "title3": "",
+    "data": {
+      "tutorial1": "🏠 主菜单和基本功能",
+      "tutorial2": "🎤 录音和AI总结",
+      "tutorial3": "🌐 实时对话翻译",
+      "tutorial4": "📅 会议中的V2V",
+      "tutorial5": "🤖 会议：AI自动响应",
+      "tutorial6": "📜 Teams会议机器人",
+      "tutorial7": "📂 管理和共享录音历史",
+      "tutorial8": "😊 情感分析",
+      "tutorial9": "🔍 实体提取",
+      "tutorial10": "🛡️ 数据屏蔽功能",
+      "tutorial11": "📝 用例1：实时录音查看检测PII",
+      "tutorial12": "📑 用例2：情景的AI总结模板",
+      "tutorial13": "📊 用例3：利用AI分析通话表现",
+      "tutorial14": "🔎 用例4：检索关键会议信息"
+    },
+    "welcome": {
+      "title": "欢迎使用V2V！",
+      "desc1": "快速浏览应用以便开始使用。"
+    },
+    "profileMenu": {
+      "title": "个人资料菜单",
+      "desc1": "点击这里管理您的账户。",
+      "desc2": "可以用来注销、更新设置或在需要时获取帮助。"
+    },
+    "translationTab": {
+      "title": "实时翻译",
+      "desc1": "打开此功能以立即翻译对话。",
+      "desc2": "对与说不同语言的人进行的会议非常有用。",
+      "desc3": ""
+    },
+    "recorderTab": {
+      "title": "录音机",
+      "desc1": "使用此标签录制音频。",
+      "desc2": "您还可以分享链接，让他人查看会议期间的实时转录。",
+      "desc3": ""
+    },
+    "audiosTab": {
+      "title": "转录标签",
+      "desc1": "在这里找到您所有的录音和转录。",
+      "desc2": "编辑它们，与您的团队共享，或获取快速的AI总结。",
+      "desc3": ""
+    },
+    "meetingTab": {
+      "title": "会议标签",
+      "desc1": "开始或加入会议以自动录音。",
+      "desc2": "转录将实时创建，便于参考。",
+      "desc3": ""
+    },
+    "startRecording": {
+      "title": "开始录音",
+      "desc1": "按此按钮开始录音。",
+      "desc2": "用于记录重要讨论或会议笔记。",
+      "desc3": ""
+    },
+    "firework": {
+      "title": "恭喜！",
+      "desc1": "您已完成首次教程！",
+      "desc2": "更多教程可通过个人资料图标访问。"
+    }
+  },
+  "meetingCreation": {
+    "v2vMeeting": {
+      "title": "创建 V2V 会议",
+      "headerText": "通过 V2V 创建会议",
+      "desc1": "分享会议链接以邀请多个用户参与。",
+      "desc2": "音频将被实时转录。",
+      "desc3": "支持通过翻译音频来适应多种语言。",
+      "desc4": "用户可以提问，AI 将自动回答。",
+      "desc5": "建议每个用户使用个人的 V2V 账号。"
+    },
+    "teamsMeeting": {
+      "title": "Teams 会议机器人",
+      "headerText": "添加 Teams 会议机器人",
+      "desc1": "用户需要手动添加 Teams 会议 URL。",
+      "desc2": "当加入请求被批准时，V2V 机器人将加入会议。",
+      "desc3": "机器人将自动转录会议音频。"
+    }
+  },
+  "questionTab": {
+    "header": "⚠️ 尚未输入任何问题",
+    "desc1": "请在下面的输入框中输入您的问题。",
+    "desc2": "AI 可以根据会议内容回答您的问题。",
+    "desc3": "其他用户也可以回答您的问题。"
+  }
+}

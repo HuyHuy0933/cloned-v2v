@@ -1,0 +1,1 @@
+export type AudioDeviceInfo = Omit<MediaDeviceInfo, "toJSON"> 
